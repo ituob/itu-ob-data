@@ -1,0 +1,19 @@
+== Approval of ITU-T Recommendations
+
+By AAP-58, it was announced that the following ITU-T Recommendations were approved, in accordance with the procedures outlined in Recommendation ITU-T A.8:
+
+* ITU-T F.743.7 (05/2019): Requirements for big data enhanced visual surveillance services
+* ITU-T F.743.8 (05/2019): Requirements for cloud computing platform supporting a visual surveillance system
+* ITU-T F.743.9 (05/2019): Use-cases and requirements for multimedia CDN
+* ITU-T F.746.9 (05/2019): Requirements and architecture for indoor conversational robot system
+* ITU-T F.749.10 (05/2019): Requirements for communication service of civilian unmanned aerial vehicle
+* ITU-T H.230 (05/2019): Frame-synchronous control and indication signals for audiovisual systems
+* ITU-T H.243 (05/2019): Procedures for establishing communication between three or more audiovisual terminals using digital channels up to 1920 kbit/s
+* ITU-T H.626.5 (05/2019): Architecture for intelligent visual surveillance systems
+* ITU-T H.643.1 (05/2019): Architecture for deployment of information centric network
+* ITU-T H.644.1 (05/2019): Functional architecture for virtual content delivery networks
+* ITU-T H.783 (V2) (05/2019): Digital signage: Audience measurement services
+* ITU-T H.846 (05/2019): Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 6: Personal Health Gateway
+* ITU-T H.849 (05/2019): Conformance of ITU-T H.810 personal health system: Personal Health Devices interface Part 9: Transcoding for Bluetooth Low Energy: Personal Health Devices
+* ITU-T T.873 (05/2019): Information technology - Digital compression and coding of continuous-tone still images: Reference Software
+ 

@@ -1,0 +1,23 @@
+= ITU Operational Bulletin
+:number: 1173
+:uri: www.itu.int/itu-t/bulletin
+:identifier: 1.VI.2019
+:cutoff-date: 2019-05-15
+:issn: 1564-5223
+
+Address:
+
+Place des Nations CH-1211
+Genève 20 (Switzerland)
+Tel: 	+41 22 730 5111
+E-mail:	itumail@itu.int
+
+Standardization Bureau (TSB)
+Tel:	+41 22 730 5211
+Fax:	+41 22 730 5853
+E-mail:	tsbmail@itu.int / tsbtson@itu.int
+
+Radiocommunication Bureau (BR)
+Tel:	+41 22 730 5560
+Fax:	+41 22 730 5785
+E-mail:	brmail@itu.int

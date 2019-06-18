@@ -1,0 +1,42 @@
+== List of ITU Carrier Codes
+
+(According to Recommendation ITU-T M.1400 (03/2013))
+(Position on 15 September 2014)
+(Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+(Amendment No. 79)
+
+
+Country or area/ISO code	Company Code	Contact
+  Company Name/Address	(carrier code)
+
+Germany (Federal Republic of) / DEU	ADD
+
+inovisio communications GmbH
+Annaberger Strasse 240
+D-09125 CHEMNITZ	INOV	Mr Michael Schräber
+Tel.:	+49 371 40300333
+Fax: 	+49 371 40300399
+Email: 	netzbetreiber@inovisio.de
+
+Troiline GmbH
+Poststrasse 105
+D-53840 TROISDORF	TROI	Mr. Michael Schmidt
+Tel.: 	+49 2241 888 528
+Email: 	schmidtm@troiline.de
+
+OpenNumbers GmbH
+Bulk Account
+Am Neuen Berg 3
+D-63755 ALZENAU	FLOPEN	Mr Bernd Buedenbender
+Tel.: 	+49 6023 70688 0
+Fax: 	+49 6023 70688 11
+Email: 	pda@opennumbers.de
+
+Stadtwerke Jülich GmbH
+An der Vogelstange 2a
+D-52428 JUELICH	JULINK	Mr Markus Bissel
+Tel.: 	+49 2461 625 247
+Fax: 	+49 2461 625 193
+Email: 	m.bissel@stadtwerke-juelich.de
+
+ 
