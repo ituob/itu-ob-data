@@ -1,0 +1,18 @@
+=== Service Restrictions
+
+See URL: www.itu.int/pub/T-SP-SR.1-2012
+
+[cols="a,a"]
+|===
+|Country/geographical area |OB
+
+| Seychelles| 1006 (p.13)
+| Slovakia| 1007 (p.12)
+| Malaysia| 1013 (p.5)
+| Thailand| 1034 (p.5)
+| São Tomé and Principe| 1039 (p.14)
+| Uruguay| 1039 (p.14)
+| Hong Kong, China| 1068 (p.4)
+| Ukraine| 1148 (p.5)
+
+|===

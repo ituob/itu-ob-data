@@ -1,0 +1,15 @@
+== Amendments to Service Publications
+
+include::amendments/00-abbrevs.adoc[]
+
+include::amendments/01-list-ships-maritime.adoc[]
+
+include::amendments/02-itcc-iin.adoc[]
+
+include::amendments/03-e164-country-codes.adoc[]
+
+include::amendments/04-mnc.adoc[]
+
+include::amendments/05-carrier-codes.adoc[]
+
+include::amendments/06-nnp.adoc[]

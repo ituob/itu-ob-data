@@ -1,7 +1,0 @@
-== Abbreviations used
-
-ADD	Insert		PAR	paragraph
-COL	Column		REP	replace
-LIR	Read		SUP	Delete
-P	page(s)
-

@@ -1,4 +1,4 @@
-== The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010))
+=== The International Public Telecommunication Numbering Plan (Recommendation ITU-T E.164 (11/2010))
 
 Note from TSB: Identification codes for international network
 

@@ -1,0 +1,13 @@
+== General Information
+
+include::general/01-lists-annexed.adoc[]
+
+include::general/02-approved-recommendations.adoc[]
+
+include::general/03-iptn.adoc[]
+
+include::general/04-nnp.adoc[]
+
+include::general/05-service-restrictions.adoc[]
+
+include::general/06-call-back.adoc[]
