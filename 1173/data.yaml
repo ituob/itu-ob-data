@@ -1,0 +1,94 @@
+current_release:
+  id: 1173
+  publication_date: 2019-06-01
+  cutoff_date: 2019-05-15
+  issn: 1564-5223
+
+authors:
+  - name: Place des Nations CH-1211
+    address: "Genève 20 (Switzerland)"
+    contacts:
+      phone: ["+41 22 730 5111"]
+      email: ["itumail@itu.int"]
+  - name: Standardization Bureau (TSB)
+    contacts:
+      phone: ["+41 22 730 5211"]
+      fax: ["+41 22 730 5853"]
+      email: ["tsbmail@itu.int", "tsbtson@itu.int"]
+  - name: "Radiocommunication Bureau (BR)"
+    contacts:
+      phone: ["+41 22 730 5560"]
+      fax: ["+41 22 730 5785"]
+      email: ["brmail@itu.int"]
+
+planned_releases:
+  - id: 1174
+    publication_date: 2019-06-15
+    cutoff_date: 2019-05-31
+
+general:
+
+  annexed_lists:
+    - source: "ob:1162"
+      name: >-
+        Mobile Network Codes (MNC) for the international identification plan for public networks and subscriptions (According to Recommendation ITU-T E.212 (09/2016))"
+      position_on: 15-12-2018
+      related_recommendations:
+        - body: ITU-T
+          code: X.121
+          date: 2000-10
+
+    - source: "ob:1096"
+      name: "Legal time 2016"
+
+    - source: "http://www.itu.int/ITU-T/inr/icc/index.html"
+      name: List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))
+
+  recommendations:
+    approved:
+      - code: F.743.7
+        date: 2019-05
+        name: "Requirements for big data enhanced visual surveillance services"
+        procedures: A.8
+
+  iptn:
+    assigned:
+      - applicant: DIDWW
+        network: DIDWW
+        country_code: 883
+        ident_code: 5170
+        date: 2019-05-08
+
+  nnp:
+    communications:
+      - country: SL
+        date: [2019-05-09, 2019-05-15]
+        _contents: sl_nnp_communications.adoc
+
+  callback_and_alt_call_procedures:
+    source: "http://www.itu.int/pub/T-SP-PP.RES.21-2011/"
+
+
+amendments:
+
+  ships_maritime:
+    - _op: SUP
+      id: US04
+      entity: >-
+        Seven Seas Communications Inc., 1700 East Las Olas Blvd., Suite 202,
+        Ft. Lauderdale, FL 33301, United States.
+      contact: Gary A. Cantor
+
+  iptn:
+    - _op: ADD
+      country_code: 883
+      ident_code: 5170
+      applicant: DIDWW
+      network: DIDWW
+      status: assigned
+
+  mnc:
+    - _op: SUP
+      area: Cyprus
+      code: "280 23"
+      network: Mundio Mobile Cyprus Ltd
