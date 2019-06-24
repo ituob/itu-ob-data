@@ -1,0 +1,44 @@
+annexed_lists:
+  published_in_ob:
+    - name: >-
+        Mobile Network Codes (MNC) for the international identification plan
+        for public networks and subscriptions
+      position_on: 15-12-2018
+      source: "1162"
+      related_recommendation:
+        body: ITU-T
+        code: E.212
+        date: 2016-09
+
+    - name: "Legal time 2016"
+      source: "1096"
+
+  available_online:
+    - name: List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))
+      source: "http://www.itu.int/ITU-T/inr/icc/index.html"
+
+recommendations:
+  approval_procedures: A.8
+  approved:
+    - code: F.743.7
+      date: 2019-05
+      name: "Requirements for big data enhanced visual surveillance services"
+
+iptn:
+  assigned:
+    - applicant: DIDWW
+      network: DIDWW
+      country_code: 883
+      ident_code: 5170
+      date: 2019-05-08
+
+sanc:
+  assigned:
+
+nnp:
+  communications:
+    - country:
+        name: Iran (Islamic Republic of)
+        code: 98
+      dates: [2019-05-13]
+      _contents: iran.adoc

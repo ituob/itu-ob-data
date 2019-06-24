@@ -1,0 +1,21 @@
+ships_maritime:
+  - _op: SUP
+    id: US04
+    entity: >-
+      Seven Seas Communications Inc., 1700 East Las Olas Blvd., Suite 202,
+      Ft. Lauderdale, FL 33301, United States.
+    contact: Gary A. Cantor
+
+iptn:
+  - _op: ADD
+    country_code: 883
+    ident_code: 5170
+    applicant: DIDWW
+    network: DIDWW
+    status: assigned
+
+mnc:
+  - _op: SUP
+    area: Cyprus
+    code: "280 23"
+    network: Mundio Mobile Cyprus Ltd
