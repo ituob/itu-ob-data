@@ -1,85 +1,80 @@
-notices:
+items:
 
-  - title: >-
-      List of Ship Stations and Maritime Mobile Service Identity Assignments
-      (List V)
-      of 2018
-      Section VI
-    type: ships_maritime
-    items:
+  - target:
+      publication: list_v_ships_maritime
+      issue: 2018
+      location: Section VI
+    changeset:
       SUP:
         US04:
-          entity: >-
+          legal_entity_name: |-
             Seven Seas Communications Inc., 1700 East Las Olas Blvd., Suite 202,
             Ft. Lauderdale, FL 33301, United States
-          contact: Gary A. Cantor
+          contact_name: Gary A. Cantor
 
-  - title: >-
-      List of Issuer Identifier Numbers
-      for the International Telecommunication Charge Card
-    rec: E.118
-    annex_to_ob: 1173
-    # annex_to_ob: 1161
-    amendment_no: 11
-    items:
+  - target:
+      publication: E118_IIN
+      position_on: 2018-12-01
+    changeset:
       Australia:
         LIR:
           "89 61 02":
-            company: >-
-              SingTel Optus Pty Limited
-              1 Lyonpark Road
-              MACQUARIE PARK NSW 2113
+            company:
+              name: SingTel Optus Pty Limited
+              address: |-
+                1 Lyonpark Road
+                MACQUARIE PARK NSW 2113
             contact:
               name: Tristan Thabtim
-              address: >-
+              address: |-
                 PO Box 888
                 NSW-1670 NORTH RYDE
               phone: +61 2 8082 7800
               fax: +61 2 8082 7100
               email: "Tristan.Thabtim@optus.com.au"
 
-  - title: >-
-      List of assigned Country Codes
-    rec: E.164
-    annex_to_ob: 1114
-    amendment_no: 9
-    items:
-      883:
-        ADD:
-          5170:
+  - target:
+      publication: E164_CC
+      position_on: 2016-12-15
+    changeset:
+      - op: ADD
+        location: "Note q"
+        date: 2019-05-08
+        items:
+          - code: 883 5170
             applicant: DIDWW
             network: DIDWW
             status: assigned
-            date: 2019-05-08
 
-  - title: >-
-      Mobile Network Codes (MNC) for the international identification plan
-      for public networks and subscriptions
-    rec: E.212
-    annex_to_ob: 1162
-    amendment_no: 9
-    items:
-      Cyprus:
-        SUP:
-          280 23:
+  - target:
+      publication: E212_MNC
+      position_on: 2018-12-15
+    changeset:
+      - op: SUP
+        location: "Cyprus"
+        items:
+          - code: 280 23
             network: Mundio Mobile Cyprus Ltd
+      - op: ADD
+        location: "Cyprus"
+        items:
+          - code: 280 02
+            network: CYTA
 
-  - title: >-
-      List of ITU Carrier Codes
-    rec: M.1400
-    annex_to_ob: 1060
-    amendment_no: 79
-    items:
+  - target:
+      publication: M1400_ICC
+      position_on: 2014-09-15
+    changeset:
       "Germany (Federal Republic Of) / DEU":
         ADD:
           INOV:
             company:
               name: inovisio communications GmbH
-              address: >-
+              address: |-
                 Annaberger Strasse 240
                 D-09125 CHEMNITZ
-              contact:
-                name: Mr Michael Schräber
-                phone: +49 371 40300333
-                fax: +49 371 40300399
-                email: netzbetreiber@inovisio.de
+              contact: |-
+                Mr Michael Schräber
+                +49 371 40300333
+                +49 371 40300399
+                netzbetreiber@inovisio.de

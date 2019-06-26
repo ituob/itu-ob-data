@@ -1,0 +1,9 @@
+id: E212_MNC
+title: >-
+  Mobile Network Codes (MNC)
+  for the international identification plan
+  for public networks and subscriptions
+recommendation:
+  body: ITU-T
+  code: E.212
+  version: 2016-09

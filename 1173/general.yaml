@@ -1,21 +1,6 @@
-annexed_lists:
-  published_in_ob:
-    - name: >-
-        Mobile Network Codes (MNC) for the international identification plan
-        for public networks and subscriptions
-      position_on: 15-12-2018
-      source: "1162"
-      related_recommendation:
-        body: ITU-T
-        code: E.212
-        date: 2016-09
-
-    - name: "Legal time 2016"
-      source: "1096"
-
-  available_online:
-    - name: List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))
-      source: "http://www.itu.int/ITU-T/inr/icc/index.html"
+lists_available_online:
+  - name: List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))
+    source: "http://www.itu.int/ITU-T/inr/icc/index.html"
 
 recommendations:
   approval_procedures: A.8
@@ -42,3 +27,24 @@ nnp:
         code: 98
       dates: [2019-05-13]
       _contents: iran.adoc
+
+notices:
+  - title: Approved recommendations
+
+  - title: Annexed lists
+    type: annexed_lists
+    items:
+      available_online:
+        - name: List of ITU Carrier Codes (ITU-T Rec. M.1400 (03/2013))
+          source: "http://www.itu.int/ITU-T/inr/icc/index.html"
+
+  - title: Telephone Service
+    type: tel_service
+    rec: E.164
+    url: http://www.itu.int/itu-t/inr-nnp
+    items:
+      "Iran (Islamic Republic of)":
+        country_code: 98
+        communications:
+          dates: [2019-05-13]
+          _contents: iran.adoc
