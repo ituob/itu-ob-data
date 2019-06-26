@@ -1,7 +1,7 @@
 items:
 
   - target:
-      publication: list_v_ships_maritime
+      publication: R_SP_LM.V
       issue: 2018
       location: Section VI
     changeset:
