@@ -17,8 +17,13 @@ A message may be an amendment, or otherwise be a notice of general kind.
 Always specifies the target being amended and the _changeset_.
   
 * Amendment target: references the original publication being amended.
-  Specifies _type_ (classifying original publication)
-  and _ref_ (identifying specific issue of said publication).
++
+Must specify _publication_ (specifying original publication).
++
+Other parameters identify specific issue of the publication
+and depend on publication type:
+_position_on_ for Lists annexed to previous OB issues;
+_issue_ and _location_ for List V.
     
 * External publication: ITU publication not annexed to a previous OB issue,
   such as List V.
