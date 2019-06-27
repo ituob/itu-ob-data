@@ -1,31 +1,13 @@
-recommendations:
-  approval_procedures: A.8
-  approved:
-    - code: F.743.7
-      date: 2019-05
-      name: "Requirements for big data enhanced visual surveillance services"
-
-iptn:
-  assigned:
-    - applicant: DIDWW
-      network: DIDWW
-      country_code: 883
-      ident_code: 5170
-      date: 2019-05-08
-
-sanc:
-  assigned:
-
-nnp:
-  communications:
-    - country:
-        name: Iran (Islamic Republic of)
-        code: 98
-      dates: [2019-05-13]
-      _contents: iran.adoc
-
 messages:
-  - type: approved_recs
+
+  - type: approved_recommendations
+    approval_procedures: A.8
+    items:
+      - code: F.743.7
+        version: 2019-05
+
+  - type: custom
+    contents: iptn.adoc
 
   - type: running_annexes
     extra_links:
