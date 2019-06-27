@@ -40,8 +40,19 @@ is then published with dataset snapshot (List position) annexed to it.
 Subsequent OB issues may disseminate amendments to that dataset,
 until a new snapshot is published.
 
-== Commonly present general notice types
+= Message types
 
-* Telephone Service
-* Service Restrictions
-* Call-back and alternative calling procedures
+Each OB message specifies a type, and a set of fields specific to the type.
+
+Different representations of OB will use appropriate preset formatting
+for each message type, making use of those fields.
+
+The most generic type is `custom`, which only requires `contents` key to refer to a file
+that provides contents for the message (only AsciiDoc is supported for now).
+
+* running_annexes
+* approved_recommendations
+* service_restrictions
+* telephone_service
+* custom
+* publication_amendment
