@@ -2,6 +2,24 @@ Provides a formalized representation of OB and associated ITU publications.
 
 = Vocabulary
 
+* List: a dataset maintained by ITU in connection with a certain Recommendation.
+
+* List position: a snapshot of that dataset deemed as valid at given point in time.
++
+From time to time (could be every few years), a new snapshot of a List is created.
++
+This happens around planned publication date of next OB issue, and that issue
+is then published with dataset snapshot (List position) annexed to it.
++
+Subsequent OB issues may disseminate amendments to that dataset,
+until a new snapshot is published.
+
+* Active, relevant datasets or their latest snapshots disseminated by ITU
+  at given point in time are internally called “running annexes”.
++
+A list of such datasets is mentioned in the beginning of each OB issue
+under “Lists annexed” section.
+
 * ITU OB: ITU Operational Bulletin.
 
 * Message: a piece of information disseminated via ITU OB.
@@ -27,18 +45,6 @@ _issue_ and _location_ for List V.
     
 * External publication: ITU publication not annexed to a previous OB issue,
   such as List V.
-
-* List: a dataset maintained by ITU in connection with a certain Recommendation.
-
-* List position: a snapshot of that dataset deemed as valid at given point in time.
-+
-From time to time (could be every few years), a new snapshot of a List is created.
-+
-This happens around planned publication date of next OB issue, and that issue
-is then published with dataset snapshot (List position) annexed to it.
-+
-Subsequent OB issues may disseminate amendments to that dataset,
-until a new snapshot is published.
 
 = Message types
 
