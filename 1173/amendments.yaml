@@ -54,16 +54,11 @@ messages:
       publication: E212_MNC
       position_on: 2018-12-15
     changeset:
-      - op: SUP
-        location: "Cyprus"
-        items:
-          - code: 280 23
-            network: Mundio Mobile Cyprus Ltd
-      - op: ADD
-        location: "Cyprus"
-        items:
-          - code: 280 02
-            network: CYTA
+      Cyprus:
+        SUP:
+          "280 23": Mundio Mobile Cyprus Ltd
+        ADD:
+          "280 02": CYTA
 
   - type: amendment
     target:
@@ -73,13 +68,12 @@ messages:
       "Germany (Federal Republic Of) / DEU":
         ADD:
           INOV:
-            company:
-              name: inovisio communications GmbH
-              address: |-
-                Annaberger Strasse 240
-                D-09125 CHEMNITZ
-              contact: |-
-                Mr Michael Schräber
-                +49 371 40300333
-                +49 371 40300399
-                netzbetreiber@inovisio.de
+            name: inovisio communications GmbH
+            address: |-
+              Annaberger Strasse 240
+              D-09125 CHEMNITZ
+            contact: |-
+              Mr Michael Schräber
+              +49 371 40300333
+              +49 371 40300399
+              netzbetreiber@inovisio.de
