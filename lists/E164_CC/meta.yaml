@@ -1,5 +1,6 @@
 id: E164_CC
-title: List of Recommendation ITU-T E.164 Assigned Country Codes
+title:
+  en: List of Recommendation ITU-T E.164 Assigned Country Codes
 recommendation:
   body: ITU-T
   code: E.164

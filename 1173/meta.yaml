@@ -3,6 +3,10 @@ publication_date: 2019-06-01
 cutoff_date: 2019-05-15
 issn: 1564-5223
 
+languages:
+  en: yes
+  ru: yes
+
 authors:
   - address: >-
       Place des Nations CH-1211
