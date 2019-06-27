@@ -1,19 +1,24 @@
 messages:
 
+  - type: running_annexes
+    extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+
   - type: approved_recommendations
     approval_procedures: A.8
     items:
       - code: F.743.7
         version: 2019-05
 
-  - type: custom
+  - type: iptn
     contents: iptn.adoc
 
-  - type: running_annexes
-    extra_links:
-      - M1400_ICC
-      - BUREAUFAX
-      - ROA
+  - type: telephone_service
+    rec: E.164
+    url: http://www.itu.int/itu-t/inr-nnp
+    contents: ts.adoc
 
   - type: service_restrictions
     items:
@@ -23,9 +28,3 @@ messages:
       - country: Slovakia
         ob: 1007
         page: 12
-
-  - type: telephone_service
-    title: Telephone Service
-    rec: E.164
-    url: http://www.itu.int/itu-t/inr-nnp
-    contents: ts.adoc
