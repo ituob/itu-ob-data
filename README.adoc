@@ -48,17 +48,14 @@ _issue_ and _location_ for List V.
 
 = Message types
 
-Each OB message specifies a type, and a set of fields specific to the type.
-
-Different representations of OB will use appropriate preset formatting
-for each message type, making use of those fields.
-
-The most generic type is `custom`, which only requires `contents` key to refer to a file
-that provides contents for the message (only AsciiDoc is supported for now).
+Following message types currently are implmemented:
 
 * running_annexes
 * approved_recommendations
 * service_restrictions
+* iptn
 * telephone_service
-* custom
-* publication_amendment
+* amendment
+
+For now, most message types specify freeform contents
+using `contents: <AsciiDoc file path>` key.
