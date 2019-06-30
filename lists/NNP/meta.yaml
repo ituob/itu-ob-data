@@ -1,0 +1,11 @@
+id: NNP
+title:
+  en: National Numbering Plan
+  ru: Национальный план нумерации
+
+url: http://www.itu.int/itu-t/inr/nnp/index.html
+
+recommendation:
+  body: ITU-T
+  code: E.129
+  version: 2013-01
