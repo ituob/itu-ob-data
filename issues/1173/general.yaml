@@ -8,7 +8,7 @@ messages:
 
   - type: approved_recommendations
     items:
-      - { code: F.743.7, version: 2019-05 }
+      F.743.7: 2019-05
 
   - type: iptn
     contents: general/iptn.adoc
