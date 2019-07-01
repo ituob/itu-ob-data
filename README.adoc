@@ -23,7 +23,7 @@ Running annexes::
 effective datasets (Lists) or their latest snapshots (List positions)
 disseminated by ITU at given point in time.
 +
-A list of running annexes at the time of each OB issue’s publication
+A list of running annexes at the time of each OB issue’s publication date
 is provided in the beginning of that issue under “Lists annexed” section.
 A list of current annexes as of latest issue is provided
 on ITU site under ITU-T publications section.
