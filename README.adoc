@@ -1,6 +1,10 @@
+= ITU Operational Bulletin Data for www.ituob.org
+
+== General
+
 Provides a formalized representation of OB and associated ITU publications.
 
-= Vocabulary
+== Terms and definitions
 
 List::
 a dataset maintained by ITU in connection with a certain Recommendation.
@@ -17,14 +21,14 @@ Subsequent OB issues may disseminate amendments to that dataset,
 until a new snapshot is published.
 
 Lists annexed::
-see “Running annexes”.
+see "`Running annexes`".
 
 Running annexes::
 effective datasets (Lists) or their latest snapshots (List positions)
 disseminated by ITU at given point in time.
 +
 A list of running annexes at the time of each OB issue’s publication date
-is provided in the beginning of that issue under “Lists annexed” section.
+is provided in the beginning of that issue under "`Lists annexed`" section.
 A list of current annexes as of latest issue is provided
 on ITU site under ITU-T publications section.
 
@@ -44,27 +48,27 @@ an update to a service publication
 (a List position annexed to a previous OB issue, or an external publication).
 +
 Always specifies the target being amended.
-  
+
 Amendment target::
 references the original publication being amended.
 +
-Must specify _publication_ (specifying original publication)
-and _position_on_ (specifying the version/issue/snapshot).
+Must specify `publication` (specifying original publication)
+and `position_on` (specifying the version/issue/snapshot).
 
 External publication::
 ITU publication not annexed to a previous OB issue,
 such as List V, List VIII or NNP / Telephone Service dataset.
 
-= Message types
+== Message types
 
 Following message types currently are implemented:
 
-* running_annexes
-* approved_recommendations
-* service_restrictions
-* iptn
-* telephone_service
-* amendment
+* `running_annexes`
+* `approved_recommendations`
+* `service_restrictions`
+* `iptn`
+* `telephone_service`
+* `amendment`
 
 For now, most message types specify freeform contents
 using `contents: <AsciiDoc file path>` key.
