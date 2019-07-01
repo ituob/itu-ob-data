@@ -48,13 +48,9 @@ Always specifies the target being amended.
 Amendment target::
 references the original publication being amended.
 +
-Must specify _publication_ (specifying original publication).
-+
-Other parameters identify specific issue of the publication
-and depend on publication type:
-_position_on_ for Lists annexed to previous OB issues;
-_issue_ and _location_ for List V.
-    
+Must specify _publication_ (specifying original publication)
+and _position_on_ (specifying the version/issue/snapshot).
+
 External publication::
 ITU publication not annexed to a previous OB issue,
 such as List V, List VIII or NNP / Telephone Service dataset.
