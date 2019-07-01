@@ -48,7 +48,7 @@ _issue_ and _location_ for List V.
 
 = Message types
 
-Following message types currently are implmemented:
+Following message types currently are implemented:
 
 * running_annexes
 * approved_recommendations
