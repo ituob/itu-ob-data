@@ -6,6 +6,7 @@ issn: 1564-5223
 languages:
   en: yes
   ru: yes
+  zh: yes
 
 authors:
   - address: >-
@@ -17,6 +18,7 @@ authors:
   - name:
       en: Standardization Bureau (TSB)
       ru: Бюро стандартизации электросвязи (БСЭ)
+      zh: 电信标准化局（TSB）
     contacts:
       - { type: phone, data: "+41 22 730 5211", recommended: yes }
       - { type: fax, data: "+41 22 730 5853", recommended: yes }
@@ -25,6 +27,7 @@ authors:
   - name:
       en: Radiocommunication Bureau (BR)
       ru: Бюро радиосвязи (БР)
+      zh: 无线电通信局（BR）
     contacts:
       - { type: phone, data: "+41 22 730 5560", recommended: yes }
       - { type: fax, data: "+41 22 730 5785", recommended: yes }
