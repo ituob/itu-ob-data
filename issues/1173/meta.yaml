@@ -32,8 +32,3 @@ authors:
       - { type: phone, data: "+41 22 730 5560", recommended: yes }
       - { type: fax, data: "+41 22 730 5785", recommended: yes }
       - { type: email, data: "brmail@itu.int", recommended: yes }
-
-planned_issues:
-  - id: 1174
-    publication_date: 2019-06-15
-    cutoff_date: 2019-05-31
