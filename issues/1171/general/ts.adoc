@@ -1,0 +1,791 @@
+
+*Telephone Service +
+ (Recommendation ITU-T E.164)*
+
+url: www.itu.int/itu-t/inr/nnp
+
++
+
+*Armenia* *(country code +374)*
+
+Communication of 11.IV.2019:
+
+The _Ministry of Transport, Communication and Information Technologies_, Yerevan, announces the updated version of National Numbering Plan of Armenia.
+
++
+
+[width=642]
+|===
+.2+| _Marz name (Province)_ .2+| _Destination name_ 10+.>| _Existing N(S)N_
+
+| _NDC_ | _Additional digits_ 8+| _Inter-regional destination code + SN_
+
+5.2+a| +
+
+7+a| _Geographic numbers for +
+ fixed telephony services_
+
+2+| _VEON Armenia (Beeline)_ 2+| _Ucom_ 2+| _GNC-Alfa (Rostelecom)_ .<| _Crossnet_
+.>a| +
+
+a| +
+
+.>a| +
+
+.>a| +
+
+2+.>a| +
+
+2+.>a| +
+
+2+.>a| +
+
+2+.<a| +
+
+.4+| *Yerevan* .4+| Telephone Exchanges | 10 | - 2+.>| 2xxxxx, 3xxxxx, 4xxxxx, 5xxxxx, 6xxxxx, 7xxxxx, 8xxxxx, 9xxxxx 2+.>| 2+.>| 2+.<a| +
+
+| 11 | - 2+.>| 2+.>| 2xxxxx, 3xxxxx, 4xxxxx, 5xxxxx, 6xxxxx, 7xxxxx, 8xxxxx, 9xxxxx 2+.>| 2+.<a| +
+| 12 | - 2+.>| 2+.>| 2+.>a| 2xxxxx, +
+ 3xxxxx, +
+ 4xxxxx, +
+ 5xxxxx, +
+ 6xxxxx, +
+ 7xxxxx, +
+ 8xxxxx, +
+ 9xxxxx
+2+.<a| +
+| 15 | - 2+.>a| +
+
+2+.>a| +
+
+2+.>a| +
+
+2+.<| 2xxxxx, 3xxxxx, 4xxxxx, 5xxxxx, 6xxxxx, 7xxxxx, 8xxxxx, 9xxxxx
+.>| a| +
+
+.>| .>| 2+.>| 2+.>| 2+.>| 2+.<a| +
+
+.13+| *Kotayk* | *Abovyan* .5+| 222 .5+| - 2+.>a| 2xxxx, 3xxxx, 4xxxx, 7xxxx, +
+ 9xxxx
+2.4+| 5xxxx 2.4+| 81xxx 2.4+.<a| +
+
+| Arzni 2+.>| 94xxx
+| Arinj 2+.>| 98xxx
+| Geghashen 2+.>| 97xxx
+| Abovyan CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+| *Hrazdan* .3+| 223 .3+| - 2+.<a| 2xxxx, 3xxxx, 4xxxx, +
+ 9xxxx
+2+.>| 70xxx, 71xxx, 72xxx, 73xxx, 74xxx 2+.>a| 810xx, +
+ 811xx, +
+ 812xx, +
+ 813xx, +
+ 814xx
+2+.<a| +
+
+| Tsaghkadzor 2+| 5xxxx 2+| 75xxx, 76xxx, 77xxx, 78xxx, 79xxx 2+a| 815xx, +
+ 816xx, +
+ 817xx, +
+ 818xx, +
+ 819xx
+2+.<a| +
+
+| Hrazdan CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+| *Charentsavan* .2+| 226 .2+| - 2+.>a| 2xxxx, 4xxxx, +
+ 7xxxx
+2+| 3xxxx 2+| 81xxx 2+.<a| +
+
+| Charentsavan CDMA 2+| 6xxxx 2+| 2+| 2+.<a| +
+
+| *Eghvard* .3+| 224 .3+| - 2+a| 2xxxx, 3xxxx, 5xxxx, +
+ 9xxxx
+2.2+| 7xxxx 2+.>a| 810xx, +
+ 811xx, +
+ 812xx, +
+ 813xx, +
+ 814xx
+2+.<a| +
+
+| *Nor-Hachn* 2+| 4xxxx 2+a| 815xx, +
+ 816xx, +
+ 817xx, +
+ 818xx, +
+ 819xx
+2+.<a| +
+| Eghvard CDMA 2+.>| 6xxxx 2+| 2+| 2+.<a| +
+a| +
+
+a| +
+
+a| +
+
+a| +
+
+2+.>a| +
+
+2+a| +
+
+2+a| +
+
+2+.<a| +
+
+.>| a| +
+
+.>| .>| 2+.>| 2+.>| 2+.>| 2+.<a| +
+
+.14+| *Armavir* | *Echmiadzin* .3+| 231 .3+| - 2+a| 4xxxx, 5xxxx, +
+ 9xxxx
+2+| 2xxxx 2+a| 810xx, +
+ 811xx, +
+ 812xx, +
+ 813xx, +
+ 814xx, +
+ 815xx, +
+ 816xx
+2+.<a| +
+
+| Zvartnots 2+| 7xxxx 2+| 3xxxx 2+a| 817xx, +
+ 818xx, +
+ 819xx
+2+.<a| +
+| Echmiadzin CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+| *Armavir* .8+| 237 .8+| - 2+a| 2xxxx, 5xxxx, 7xxxx, +
+ 9xxxx 
+2+| 40xxx, 41xxx, 42xxx, 43xxx, 44xxx, 45xxx, 46xxx 2+a| 810xx, +
+ 811xx, +
+ 812xx, +
+ 813xx, +
+ 814xx, +
+ 815xx, +
+ 816xx
+2+.<a| +
+
+| Metsamor 2+.>| 3xxxx 2.6+| 47xxx, 48xxx, 49xxx 2.6+a| 817xx, +
+ 818xx, +
+ 819xx
+2+.<a| +
+| v. Armavir 2+| 71xxx 2+.<a| +
+| Bambakashat 2+| 79xxx 2+.<a| +
+| Mrgashat 2+| 72xxx 2+.<a| +
+| Nalbandyan 2+| 92xxx 2+.<a| +
+| Tandzyt 2+| 96xxx 2+.<a| +
+| Armavir CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+| *Baghramian* .3+| 233 .3+| - 2+.>a| 2xxxx, 7xxxx, +
+ 9xxxx
+2.2+| 3xxxx 2.2+| 81xxx 2+.<a| +
+
+| Myasnikian 2+.>| 74xxx 2+.<a| +
+
+| Baghramian CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+.>| a| +
+
+.>| .>| 2+.>| 2+.>| 2+.>| 2+.<a| +
+.10+| *Ararat* | *Vedi* .5+| 234 .5+| - 2.2+a| 2xxxx, 3xxxx, 4xxxx, 8xxxx, +
+ 9xxxx
+2+| 70xxx, 71xxx, 72xxx, 73xxx, 74xxx 2+a| 510xx, +
+ 511xx, +
+ 512xx, +
+ 513xx, +
+ 514xx
+2+.<a| +
+
+| *Ararat* 2.2+| 75xxx, 76xxx, 77xxx, 78xxx, 79xxx 2.2+a| 515xx, +
+ 516xx, +
+ 517xx, +
+ 518xx, +
+ 519xx
+2+.<a| +
+
+| Urtsadzor 2+| 86xxx 2+.<a| +
+
+| Vedi CDMA 2.2+| 6xxxx 2.2+.>| 2.2+.>| 2+.<a| +
+
+| Ararat CDMA 2+.<a| +
+
+| *Artashat* .3+| 235 .3+| - 2+.>a| 2xxxx, 5xxxx, 7xxxx, +
+ 9xxxx 
+2.2+| 3xxxx 2.2+| 81xxx 2+.<a| +
+
+| Norashen 2+.>| 92xxx, 93xxx 2+.<a| +
+
+| Artashat CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Masis* .2+| 236 .2+| - 2+.>a| 2xxxx, 3xxxx, 4xxxx, +
+ 9xxxx
+2+| 5xxxx 2+| 81xxx 2+.<a| +
+
+| Masis CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+.>| a| +
+
+.>| .>| 2+.>| 2+.>| 2+.>| 2+.<a| +
+
+.16+| *Aragatsotn* | *Ashtarak* .4+| 232 .4+| - 2+.>a| 2xxxx, 3xxxx, +
+ 9xxxx
+2.3+| 4xxxx 2.3+| 81xxx 2+.<a| +
+
+| Byurakan 2+| 94xxx 2+.<a| +
+
+| Ohanavan 2+| 90xxx 2+.<a| +
+
+| Ashtarak CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Talin* .5+| 249 .5+| - 2+.>a| 2xxxx, 3xxxx, 7xxxx, +
+ 9xxxx
+2.4+| 4xxxx 2.4+| 81xxx 2+.<a| +
+
+| Aragats 2+| 95xxx 2+.<a| +
+
+| Katnaghbyur 2+| 73xxx 2+.<a| +
+
+| Mastara 2+| 97xxx 2+.<a| +
+
+| Talin CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Aparan* .4+| 252 .4+| - 2+.>a| 2xxxx, 3xxxx, +
+ 9xxxx
+2.3+| 4xxxx 2.3+| 81xxx 2+.<a| +
+
+| Artavan 2+| 95xxx 2+.<a| +
+| Quchak 2+| 91xxx 2+.<a| +
+| Aparan CDMA 2+.>| 6xxxx 2.2+.>| 2.2+.>| 2+.<a| +
+| *Tsaghkahovit* .3+| 257 .>| 0 2+.>| 2xxx 2+.<a| +
+
+| Tsaghkahovit region .2+| - 2+.>| 2xxxx 2+| 3xxxx 2+| 81xxx 2+.<a| +
+
+| Tsaghkahovit CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+a| +
+
+a| +
+
+a| +
+
+a| +
+
+2+.>a| +
+
+2+.>a| +
+
+2+.>a| +
+
+2+.<a| +
+
+.14+| *Shirak* | *Gyumri* .3+| 312 .3+| - 2+a| 2xxxx, 3xxxx, 4xxxx, +
+ 5xxxx
+2+| 9xxxx 2+a| 850xx, +
+ 851xx, +
+ 852xx, +
+ 853xx, +
+ 854xx, +
+ 855xx, +
+ 856xx, +
+ 857xx, +
+ 858xx
+2+.<a| +
+
+| *Akhurian region* 2+| 7xxxx 2+.>| 80xxx, 81xxx, 82xxx, 83xxx, 84xxx 2+| 859xx 2+.<a| +
+
+| Gyumri CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Ashotsk region* .2+| 245 .2+| - 2+.>| 2xxxx, 3xxxx 2+| 4xxxx 2+| 81xxx 2+.<a| +
+
+| Ashotsk CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Amasia region* .2+| 246 .2+| - 2+.>| 2xxxx, 3xxxx 2+| 4xxxx 2+| 81xxx 2+.<a| +
+
+| Amasia CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Maralik* .3+| 242 .3+| - 2+.>a| 2xxxx, 3xxxx, 4xxxx, +
+ 9xxxx
+2.2+| 5xxxx 2.2+| 81xxx 2+.<a| +
+
+| Sarnaghbyur 2+.>| 31xxx 2+.<a| +
+
+| Maralik CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Artik* .3+| 244 .3+| - 2+a| 2xxxx, 3xxxx, 5xxxx, +
+ 9xxxx
+2.2+| 4xxxx 2.2+| 81xxx 2+.<a| +
+
+| Panik 2+.>| 92xxx 2+.<a| +
+| Artik CDMA 2+.>| 6xxxx 2.2+.>| 2.2+.>| 2+.<a| +
+
+| Arapi | 243 | 00 2+a| 5xx, +
+ 6xx
+2+.<a| +
+
+a| +
+
+a| +
+
+.>a| +
+
+.>a| +
+
+2+.>a| +
+
+2+.>a| +
+
+2+.>a| +
+
+2+.<a| +
+
+.13+| *Lori* | *Vanadzor* .2+| 322 .2+| - 2+.>| 2xxxx, 3xxxx, 4xxxx, 5xxxx, 60xxx, 61xxx, 62xxx, 63xxx, 64xxx, 65xxx, 66xxx, 9xxxx 2+| 7xxxx 2+| 81xxx 2+.<a| +
+
+| Vanadzor CDMA 2+| 6xxxx 2+.>| 2+.>| 2+.<a| +
+| *Spitak region* .2+| 255 .2+| - 2+.>| 2xxxx, 3xxxx 2+| 4xxxx 2+| 81xxx 2+.<a| +
+
+| Spitak CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Alaverdi* .4+| 253 .4+| - 2+.>| 2xxxx, 3xxxx, 4xxxx, 5xxxx 2.3+| 7xxxx 2.3+| 81xxx 2+.<a| +
+
+| Akhtala 2+| 52xxx 2+.<a| +
+
+| Tumanyan 2+| 57xxx 2+.<a| +
+
+| Alaverdi CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Tashir* .3+| 254 .3+| - 2+.>| 2xxxx, 7xxxx, 9xxxx 2.2+| 3xxxx 2.2+| 81xxx 2+.<a| +
+
+| Metsavan 2+.>| 94xxx 2+.<a| +
+
+| Tashir CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Stepanavan* .2+| 256 .2+| - 2+.>| 2xxxx, 3xxxx, 9xxxx 2+| 4xxxx 2+| 81xxx 2+.<a| +
+
+| Stepanavan CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+.>| a| +
+
+.>| .>| 2+.>| 2+.>| 2+.>| 2+.<a| +
+
+.12+| *Gegharkunik* | *Sevan* .2+| 261 .2+| - 2+.>| 2xxxx, 3xxxx, 9xxxx 2+| 4xxxx 2+| 81xxx 2+.<a| +
+
+| Sevan CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Martuni* .3+| 262 .3+| - 2+.>a| 2xxxx, 4xxxx, 5xxxx, 7xxxx, +
+ 9xxxx
+2.2+| 3xxxx 2.2+| 81xxx 2+.<a| +
+
+| Vardenik 2+.>| 52xxx, 53xxx 2+.<a| +
+
+| Martuni CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Gavar* .2+| 264 .2+| - 2+.>a| 2xxxx, 3xxxx, 4xxxx, +
+ 9xxxx
+2+| 5xxxx 2+| 81xxx 2+.<a| +
+
+| Gavar CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Vardenis* .2+| 269 .2+| - 2+.>a| 2xxxx, 3xxxx, 7xxxx, +
+ 9xxxx
+2+| 4xxxx 2+| 81xxx 2+.<a| +
+
+| Vardenis CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Chambarak* .3+| 265 .3+| - 2+.>a| 2xxxx, 3xxxx, +
+ 9xxxx
+2.2+| 4xxxx 2.2+| 81xxx 2+.<a| +
+
+| Vahan 2+.>| 96xxx 2+.<a| +
+
+| Chambarak CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+.>| a| +
+
+.>| .>| 2+.>| 2+.>| 2+.>| 2+.<a| +
+
+.19+| *Tavush* | *Ijevan* .4+| 263 .4+| - 2+.>a| 3xxxx, 4xxxx, 7xxxx, +
+ 9xxxx
+2.3+| 2xxxx 2.3+| 81xxx 2+.<a| +
+
+| Aygehovit 2+| 74xxx 2+.<a| +
+
+| Achajur 2+| 92xxx 2+.<a| +
+
+| Ijevan CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Berd* .5+| 267 .5+| - 2+.>a| 2xxxx, 5xxxx, 7xxxx, +
+ 9xxxx
+2.4+| 3xxxx 2.4+| 81xxx 2+.<a| +
+
+| Mosesgegh 2+| 96xxx 2+.<a| +
+
+| Navur 2+| 91xxx 2+.<a| +
+
+| Norashen 2+| 97xxx 2+.<a| +
+
+| Berd CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Noyemberian* .5+| 266 .5+| - 2+.>a| 2xxxx, 5xxxx, 7xxxx, +
+ 9xxxx
+2.4+| 3xxxx 2.4+| 81xxx 2+.<a| +
+
+| Voskepar 2+| 96xxx 2+.<a| +
+
+| Koti 2+| 99xxx 2+.<a| +
+
+| Koghb 2+| 52xxx, 53xxx 2+.<a| +
+
+| Noyemberian CDMA 2+| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Dilijan* .5+| 268 .>| - 2+.>a| 2xxxx, 3xxxx, +
+ 9xxxx
+2.3+| 4xxxx 2.3+| 81xxx 2+.<a| +
+
+| Haghartsin .>| 2+| 95xxx 2+.<a| +
+
+| Teghut .>| 2+| 97xxx 2+.<a| +
+
+| Dilijan (4 digits) .>| 0 2+.>| xxxx 2.2+.>| 2.2+.>| 2+.<a| +
+
+| Dilijan CDMA .>| - 2+.>| 6xxxx 2+.<a| +
+
+.>| a| +
+
+.>| .>| 2+.>| 2+.>| 2+.>| 2+.<a| +
+
+.10+| *Vayots dzor* | *Yeghegnadzor* .4+| 281 .4+| - 2+.>a| 2xxxx, 5xxxx, +
+ 9xxxx
+2.3+| 3xxxx 2.3+| 81xxx 2+.<a| +
+
+| Malishka 2+.>| 95xxx 2+.<a| +
+
+| Shatin 2+.>| 99xxx 2+.<a| +
+
+| Yeghegnadzor CDMA 2+| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Vaik* .3+| 282 .3+| - 2+.>| 2xxxx, 928xx, 929xx 2.2+| 3xxxx 2.2+| 81xxx 2+.<a| +
+
+| Vaik region 2+.>| 9xxxx 2+.<a| +
+
+| Vaik CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Jermuk* .3+| 287 .3+| - 2+.>a| 2xxxx, +
+ 9xxxx
+2.2+| 3xxxx 2.2+| 81xxx 2+.<a| +
+
+| Gndevaz 2+.>| 94xxx 2+.<a| +
+
+| Jermuk CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+.>| a| +
+
+.>| .>| 2+.>| 2+.>| 2+.>| 2+.<a| +
+
+.12+| *Syunik* | *Sisian region* .3+| 283 | - 2+.>a| 2xxxx, 7xxxx, 8xxxx, +
+ 9xxxx
+2+| 3xxxx 2+| 51xxx 2+.<a| +
+
+| Sisian (4 digits) .>| 0 2+.>| xxxx 2.2+.>| 2.2+.>| 2+.<a| +
+
+| Sisian CDMA .>| - 2+.>| 6xxxx 2+.<a| +
+
+| *Goris region* .2+| 284 .2+| - 2+.>a| 2xxxx, 3xxxx, 4xxxx, +
+ 9xxxx
+2+| 5xxxx 2+| 81xxx 2+.<a| +
+
+| Goris CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Kapan* .3+| 285 .3+| - 2+a| 2xxxx, 5xxxx, +
+ 9xxxx
+2+.>| 40xxx, 41xxx, 42xxx, 43xxx, 44xxx 2+.>a| 810xx, +
+ 811xx, +
+ 812xx, +
+ 813xx, +
+ 814xx
+2+.<a| +
+
+| Kajaran 2+| 3xxxx 2+.>| 45xxx, 46xxx, 47xxx, 48xxx, 49xxx 2+.>a| 815xx, +
+ 816xx, +
+ 817xx, +
+ 818xx, +
+ 819xx
+2+.<a| +
+
+| Kapan CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+| *Meghri* .4+| 286 .4+| - 2+a| 4xxxx, +
+ 9xxxx
+2+| 3xxxx 2+.>a| 810xx, +
+ 811xx, +
+ 812xx, +
+ 813xx, +
+ 814xx
+2+.<a| +
+
+| Agarak 2+.>| 2xxxx 2.2+| 5xxxx 2.2+a| 815xx, +
+ 816xx, +
+ 817xx, +
+ 818xx, +
+ 819xx
+2+.<a| +
+
+| Shvanidzor 2+| 95xxx 2+.<a| +
+
+| Meghri CDMA 2+.>| 6xxxx 2+.>| 2+.>| 2+.<a| +
+
+.>| a| +
+
+.>| .>| 2+.>| 2+.>| 2+.>| 2+.<a| +
+
+|===
+
++
+
++
+
++
+
++
+
+[width=623]
+|===
+.2+a| +
+
+.2+a| +
+
+3+| _Existing N(S)N_
+
+2+| _NDC_ | _SN_
+.3+| *Non-geographic number for mobile services* a| *VEON Armenia GSM +
+ (Beeline)*
+2+| 91, 96, 99, 43, 33 | xxxxxx
+
+a| *MTS Armenia GSM +
+ (Vivacell MTS)*
+2+| 77, 88, 93, 94, 98 | xxxxxx
+
+| *Ucom GSM (Ucom)* 2+| 41, 44, 55, 95 | xxxxxx
+
+a| +
+
+a| +
+
+2+a| +
+
+a| +
+
+a| +
+
+a| +
+
+3+| _Existing N(S)N_
+
+a| +
+
+a| +
+
+| _NDC_ | _Additional digits_ | _SN_
+
+.14+| *Non-geographical code for fixed telephony services* | *Internet Communications (Arminco)* .14+| 60 .14+| - .<| 27xxxx, 62xxxx, 66xxxx
+
+| *Dzoraghbyur Hamalir* .>| 28xxxx
+
+| *Hi-Tech Gateway* .<| 351xxx
+
+| *Web* .>| 36xxxx
+
+| *CrossNet* .>| 37xxxx, 40xxxx, 43xxxx, 47xxxx, 48xxxx, 49xxxx
+
+| *Netsys* .>| 39xxxx, 63xxxx
+
+| *Ucom* .>| 38xxxx, 42xxxx, 44xxxx, 50xxxx, 51xxxx, 52xxxx, 53xxxx, 54xxxx, 65xxxx
+
+| *Griar Telecom* .>| 45xxxx, 56xxxx, 57xxxx, 58xxxx, 59xxxx, 60xxxx
+
+| *GNC-Alfa* .>| 46xxxx, 71xxxx, 72xxxx, 73xxxx, 74xxxx, 75xxxx
+
+| *Ayter* .>| 64xxxx
+
+| *MTS Armenia* .>a| 61xxxx, 67xxxx, 68xxxx, 69xxxx, 70xxxx, +
+ 77/0000-1200,3300-3400,6600-6700, 7000-9200/, +
+ 78/0000-0800,7700-8900/, +
+ 80/0000-0100,0800-2400,7770-8990,9900-9999/, +
+ 81/0000-1200,8800-8999/
+
+| *HNet* .>| 82xxxx
+
+| *VEON Armenia* .>| 83xxxx, 84xxxx, 85xxxx
+
+| *Arpinet* .>| 86xxxx, 87xxxx, 88xxxx, 89xxxx, 90xxxx
+
+|===
+
+Contact:
+
+Ministry of Transport, Communication and Information Technologies +
+ 3/3 Vazgen Sargsyan Street +
+0010 YEREVAN +
+ Armenia +
+ Tel: +374 10590009 +
+ Fax: +374 10523862 +
+ E-mail: mailto:info@mtcit.am[info@mtcit.am] +
+ URL: www.mtcit.am
+
++
+
+*Burkina Faso* *(country code +226)*
+
+Communication of 12.IV.2019:
+
+The _Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)__,_ Ouagadougou_,_ announces the following updates to the national numbering plan Burkina Faso.
+
+•assignment of new prefix AB=01:
+
+[width=100%]
+|===
+.2+| _NDC (national destination code) or leading digits of N(S)N (national (significant) number)_ 2+| _N(S)N number length_ .2+a| _Usage of +
+ ITU-T E.164 number_
+.2+| _Additional information_ .2+| _Time and date of introduction_
+
+| _Maximum length_ | _Minimum length_
+| 01 | 8 | 8 | Non-geographic number - Mobile telephone service a| ONATEL-SA +
+ Burkina Faso
+a| 2019-04-15-00:00 +
+ (UTC)
+
+|===
+
+Contact:
+
+Autorité de Régulation des Communications Electroniques et des Postes (ARCEP) +
+B.P. 6437 +
+ OUAGADOUGOU 01 +
+ Burkina Faso +
+ Tel: +226 25 37 53 60/61/62 +
+ Fax: +226 25 37 53 64 +
+ E-mail: secretariat@arcep.bf +
+ URL: www.arcep.bf
+
+*Denmark (country code +45)*
+
+Communication of 12.IV.2019:
+
+The _Danish Energy Agency_, Copenhagen, announces the following updates to the national numbering plan of Denmark:
+
+* Withdrawal – Mobile communication services
+
+[width=100%]
+|===
+h| _Provider_ h| _Numbering series_ h| _Date of withdrawal_
+| Plenti ApS | 4940efgh | [[OLE_LINK25]][[OLE_LINK24]]31.XII.2018
+
+|===
+* Assignment – Mobile communication services
+
+[width=100%]
+|===
+h| _Provider_ h| _Numbering series_ h| _Date of assignment_
+| TDC A/S | 4940efgh | 1.I.2019
+| Telenor Connexion AB | 345defgh and 346defgh | 8.IV.2019
+| Supertel A/S | 7871efgh | 1.V.2019
+
+|===
+* Assignment – Fixed communication services
+
+[width=100%]
+|===
+h| _Provider_ h| _Numbering series_ h| _Date of assignment_
+| Viptel ApS | 70405fgh and 54404fgh | 8.IV.2019
+
+|===
+
++
+
+Contact:
+
+Danish Energy Agency
+
+Amaliegade 44
+
+1256 COPENHAGEN K
+
+Denmark +
+ Tel: +45 33 92 67 00 +
+ Fax: +45 33 11 47 43 +
+ E-mail: ens@ens.dk +
+ URL: www.ens.dk
+
++
+
+*Myanmar (country code +95)*
+
+Communication of 12.IV.2019:
+
+The _Ministry of Transport and Communications_, Nay Pyi Taw, announces that the following updated numbering scheme has been added to the national numbering plan of Myanmar:
+
+_Description of introduction of new resources for +
+ national E.164 numbering plan for country code + 95:_
+
+*AUTO EXCHANGE NUMBERING (Geographic)*
+
++
+
+[width=661]
+|===
+.2+| *Sr **No.* .2+| *Area** Code* 2+| *Subscriber **Number* .2+| *Area* .2+| *Type** of **Exchange* .2+| *Digit** Length**(including**area**code)* .2+| *Licensee* .2+| *Remark*
+
+a| *Exchange* *+*
+*Code*
+| *Station**Number*
+| 1 | 1 | 23 | 99 000 - 99 999 a| Yangon +
+ (Blue Ocean Call Center)
+| PABX | 8 | Myanma Post and Telecommunication a| +
+
+| 2 | 1 | 33 | 30 000 - 39 999 a| Yangon +
+ (MPT Satellite)
+a| +
+
+| 8 | Myanma Post and Telecommunication a| +
+| 3 | 58 | 51 | 000 - 999 | MYAWADDY | DMS-10 | 7 | Myanma Post and Telecommunication a| +
+| 4 | 63 | 20 | 28 000 - 28 999 | MAGWAY | ZTE SS | 9 | Myanma Post and Telecommunication a| +
+| 5 | 85 | 51 | 78 000 - 78 999 | YADANAPON TELEPORT | HUAWEI SS | 9 | Myanma Post and Telecommunication a| +
+| 6 | 56 | 20 | 20 000 - 23 999 | MANDALAY | ZTE (IP) | 9 | Myanma Post and Telecommunication a| +
+| 7 | 81 | 41 | 0 000 - 0 999 | NAUNGTAYAR | KY 1000 XM | 8 | Myanma Post and Telecommunication a| Replace 41 xxx +
+ with 410 xxx
+| 8 | 83 | 2070 | 000 - 999 | HPASAUNG/MESE | KY-1000 | 8 | Myanma Post and Telecommunication | Add AREA NAME MESE
+
+|===
+
++
+
+*Mobile Numbering*
+
++
+
+[width=661]
+|===
+a| *Sr +
+ No.*
+| *Area Code* | *Number series* | *System* a| *Digit Length +
+ (including area code)*
+| *Operator*
+
+| 1 | 9 | 67x xxx - xxx | WCDMA / GSM | 10 | Telecom International Myanmar Co., Ltd
+
+|===
+
++
+
+Contact:
+
+Ministry of Transport and Communications
+
+Posts and Telecommunications Department (PTD)
+
+Building No. 2,
+
+NAY PYI TAW
+
+Myanmar
+
+Tel: +95 67 407 225
+
+Fax: +95 67 407 216
+
+E-mail: dg.ptd@mptmail.net.mm
+
++
+
+
