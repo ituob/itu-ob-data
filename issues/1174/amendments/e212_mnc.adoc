@@ -1,0 +1,121 @@
+[width=604]
+|===
+a| +
+
+a| +
+
+a| +
+a| +
+
+a| 
+
+[width=552]
+|===
+.<a| *Mobile Network Codes (MNC) for the international identification plan +
+ for public networks and subscriptions +
+ (According to Recommendation ITU-T E.212 (05/2008)) +
+ (Position on 15 December 2018)*
+
+|===
+ +
+
+a| +
+a| +
+
+a| +
+
+a| +
+a| +
+
+a| 
+
+[width=552]
+|===
+.<a| (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018) +
+(Amendment No.10)
+
+|===
+ +
+
+a| +
+a| +
+
+a| +
+
+a| +
+a| +
+
+a| 
+
+[width=588]
+|===
+a| +
+
+a| +
+
+a| +
+
+a| +
+
+2+a| +
+a| +
+
+a| +
+
+a| 
+
+[width=574]
+|===
+| _*Country/Geographical area*_ | _*MCC+MNC \**_ | _*Operator/Network*_
+
+.2+.<| *Sri Lanka ADD* a| +
+
+a| +
+
+| 413 09 .<a| Hutchison Telecommunications Lanka (Pvt) Ltd. +
+ (Valid until 12 September 2021)
+.3+.<| *Uganda SUP* a| +
+
+a| +
+
+| 641 06 .<| Afrimax Uganda Limited
+| 641 26 .<| Lycamobile Network services Uganda Limited
+
+|===
+ +
+
+a| +
+
+2+a| +
+a| +
+
+a| +
+
+a| +
+
+a| +
+
+2+a| +
+a| +
+
+4+a| 
+
+[width=575]
+|===
+.<h| \_\_\_\_\_\_\_\_\_\_\_\_\* MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvilMNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
+
+|===
+ +
+
+a| +
+
+|===
+ +
+
+a| +
+
+|===
+
++
+
++

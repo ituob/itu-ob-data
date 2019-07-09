@@ -1,0 +1,39 @@
+
+*List of ITU Carrier Codes +
+ (According to Recommendation ITU-T M.1400 (03/2013)) +
+ (Position on 15 September 2014)*
+
+(Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014) +
+ (Amendment No. 80)
+
++
+
+[width=624]
+|===
+| _*Country or area/ISO code*_ | _*Company Code*_ | _*Contact*_
+
+| _*Company Name/Address*_ | _*(carrier code)*_ a| +
+
+|===
+
++
+
+_*Germany (Federal Republic of) / DEU*_*ADD*
+
++
+
+[width=643]
+|===
+a| Netzgesellschaft Herzebrock-Clarholz GmbH & Co.KG +
+ Am Rathaus 1 +
+ D-33442 HERZEBROCK-CLARHOLZ
+h| *19076* a| Mr Heinz-Dieter Wette +
+Tel.: +49 5245 444 135 +
+ Fax: +49 5245 444 137 +
+ Email: heinz-dieter.wette@gt-net.de
+
+|===
+
++
+
++
