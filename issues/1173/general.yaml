@@ -37,3 +37,21 @@ messages:
       - country: Slovakia
         ob: 1007
         page: 12
+      - country: Malaysia
+        ob: 1013
+        page: 5
+      - country: Thailand
+        ob: 1034
+        page: 5
+      - country: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country: Uruguay
+        ob: 1039
+        page: 14
+      - country: Hong Kong, China
+        ob: 1068
+        page: 4
+      - country: Ukraine
+        ob: 1148
+        page: 5
