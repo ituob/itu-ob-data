@@ -1,0 +1,61 @@
+messages:
+
+  - type: running_annexes
+    extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+
+  - type: approved_recommendations
+    items:
+      Q.731.3: 2019-04
+      Q.731.4: 2019-04
+      Q.731.5: 2019-04
+      Q.731.6: 2019-04
+      Q.850: (2018) Amendment 1 (04/19)
+      Q.3054: 2019-04
+      Q.3642: 2019-04
+      Q.4014.1: 2019-04
+      Q.4014.2: 2019-04
+      Q.4061: 2019-04
+      Q.5020: 2019-04
+      Y.2620: 2019-04
+      Y.3072: 2019-04
+      Y.3106: 2019-04
+      Y.3151: 2019-04
+      Y.3152: 2019-04
+
+  - type: telephone_service
+    contents: general/ts.adoc
+
+  - type: org_changes
+    contents: general/org_changes.adoc
+
+  - type: service_restrictions
+    items:
+      - country: Seychelles
+        ob: 1006
+        page: 13
+      - country: Slovakia
+        ob: 1007
+        page: 12
+      - country: Malaysia
+        ob: 1013
+        page: 5
+      - country: Thailand
+        ob: 1034
+        page: 5
+      - country: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country: Uruguay
+        ob: 1039
+        page: 14
+      - country: Hong Kong, China
+        ob: 1068
+        page: 4
+      - country: Ukraine
+        ob: 1148
+        page: 5
+
+  - type: callback_procedures

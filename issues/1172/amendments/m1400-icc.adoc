@@ -1,0 +1,17 @@
+[width=715]
+|===
+| Country or area/ISO code | Company Code | Contact
+| Company Name/Address | (carrier code) |
+
+|===
+*Germany (Federal Republic of) / DEU*_*LIR*
+
+[width=747]
+|===
+| C&S Breitband GmbH +
+Turmstrasse 49 +
+D-23843 BAD OLDESLOE | *CUSB* | Mr Heiner Kahmann +
+Tel.: +49 4531 8929 510 +
+E-mail : hkahmann@cs-breitband.de
+
+|===
