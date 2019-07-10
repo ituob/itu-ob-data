@@ -7,6 +7,8 @@ messages:
       - ROA
 
   - type: approved_recommendations
+    by: AAP-59
+    procedures: Recommendation ITU-T A.8
     items:
       L.1015: 2019-01
 
