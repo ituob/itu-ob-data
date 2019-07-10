@@ -1,4 +1,6 @@
-==== SUP
+==== Section VI
+
+===== SUP
 
 US04::
 Seven Seas Communications Inc., 1700 East Las Olas Blvd., Suite 202,
