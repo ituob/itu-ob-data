@@ -1,9 +1,8 @@
-*Telephone Service +
- (Recommendation ITU-T E.164)*
+==== Telephone Service +
+ (Recommendation ITU-T E.164)
 
 url: www.itu.int/itu-t/inr/nnp
 
-+
 
 *Gabon (country code +241)*
 
@@ -130,7 +129,7 @@ AIRTEL GABON
 
 |===
 
-+
+
 
 *Examples:*
 
@@ -149,11 +148,7 @@ AIRTEL GABON
 * Airtel 077 280150, the international caller should dial: +
  +241 77 280150 or 00 241 77280150.
 
-+
 
-+
-
-+
 
 *4 Presentation of national numbering plan for country code +241*
 
@@ -183,7 +178,7 @@ Maximum number length (excluding the country code): *eight* *(8)*digits.
 
 |===
 
-+
+
 
 Contact:
 
@@ -203,7 +198,7 @@ E-mail: moliere.enynkogho@arcep.ga; thierry.madoungou@arcep.ga
 
 URL: www.arcep.ga
 
-+
+
 
 *Iran (Islamic Republic of) (country code +98)*
 
@@ -236,8 +231,7 @@ The minimum number length (excluding the country code) is 5 digits
 
 The maximum number length (excluding the country code) is 10 digits
 
-+
- +
+
 
 *Numbering Scheme*
 
@@ -350,7 +344,7 @@ E-mail: darvishi@cra.ir
 
 URL: www.cra.ir
 
-+
+
 
 *Malta (country code +356)*
 
@@ -358,7 +352,7 @@ Communication of 22.V.2019:
 
 The _Malta Communications Authority (MCA)_, Floriana, announces an update of the National Numbering Plan (NNP) of Malta. The main numbering ranges are:
 
-+
+
 
 |===
 | _*Service*_ | _*Operator*_ | _*Numbering Ranges*_
@@ -396,7 +390,7 @@ All Administrations and Recognized Operating Agencies (ROAs) are requested to ur
 
 Contact:
 
-[[_Toc262052116]]Deborah Pisani / Claude Azzopardi +
+Deborah Pisani / Claude Azzopardi +
 Malta Communications Authority (MCA) +
  Valletta Waterfront +
  Pinto Wharf +
@@ -406,32 +400,29 @@ Malta Communications Authority (MCA) +
  E-mail: numbering@mca.org.mt +
  URL: http://www.mca.org.mt/[www.mca.org.mt]
 
-+
 
-===== [[_Toc20915574]]Tonga (country code +676) 
+
+===== Tonga (country code +676) 
 
 Communication of 30.V.2019:
 
 The _Ministry of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications,_ Nuku'alofa, announces the National Numbering Plan of Tonga.
 
-+
+
 
 PART I – PRELIMINARY
 
-+
 
 . *Short Title*
 .. These Plans may be cited as the National Numbering Plan 2018.
 
 +
- +
 
 [start=2]
 . *Commencement*
 .. These Plans shall come into force on the date it is published in the Gazette or otherwise in accordance with section 10(e) of the Interpretation Act (Cap.1) 
 
 +
- +
 
 [start=3]
 . *Definitions*
@@ -446,7 +437,6 @@ PART I – PRELIMINARY
 ... "Regulator" has the same meaning as "Licensee" defined in the Communications Act 2015.
 
 +
- +
 
 [start=4]
 . *Application of the Numbering Plan 2018*
@@ -455,7 +445,6 @@ PART I – PRELIMINARY
 .. These Plans is subject for review on a periodic basis as determined by the Regulator and amended accordingly following consultations with related parties.
 
 +
- +
 
 [start=5]
 . *Fixed-line Telephone Number Plan*
@@ -487,7 +476,7 @@ PART I – PRELIMINARY
 ... Link to the real-time database reflecting ported ITU-T E.164 numbers (if any): not applicable
 ... Detail of numbering plan: Table1:
 
-+
+
 
 *Table 1: Fixed-line telephone numbering plan*
 
@@ -514,9 +503,6 @@ PART I – PRELIMINARY
 | 8085 | 5 | 5 | Geographic - Niuas a| +
 
 |===
-
-+
- +
 
 +
 
@@ -556,7 +542,6 @@ MSISDN = CC + NDC + SN +
  SN = Subscriber Number
 
 +
- +
 
 *Table 2: MSISDN (Mobile Subscriber ISDN) Plan*
 
@@ -607,15 +592,11 @@ a| +
 |===
 
 +
- +
-
-+
 
 [start=7]
 . *TFN (Toll Free Number) Plan*
 
 +
- +
 
 *Table 3: TFN (Toll Free Number) Plan*
 
@@ -683,7 +664,6 @@ a| +
 . *Short Code Number Plan*
 
 +
- +
 
 *Table 4: Short Code Number Plan*
 
@@ -715,8 +695,7 @@ a| +
 
 |===
 
-+
- +
+
 
 Contact:
 
@@ -734,7 +713,7 @@ Tonga. +
  Fax: +676 24861 +
  E-mail: paulm@mic.gov.to
 
-+
+
 
 *Uganda (country code +256)*
 
@@ -752,7 +731,7 @@ The maximum number length (excluding the country code) is 9 digits
 
 b) Details of numbering scheme
 
-+
+
 
 |===
 .2+.<| _*NDC (National Destination Code) or leading digits of N(S)N (National (Significant) Number)*_ 2+.<| _*N(S)N Number Length*_ .2+| _*Usage of ITU-T E. 164 Number*_ .2+| _*Additional information*_
@@ -789,7 +768,6 @@ a| _*Minimum +
 
 |===
 
-+
 
 Contact:
 
@@ -803,4 +781,3 @@ Mr Godfrey Mutabazi +
  E-mail: ucc@ucc.co.ug +
  URL: www.ucc.co.ug
 
-+
