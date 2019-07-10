@@ -61,14 +61,22 @@ such as List V, List VIII or NNP / Telephone Service dataset.
 
 == Message types
 
+See: https://github.com/ituob/ituob.org/blob/master/_config.yml#L10 (https://github.com/ituob/ituob.org/issues/6)
+
 Following message types currently are implemented:
 
 * `running_annexes`
 * `approved_recommendations`
 * `service_restrictions`
-* `iptn`
+* `callback_procedures`
 * `telephone_service`
+* `org_changes`
+* `misc_communications`
+* `iptn`
+* `mid`
+* `sanc`
 * `amendment`
 
-For now, most message types specify freeform contents
-using `contents: <AsciiDoc file path>` key.
+Most message types specify freeform contents using `contents: <relative path to .adoc file>` key.
+
+Certain message types require messages to specify particular set of keys.
