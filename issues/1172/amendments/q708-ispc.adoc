@@ -9,9 +9,7 @@ h| ISPC h| DEC
 
 |===
 
-ISPC: International Signalling Point Codes.
-
-Codes de points sémaphores internationaux (CPSI).
-
+ISPC::
+International Signalling Point Codes. +
+Codes de points sémaphores internationaux (CPSI). +
 Códigos de puntos de señalización internacional (CPSI).
-
