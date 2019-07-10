@@ -1,4 +1,4 @@
-*Brazil LIR*
+==== Brazil LIR
 
 [width=100%]
 |===
@@ -13,7 +13,7 @@ E-mail: alessandro.cianca@sercomtel.net.br
 
 |===
 
-*Cyprus* *ADD*
+==== Cyprus ADD
 
 [width=100%]
 |===
@@ -31,7 +31,7 @@ E-mail: andreas.theodorou@cyta.com.cy | 30.IV.2019
 
 |===
 
-*Czech Rep. LIR*
+==== Czech Rep. LIR
 
 [width=100%]
 |===
@@ -55,7 +55,7 @@ E-mail: borovsky@szdc.cz
 
 |===
 
-*Ireland LIR*
+==== Ireland LIR
 
 [width=100%]
 |===
@@ -78,7 +78,7 @@ Email: adrienne.costello@virginmedia.ie
 
 |===
 
-*Moldova (Republic of) LIR*
+==== Moldova (Republic of) LIR
 
 [width=100%]
 |===
@@ -104,7 +104,7 @@ E-mail: moldcell@moldcell.md
 
 |===
 
-*Singapore LIR*
+==== Singapore LIR
 
 [width=100%]
 |===
