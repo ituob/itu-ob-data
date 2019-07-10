@@ -4,7 +4,7 @@
 
 Provides a formalized representation of OB and associated ITU publications.
 
-== Terms and definitions
+== Vocabulary
 
 List::
 a dataset maintained by ITU in connection with a certain Recommendation.
