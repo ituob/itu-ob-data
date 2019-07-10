@@ -5,7 +5,6 @@
 The _Gambia Public Utilities Regulatory Authority (PURA),_
 Serrekunda, announces the following updated National Numbering Plan (NNP) for The Gambia.
 
-[width=100%]
 |===
 | Usage | Service a| 1st Digit B | 2nd Digit P | 3rd Digit Q | Other Digits MCDU | Remarks
 
@@ -28,7 +27,6 @@ Serrekunda, announces the following updated National Numbering Plan (NNP) for Th
 
 ====== Fixed service
 
-[width=100%]
 |===
 | Locality | Current number series | Number length | Operator
 
@@ -90,7 +88,6 @@ Serrekunda, announces the following updated National Numbering Plan (NNP) for Th
 
 ====== Mobile service
 
-[width=100%]
 |===
 | Service | Number series | Number length | Operator
 
@@ -216,7 +213,6 @@ The maximum number length (excluding the country code) is 10 digits
 
 Numbering Scheme
 
-[width=100%]
 |===
 .2+| NDC 2+| NSN Number length .2+| Usage of E.164 .2+| Additional Information
 .>| Minimum | Maximum
@@ -317,7 +313,6 @@ URL: www.cra.ir +
 The _Agence Nationale de Réglementation des Télécommunications (ANRT)_, Rabat,
 announces the following update of the national telephone-numbering plan of Morocco.
 
-[width=100%]
 |===
 .2+| NDC (national destination code) or leading digits of N(S)N (national (significant) number) | N(S)N number length | Usage of ITU-T E.164 number .2+| Additional information
 | Maximum length | Minimum length
