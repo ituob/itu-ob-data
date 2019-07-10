@@ -42,6 +42,10 @@ Maps to a section within an OB issue.
 Usually a message is connected to an ITU recommendation.
 +
 A message may be an amendment, or otherwise be a notice of general kind.
++
+(The system that reads this dataset fills out, partially or fully,
+message contents based on message type, user input,
+linked data and OB issues.)
 
 Amendment::
 an update to a service publication
@@ -53,7 +57,7 @@ Amendment target::
 references the original publication being amended.
 +
 Must specify `publication` (specifying original publication)
-and `position_on` (specifying the version/issue/snapshot).
+and, where applicable, `position_on` (specifying the version/issue/snapshot).
 
 External publication::
 ITU publication not annexed to a previous OB issue,
