@@ -1,0 +1,54 @@
+messages:
+
+  - type: running_annexes
+    extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+
+  - type: approved_recommendations
+    items:
+      G.709/Y.1331 (2016) Amendment 3: 2019-03
+      G.997.2: 2019-03
+      G.9701: 2019-03
+      G.9991: 2019-03
+      G.9992: 2019-03
+      J.298: 2019-03
+      X.894: 2019-03
+      X.1043: 2019-03
+      X.1094: 2019-03
+
+  - type: telephone_service
+    contents: general/ts.adoc
+
+  - type: misc_communications
+    contents: general/misc_comms.adoc
+
+  - type: service_restrictions
+    items:
+      - country: Seychelles
+        ob: 1006
+        page: 13
+      - country: Slovakia
+        ob: 1007
+        page: 12
+      - country: Malaysia
+        ob: 1013
+        page: 5
+      - country: Thailand
+        ob: 1034
+        page: 5
+      - country: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country: Uruguay
+        ob: 1039
+        page: 14
+      - country: Hong Kong, China
+        ob: 1068
+        page: 4
+      - country: Ukraine
+        ob: 1148
+        page: 5
+
+  - type: callback_procedures
