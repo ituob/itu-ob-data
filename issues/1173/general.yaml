@@ -55,3 +55,5 @@ messages:
       - country: Ukraine
         ob: 1148
         page: 5
+
+  - type: callback_procedures
