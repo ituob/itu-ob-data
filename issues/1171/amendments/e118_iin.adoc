@@ -1,0 +1,60 @@
+==== List of Issuer Identifier Numbers for +
+ the International Telecommunication Charge Card 
+ (in accordance with Recommendation ITU-T E.118 (05/2006)) 
+ (Position on 1 December 2018)
+
+(Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018) +
+ (Amendment No. 9)
+
+
+*Brazil LIR*
+
+|===
+h| _Country/geographical area_ h| _Company Name/Address_ h| _Issuer Identifier Number_ h| _Contact_
+| Brazil | *Telefônica Brasil S/A*Avenida Eng. Luís Carlos Berrini, nº1.376SÃO PAULO – SP | *89 55 23* | Katia Regina Do Nascimento MoreiraAvenida Eng. Luís Carlos Berrini, nº1.376, 23º AndarSÃO PAULO – SPTel: +55 11 98543 3511E-mail: katia.moreira@telefonica.com
+
+|===
+
+
+
+*Chad LIR*
+
+|===
+| _Country/geographical area_ | _Company Name/Address_ | _Issuer Identifier Number_ | _Contact_
+
+| Chad | *Airtel Tchad S.A*Avenue Charles de GaulleImmeuble Pierre BrockB.P : 5665, N'DJAMENA | *89 235 01* | Djibril TobeAvenue Charles de GaulleImmeuble Pierre BrockB.P : 5665, N'DJAMENATél : +235 22 52 31 77E-mail: djibril.tobe@td.airtel.com
+
+|===
+
+
+*Czech Rep. LIR*
+
+|===
+h| _Country/geographical area_ h| _Company Name/Address_ h| _Issuer Identifier Number_ h| _Contact_
+| Czech Rep. | *Nordic Telecom s.r.o.*Českomoravská 2408/1a190 00 PRAHA 9 | *89 420 04* | Martin JahodaČeskomoravská 2408/1a190 00 PRAHA 9Czech RepublicTel.: +420 775 619 749[[_Hlk507763894]]E-mail: martin.jahoda@nordictelecom.cz
+
+|===
+
+
+
+*Palau ADD*
+
+|===
+h| _Country/geographical area_ h| _Company Name/Address_ h| _Issuer Identifier Number_ h| _Contact_ h| _Effective date of usage_
+| Palau | *Palau National Communications Corporation*One Airport RdP.O. Box 99KOROR, PW 96940 | *89 680 01* a| Myers TechitongOne Airport RdP.O. Box 99KOROR, PW 96940Tel: +680 587 9000Fax: +680 587 1888 +
+ E-mail: tmyers@pnccpalau.com
+| 14.II.2019
+
+|===
+
+
+*Zambia LIR*
+
+|===
+h| _Country/geographical area_ h| _Company Name/Address_ h| _Issuer Identifier Number_ h| _Contact_
+| Zambia | *Zambia Telecommunications Company Ltd (ZAMTEL)*Zamtel House Corner of Church/Chilubi RoadsPO Box 37000LUSAKA | *89 260 03* | Cassandra ChakanikaPO Box 37000LUSAKAZambia Tel: +260 950 003 605E-mail: cassandra.chakanika@zamtel.co.zm
+
+|===
+
+
+

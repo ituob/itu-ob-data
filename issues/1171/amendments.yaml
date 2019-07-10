@@ -1,0 +1,30 @@
+messages:
+
+  - type: amendment
+    target:
+      publication: E118_IIN
+      position_on: 2018-12-01
+  contents: amendments/e118_iin.adoc
+
+  - type: amendment
+    target:
+      publication: E212_MNC
+      position_on: 2018-12-15
+  contents: amendments/e212_mnc.adoc
+
+  - type: amendment
+    target:
+      publication: M1400_ICC
+      position_on: 2014-09-15
+  contents: amendments/m1400_icc.adoc
+
+  - type: amendment
+    target:
+      publication: Q708_ISPC
+      position_on: 2016-10-01
+  contents: amendments/q708_ispc.adoc
+
+  - type: amendment
+    target:
+      publication: NNP
+  contents: amendments/e129-nnp.adoc

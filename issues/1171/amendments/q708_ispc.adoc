@@ -1,0 +1,37 @@
+*List of International Signalling Point Codes (ISPC) +
+ (According to Recommendation ITU-T Q.708 (09/2016)) +
+ (Position on 1 October 2016)*
+
+(Annex to ITU Operational Bulletin No. 1109 – 1.X.2016) +
+ (Amendment No. 55)
+
+
+
+|===
+3+h| _Country/ Geographical Area_ 2.2+h| _Unique name of the signalling point_ .2+h| _Name of the signalling point operator_
+| _ISPC_ | _DEC_
+6+.<| *Japan SUP*
+| 4-080-0 | 8832 2+| Tokyo-1 2+| KDDI Corporation
+| 4-080-1 | 8833 2+| Osaka-1 2+| KDDI Corporation
+| 4-080-6 | 8838 2+| Osaka-2 2+| KDDI Corporation
+| 4-081-0 | 8840 2+| Tokyo-3 2+| KDDI Corporation
+| 4-082-2 | 8850 2+| Tokyo 2+| Pacific Telecom Co. Ltd.
+| 4-082-3 | 8851 2+| Tokyo 2+| Telstra Singapore PTE Ltd.
+6+.<| *Japan ADD*
+| 4-083-7 | 8863 2+| Tokyo-CDC1 2+| Rakuten Mobile, Inc.
+| 4-084-0 | 8864 2+| Tokyo-CDC2 2+| Rakuten Mobile, Inc.
+| 4-084-1 | 8865 2+| Osaka-CDC1 2+| Rakuten Mobile, Inc.
+| 4-084-2 | 8866 2+| Osaka-CDC2 2+| Rakuten Mobile, Inc.
+6+.<| *Switzerland LIR*
+| 2-053-3 | 4523 2+| Cham 2+| Zirkumflex AG
+
+|===
+
+'''
+ISPC: 
+
+&#160; &#160; International Signalling Point Codes.
+
+&#160; &#160; Codes de points sémaphores internationaux (CPSI).
+
+&#160; &#160; Códigos de puntos de señalización internacional (CPSI).

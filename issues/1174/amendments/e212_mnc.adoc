@@ -1,0 +1,33 @@
+==== Mobile Network Codes (MNC) for the international identification plan 
+ for public networks and subscriptions 
+ (According to Recommendation ITU-T E.212 (05/2008)) 
+ (Position on 15 December 2018)
+
+(Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018) +
+(Amendment No.10)
+
+
+|===
+| *_Country/Geographical area_* | *_MCC+MNC_* * | *_Operator/Network_*
+
+.2+.<| *Sri Lanka ADD* a|  
+
+a|  
+
+| 413 09 .<a| Hutchison Telecommunications Lanka (Pvt) Ltd. +
+ (Valid until 12 September 2021)
+.3+.<| *Uganda SUP* a|   
+
+a|  
+
+| 641 06 .<| Afrimax Uganda Limited
+| 641 26 .<| Lycamobile Network services Uganda Limited
+
+|===
+
+
+'''
+
+&#160; * MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+
+&#160; MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
