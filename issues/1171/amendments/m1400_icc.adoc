@@ -1,31 +1,28 @@
-*List of ITU Carrier Codes +
- (According to Recommendation ITU-T M.1400 (03/2013)) +
- (Position on 15 September 2014)*
+==== List of ITU Carrier Codes 
+ (According to Recommendation ITU-T M.1400 (03/2013)) 
+ (Position on 15 September 2014)
 
 (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014) +
  (Amendment No. 77)
 
-+
- +
-
 |===
-| _*Country or area/ISO code*_ | _*Company Code*_ | _*Contact*_
-
-| _*Company Name/Address*_ | _*(carrier code)*_ a| +
-
+h| *_Country or area/ISO code_* | *_Company Code_* | *_Contact_*
+| *_Company Name/Address_* | *_(carrier code)_* a| 
 |===
 
-+
- +
 
-_*Germany (Federal Republic of) / DEU*_*ADD*
-
-+
- +
+*Germany (Federal Republic of) / DEU* *ADD*
 
 |===
-h| Amtswerke Eggebek GmbH & Co.KGAm Klinkenberg 1D-24852 EGGEBEK h| *AETN* h| Mrs Jana HünefeldTel.: +49 4609 95390 15E-mail: info@amtswerke-eggebek.de
-| TKS Telepost Kabel-Service Kaiserslautern GmbHAltes Forsthaus 2D-67661 KAISERSLAUTERN | *TKS1* | Mr Klaus Rock-LeskTel.: +49 631 3522275Fax: +49 631 3522801E-mail : klaus.rock-lesk@vodafone.com
+| Amtswerke Eggebek GmbH & Co.KGAm Klinkenberg 1D-24852 EGGEBEK h| *AETN* | 
+Mrs Jana Hünefeld
+Tel.: +49 4609 95390 15
+E-mail: info@amtswerke-eggebek.de
+
+| TKS Telepost Kabel-Service Kaiserslautern GmbHAltes Forsthaus 2D-67661 KAISERSLAUTERN | *TKS1* | 
+Mr Klaus Rock-Lesk
+Tel.: +49 631 3522275
+Fax: +49 631 3522801
+E-mail : klaus.rock-lesk@vodafone.com
 
 |===
-

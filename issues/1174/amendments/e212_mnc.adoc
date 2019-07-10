@@ -1,115 +1,33 @@
-|===
-a| +
+==== Mobile Network Codes (MNC) for the international identification plan 
+ for public networks and subscriptions 
+ (According to Recommendation ITU-T E.212 (05/2008)) 
+ (Position on 15 December 2018)
 
-a| +
-
-a| +
-a| +
-
-a| 
-
-|===
-.<a| *Mobile Network Codes (MNC) for the international identification plan +
- for public networks and subscriptions +
- (According to Recommendation ITU-T E.212 (05/2008)) +
- (Position on 15 December 2018)*
-
-|===
- +
-
-a| +
-a| +
-
-a| +
-
-a| +
-a| +
-
-a| 
-
-|===
-.<a| (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018) +
+(Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018) +
 (Amendment No.10)
 
-|===
- +
-
-a| +
-a| +
-
-a| +
-
-a| +
-a| +
-
-a| 
 
 |===
-a| +
+| *_Country/Geographical area_* | *_MCC+MNC_* * | *_Operator/Network_*
 
-a| +
+.2+.<| *Sri Lanka ADD* a|  
 
-a| +
-
-a| +
-
-2+a| +
-a| +
-
-a| +
-
-a| 
-
-|===
-| _*Country/Geographical area*_ | _*MCC+MNC \**_ | _*Operator/Network*_
-
-.2+.<| *Sri Lanka ADD* a| +
-
-a| +
+a|  
 
 | 413 09 .<a| Hutchison Telecommunications Lanka (Pvt) Ltd. +
  (Valid until 12 September 2021)
-.3+.<| *Uganda SUP* a| +
+.3+.<| *Uganda SUP* a|   
 
-a| +
+a|  
 
 | 641 06 .<| Afrimax Uganda Limited
 | 641 26 .<| Lycamobile Network services Uganda Limited
 
 |===
- +
 
-a| +
 
-2+a| +
-a| +
+'''
 
-a| +
+&#160; * MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
 
-a| +
-
-a| +
-
-2+a| +
-a| +
-
-4+a| 
-
-|===
-.<h| \_\_\_\_\_\_\_\_\_\_\_\_\* MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvilMNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
-
-|===
- +
-
-a| +
-
-|===
- +
-
-a| +
-
-|===
-
-+
-
-+
+&#160; MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil

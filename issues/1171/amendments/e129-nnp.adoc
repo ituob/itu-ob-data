@@ -1,5 +1,5 @@
-*National Numbering Plan +
- (According to Recommendation ITU-T E.129 (01/2013))*
+==== National Numbering Plan +
+ (According to Recommendation ITU-T E.129 (01/2013))
 
 Web: www.itu.int/itu-t/inr/nnp/index.html
 
@@ -9,8 +9,6 @@ For their numbering website, or when sending their information to ITU/TSB (e-mai
 
 From 1.IV.2019, the following countries/geographical areas have updated their national numbering plan on our site:
 
-+
- +
 
 |===
 h| _Country/_ _Geographical area_ h| _Country Code (CC)_
@@ -20,7 +18,3 @@ h| _Country/_ _Geographical area_ h| _Country Code (CC)_
 
 |===
 
-+
-+
-
-+

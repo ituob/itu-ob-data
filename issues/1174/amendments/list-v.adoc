@@ -1,19 +1,15 @@
-*List of Ship Stations and Maritime Mobile +
- Service Identity Assignments +
- (List V) +
- Edition of 2019 +
- +
- Section VI*
+==== List of Ship Stations and Maritime Mobile 
+ Service Identity Assignments 
+ (List V) 
+ Edition of 2019 
 
-+
+ Section VI
 
-+
 
-*ADD*
+&#160; &#160; *ADD*
 
-+
 
-*CV75* ENAPOR - Portos de Cabo Verde, Avenida Marginal, C.P. 82, S. Vicente, +
+&#160; &#160; *CV75* &#160; &#160; ENAPOR - Portos de Cabo Verde, Avenida Marginal, C.P. 82, S. Vicente, +
  Cabo Verde, Mindelo, São Vicente, República de Cabo Verde.
 
 Contact person: Eliseu Silva
