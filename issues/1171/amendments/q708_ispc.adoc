@@ -7,7 +7,6 @@
 
 +
 
-[width=619]
 |===
 3+h| _Country/ Geographical Area_ 2.2+h| _Unique name of the signalling point_ .2+h| _Name of the signalling point operator_
 | _ISPC_ | _DEC_

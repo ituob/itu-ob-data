@@ -12,7 +12,6 @@ From 1.IV.2019, the following countries/geographical areas have updated their na
 +
  +
 
-[width=456]
 |===
 h| _Country/_ _Geographical area_ h| _Country Code (CC)_
 | Burkina Faso | +226

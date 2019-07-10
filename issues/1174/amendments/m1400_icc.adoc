@@ -8,7 +8,6 @@
 
 +
 
-[width=624]
 |===
 | _*Country or area/ISO code*_ | _*Company Code*_ | _*Contact*_
 
@@ -22,7 +21,6 @@ _*Germany (Federal Republic of) / DEU*_*ADD*
 
 +
 
-[width=643]
 |===
 a| Netzgesellschaft Herzebrock-Clarholz GmbH & Co.KG +
  Am Rathaus 1 +
@@ -33,7 +31,3 @@ Tel.: +49 5245 444 135 +
  Email: heinz-dieter.wette@gt-net.de
 
 |===
-
-+
-
-+

@@ -14,7 +14,6 @@ The _Ministry of Transport, Communication and Information Technologies_, Yerevan
 
 
 
-[width=642]
 |===
 .2+| _Marz name (Province)_ .2+| _Destination name_ 10+.>| _Existing N(S)N_
 
@@ -534,7 +533,6 @@ a| +
 
 
 
-[width=623]
 |===
 .2+a| +
 
@@ -628,7 +626,6 @@ The _Autorité de Régulation des Communications Electroniques et des Postes (AR
 
 •assignment of new prefix AB=01:
 
-[width=100%]
 |===
 .2+| _NDC (national destination code) or leading digits of N(S)N (national (significant) number)_ 2+| _N(S)N number length_ .2+a| _Usage of +
  ITU-T E.164 number_
@@ -661,7 +658,6 @@ The _Danish Energy Agency_, Copenhagen, announces the following updates to the n
 
 * Withdrawal – Mobile communication services
 
-[width=100%]
 |===
 h| _Provider_ h| _Numbering series_ h| _Date of withdrawal_
 | Plenti ApS | 4940efgh | [[OLE_LINK25]][[OLE_LINK24]]31.XII.2018
@@ -669,7 +665,6 @@ h| _Provider_ h| _Numbering series_ h| _Date of withdrawal_
 |===
 * Assignment – Mobile communication services
 
-[width=100%]
 |===
 h| _Provider_ h| _Numbering series_ h| _Date of assignment_
 | TDC A/S | 4940efgh | 1.I.2019
@@ -679,7 +674,6 @@ h| _Provider_ h| _Numbering series_ h| _Date of assignment_
 |===
 * Assignment – Fixed communication services
 
-[width=100%]
 |===
 h| _Provider_ h| _Numbering series_ h| _Date of assignment_
 | Viptel ApS | 70405fgh and 54404fgh | 8.IV.2019
@@ -717,7 +711,6 @@ _Description of introduction of new resources for +
 
 +
 
-[width=661]
 |===
 .2+| *Sr **No.* .2+| *Area** Code* 2+| *Subscriber **Number* .2+| *Area* .2+| *Type** of **Exchange* .2+| *Digit** Length**(including**area**code)* .2+| *Licensee* .2+| *Remark*
 
@@ -749,7 +742,6 @@ a| +
 
 +
 
-[width=661]
 |===
 a| *Sr +
  No.*

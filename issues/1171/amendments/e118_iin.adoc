@@ -11,7 +11,6 @@
 
 *Brazil LIR*
 
-[width=605]
 |===
 h| _Country/__geographical area_ h| _Company Name/Address_ h| _Issuer Identifier Number_ h| _Contact_
 | Brazil | *Telefônica Brasil S/A*Avenida Eng. Luís Carlos Berrini, nº1.376SÃO PAULO – SP | *89 55 23* | Katia Regina Do Nascimento MoreiraAvenida Eng. Luís Carlos Berrini, nº1.376, 23º AndarSÃO PAULO – SPTel: +55 11 98543 3511E-mail: katia.moreira@telefonica.com
@@ -23,7 +22,6 @@ h| _Country/__geographical area_ h| _Company Name/Address_ h| _Issuer Identifier
 
 *Chad LIR*
 
-[width=605]
 |===
 | _Country/__geographical area_ | _Company Name/Address_ | _Issuer Identifier Number_ | _Contact_
 
@@ -39,7 +37,6 @@ h| _Country/__geographical area_ h| _Company Name/Address_ h| _Issuer Identifier
 
 *Czech Rep. LIR*
 
-[width=605]
 |===
 h| _Country/__geographical area_ h| _Company Name/Address_ h| _Issuer Identifier Number_ h| _Contact_
 | Czech Rep. | *Nordic Telecom s.r.o.*Českomoravská 2408/1a190 00 PRAHA 9 | *89 420 04* | Martin JahodaČeskomoravská 2408/1a190 00 PRAHA 9Czech RepublicTel.: +420 775 619 749[[_Hlk507763894]]E-mail: martin.jahoda@nordictelecom.cz
@@ -50,7 +47,6 @@ h| _Country/__geographical area_ h| _Company Name/Address_ h| _Issuer Identifier
 
 *Palau ADD*
 
-[width=605]
 |===
 h| _Country/__geographical area_ h| _Company Name/Address_ h| _Issuer Identifier Number_ h| _Contact_ h| _Effective date of usage_
 | Palau | *Palau National Communications Corporation*One Airport RdP.O. Box 99KOROR, PW 96940 | *89 680 01* a| Myers TechitongOne Airport RdP.O. Box 99KOROR, PW 96940Tel: +680 587 9000Fax: +680 587 1888 +
@@ -67,7 +63,6 @@ h| _Country/__geographical area_ h| _Company Name/Address_ h| _Issuer Identifier
 
 *Zambia LIR*
 
-[width=100%]
 |===
 h| _Country/__geographical area_ h| _Company Name/Address_ h| _Issuer Identifier Number_ h| _Contact_
 | Zambia | *Zambia Telecommunications Company Ltd (ZAMTEL)*Zamtel House Corner of Church/Chilubi RoadsPO Box 37000LUSAKA | *89 260 03* | Cassandra ChakanikaPO Box 37000LUSAKAZambia Tel: +260 950 003 605E-mail: cassandra.chakanika@zamtel.co.zm

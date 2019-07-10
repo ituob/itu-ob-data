@@ -1,7 +1,7 @@
 *National Numbering Plan +
  (According to Recommendation ITU-T E.129 (01/2013))*
 
-[[_Toc517792344]][[_Toc36875244]]Web: www.itu.int/itu-t/inr/nnp/index.html
+Web: www.itu.int/itu-t/inr/nnp/index.html
 
 Administrations are requested to notify ITU about their national numbering plan changes, or to give an explanation on their webpage concerning the national numbering plan as well as their contact points, so that the information, which will be made available freely to all administrations/ROAs and service providers, can be posted on the ITU-T website.
 
@@ -11,7 +11,6 @@ From 15.V.2019, the following countries/geographical areas have updated their na
 
 +
 
-[width=456]
 |===
 h| _Country/_ _Geographical area_ h| _Country Code (CC)_
 | Gambia | +220
@@ -20,6 +19,3 @@ h| _Country/_ _Geographical area_ h| _Country Code (CC)_
 
 |===
 
-+
-
-+

@@ -27,5 +27,4 @@ messages:
   - type: amendment
     target:
       publication: NNP
-      position_on:
   contents: amendments/e129-nnp.adoc

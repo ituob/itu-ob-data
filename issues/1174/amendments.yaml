@@ -21,5 +21,10 @@ messages:
   - type: amendment
     target:
       publication: NNP
-      position_on:
   contents: amendments/e129-nnp.adoc
+
+  - type: amendment
+    target:
+      publication: R_SP_LM.V
+      position_on: 2018
+  contents: amendments/list-v.adoc  

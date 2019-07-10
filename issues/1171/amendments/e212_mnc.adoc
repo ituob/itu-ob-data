@@ -22,7 +22,6 @@ a| +
 
 a| 
 
-[width=552]
 |===
 .<h| (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)(Amendment No. 8)
 
@@ -45,7 +44,6 @@ a| +
 
 a| 
 
-[width=588]
 |===
 a| +
 
@@ -62,7 +60,6 @@ a| +
 
 a| 
 
-[width=519]
 |===
 | _*Country/Geographical area*_ | _*MCC+MNC \**_ | _*Operator/Network*_
 
@@ -100,7 +97,6 @@ a| +
 
 4+a| 
 
-[width=595]
 |===
 .<h| \_\_\_\_\_\_\_\_\_\_\_\_\* MCC: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvilMNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
 

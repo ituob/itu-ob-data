@@ -8,7 +8,6 @@
 +
  +
 
-[width=603]
 |===
 | _*Country or area/ISO code*_ | _*Company Code*_ | _*Contact*_
 
@@ -24,7 +23,6 @@ _*Germany (Federal Republic of) / DEU*_*ADD*
 +
  +
 
-[width=605]
 |===
 h| Amtswerke Eggebek GmbH & Co.KGAm Klinkenberg 1D-24852 EGGEBEK h| *AETN* h| Mrs Jana HünefeldTel.: +49 4609 95390 15E-mail: info@amtswerke-eggebek.de
 | TKS Telepost Kabel-Service Kaiserslautern GmbHAltes Forsthaus 2D-67661 KAISERSLAUTERN | *TKS1* | Mr Klaus Rock-LeskTel.: +49 631 3522275Fax: +49 631 3522801E-mail : klaus.rock-lesk@vodafone.com

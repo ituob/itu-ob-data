@@ -33,7 +33,6 @@ The new identifiers take the form *AX* with *A= 0* and;
 
 +
 
-[width=605]
 |===
 4+.<h| _A = 0 Routing by default by caller's operator_
 | _A_ | _X_ | _Other digits_ | _Comments_
@@ -83,7 +82,6 @@ For any additional information, please contact the call centres on the following
 
 To reach a subscriber in Gabon using their new *AX BPQMCDU*-type nine (9)-digit number, dial first the international access prefix (usually *00*) followed by the international code for Gabon (*241*), and then the subscriber's number without the "*A*", i.e. without the zero.
 
-[width=605]
 |===
 | _Operator_ 2+| _Procedure prior to 2300 hours GMT on Friday 12 July 2019_ 2+| _Procedure as from 2301 hours GMT on Friday 12 July 2019_
 
@@ -169,7 +167,6 @@ Maximum number length (excluding the country code): *eight* *(8)*digits.
 [start=2,type=a]
 . Details of numbering scheme:
 
-[width=100%]
 |===
 .2+.<h| *National destination code (NDC), or leading digits of national (significant) number (N(S)N)* 3+.<h| *N(S)N number length* 2.2+a| *Usage of +
  ITU-T E.164 number*
@@ -244,7 +241,6 @@ The maximum number length (excluding the country code) is 10 digits
 
 *Numbering Scheme*
 
-[width=627]
 |===
 .2+| _*NDC*_ 3+| _*NSN Number length*_ 2.2+| _*Usage of E.164*_ .2+| _*Additional Information*_
 
@@ -364,7 +360,6 @@ The _Malta Communications Authority (MCA)_, Floriana, announces an update of the
 
 +
 
-[width=416]
 |===
 | _*Service*_ | _*Operator*_ | _*Numbering Ranges*_
 
@@ -496,7 +491,6 @@ PART I – PRELIMINARY
 
 *Table 1: Fixed-line telephone numbering plan*
 
-[width=643]
 |===
 .2+a| _*NDC (National Destination Code) or leading digits +
  of N(S)N (National +
@@ -566,7 +560,6 @@ MSISDN = CC + NDC + SN +
 
 *Table 2: MSISDN (Mobile Subscriber ISDN) Plan*
 
-[width=643]
 |===
 .2+a| _*NDC (National Destination Code) or leading digits +
  of N(S)N (National +
@@ -626,7 +619,6 @@ a| +
 
 *Table 3: TFN (Toll Free Number) Plan*
 
-[width=643]
 |===
 .2+a| _*NDC (National Destination Code) or leading digits +
  of N(S)N (National +
@@ -695,7 +687,6 @@ a| +
 
 *Table 4: Short Code Number Plan*
 
-[width=643]
 |===
 .2+a| _*NDC (National Destination Code) or leading digits +
  of N(S)N (National +
@@ -763,7 +754,6 @@ b) Details of numbering scheme
 
 +
 
-[width=643]
 |===
 .2+.<| _*NDC (National Destination Code) or leading digits of N(S)N (National (Significant) Number)*_ 2+.<| _*N(S)N Number Length*_ .2+| _*Usage of ITU-T E. 164 Number*_ .2+| _*Additional information*_
 
