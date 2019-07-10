@@ -4,7 +4,7 @@
 
 url: www.itu.int/itu-t/inr/nnp
 
-+
+
 
 *Armenia* *(country code +374)*
 
@@ -12,7 +12,7 @@ Communication of 11.IV.2019:
 
 The _Ministry of Transport, Communication and Information Technologies_, Yerevan, announces the updated version of National Numbering Plan of Armenia.
 
-+
+
 
 [width=642]
 |===
@@ -531,13 +531,8 @@ a| +
 
 |===
 
-+
 
-+
 
-+
-
-+
 
 [width=623]
 |===
@@ -623,7 +618,7 @@ Ministry of Transport, Communication and Information Technologies +
  E-mail: mailto:info@mtcit.am[info@mtcit.am] +
  URL: www.mtcit.am
 
-+
+
 
 *Burkina Faso* *(country code +226)*
 
@@ -691,7 +686,7 @@ h| _Provider_ h| _Numbering series_ h| _Date of assignment_
 
 |===
 
-+
+
 
 Contact:
 
@@ -707,7 +702,7 @@ Denmark +
  E-mail: ens@ens.dk +
  URL: www.ens.dk
 
-+
+
 
 *Myanmar (country code +95)*
 
@@ -766,7 +761,7 @@ a| *Sr +
 
 |===
 
-+
+
 
 Contact:
 
@@ -785,7 +780,4 @@ Tel: +95 67 407 225
 Fax: +95 67 407 216
 
 E-mail: dg.ptd@mptmail.net.mm
-
-+
-
 

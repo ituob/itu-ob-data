@@ -13,6 +13,9 @@ messages:
   - type: telephone_service
     contents: general/ts.adoc
 
+  - type: org_changes
+    contents: general/org_changes.adoc
+
   - type: service_restrictions
     items:
       - country: Seychelles
@@ -39,4 +42,3 @@ messages:
       - country: Ukraine
         ob: 1148
         page: 5
-
