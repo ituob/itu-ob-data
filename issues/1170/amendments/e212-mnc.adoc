@@ -10,3 +10,6 @@ h| Country/Geographical area h| MCC+MNC h| Operator/Network
 | 639 08
 | Sema Mobile Services Limited
 |===
+
+MCC:: Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil
+MNC:: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil
