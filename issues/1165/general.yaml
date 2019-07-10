@@ -1,0 +1,61 @@
+messages:
+
+  - type: running_annexes
+    extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+
+  - type: approved_recommendations
+    by: AAP-50
+    procedures: Recommendation ITU-T A.8
+    items:
+      G.8262.1/Y.1362.1: 2019-01
+      G.191: 2019-01
+      G.8273.2/Y.1368.2 (2017) Amd. 2: 2019-01
+      J.1: 2019-01
+      J.302 (2016) Amd. 1: 2019-01
+      J.383: 2019-01
+      J.1108: 2019-01
+      J.1109: 2019-01
+      J.1201: 2019-01
+      P.340: 2019-01
+      P.811: 2019-01
+      P.917: 2019-01
+      P.1100: 2019-01
+      P.1110: 2019-01
+      P.1203.1: 2019-01
+      P.1203.3: 2019-01
+      Y.1550: 2019-01
+
+  - type: telephone_service
+    contents: general/ts.adoc
+
+  - type: service_restrictions
+    items:
+      - country: Seychelles
+        ob: 1006
+        page: 13
+      - country: Slovakia
+        ob: 1007
+        page: 12
+      - country: Malaysia
+        ob: 1013
+        page: 5
+      - country: Thailand
+        ob: 1034
+        page: 5
+      - country: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country: Uruguay
+        ob: 1039
+        page: 14
+      - country: Hong Kong, China
+        ob: 1068
+        page: 4
+      - country: Ukraine
+        ob: 1148
+        page: 5
+
+  - type: callback_procedures
