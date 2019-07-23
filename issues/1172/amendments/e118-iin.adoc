@@ -1,6 +1,5 @@
 ==== Brazil LIR
 
-[width=100%]
 |===
 h| Country/geographical area h| Company Name/Address h| Issuer Identifier Number h| Contact
 | Brazil | Sercomtel Celular S/A +
@@ -15,7 +14,6 @@ E-mail: alessandro.cianca@sercomtel.net.br
 
 ==== Cyprus ADD
 
-[width=100%]
 |===
 h| Country/geographical area h| Company Name/Address h| Issuer Identifier Number h| Contact h| Effective date of usage
 | Cyprus | *Cyprus Telecommunications Authority (CYTA)* +
@@ -33,7 +31,6 @@ E-mail: andreas.theodorou@cyta.com.cy | 30.IV.2019
 
 ==== Czech Rep. LIR
 
-[width=100%]
 |===
 h| Country/geographical area h| Company Name/Address h| Issuer Identifier Number h| Contact
 
@@ -57,7 +54,6 @@ E-mail: borovsky@szdc.cz
 
 ==== Ireland LIR
 
-[width=100%]
 |===
 h| Country/geographical area h| Company Name/Address h| Issuer Identifier Number h| Contact
 | Ireland | *IDT Card Services Ireland Ltd* +
@@ -80,7 +76,6 @@ Email: adrienne.costello@virginmedia.ie
 
 ==== Moldova (Republic of) LIR
 
-[width=100%]
 |===
 h| Country/geographical area h| Company Name/Address h| Issuer Identifier Number h| Contact
 
@@ -106,7 +101,6 @@ E-mail: moldcell@moldcell.md
 
 ==== Singapore LIR
 
-[width=100%]
 |===
 h| Country/geographical area h| Company Name/Address h| Issuer Identifier Number h| Contact
 | Singapore | *Singapore Telecommunications Ltd (SingTel)* +
@@ -132,4 +126,3 @@ Tel: +65 9651 6499 +
 E-mail: chchong@singtel.com
 
 |===
-
