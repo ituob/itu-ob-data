@@ -1,5 +1,0 @@
-messages:
-  - type: amendment
-    target:
-      publication: E164_CC
-    contents: {}
