@@ -1,0 +1,37 @@
+messages:
+  - type: running_annexes
+    extra_links: []
+  - type: telephone_service
+    contents:
+      - country_name: Hong Kong
+        phone_code: '852'
+        contact: asa
+        communications:
+          - date: '2019-08-30T07:21:11.200Z'
+            contents:
+              type: doc
+              content:
+                - type: paragraph
+                  content:
+                    - type: text
+                      text: Test
+      - country_name: sdd
+        phone_code: '41'
+        contact: aas
+        communications:
+          - date: '2019-08-30T07:48:12.640Z'
+            contents:
+              type: doc
+              content:
+                - type: paragraph
+                  content:
+                    - type: text
+                      text: Testsdad asd\
+                - type: paragraph
+                  content:
+                    - type: text
+                      text: fff
+  - type: approved_recommendations
+    items:
+      '123': '123'
+      sad: asd

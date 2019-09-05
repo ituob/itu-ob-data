@@ -1,0 +1,9 @@
+messages:
+  - type: telephone_service
+    contents:
+      - country_name: dgd
+        phone_code: '24525'
+        communications:
+          - date: '2019-08-27T05:48:26.636Z'
+            contents: {}
+        contact: ''
