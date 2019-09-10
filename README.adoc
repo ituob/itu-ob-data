@@ -1,4 +1,8 @@
-= ITU Operational Bulletin Data for www.ituob.org
+= ITU Operational Bulletin Data
+
+The data here is used in building ituob.org site, as we well as PDF & HTML deliverables (work in progress).
+
+image::https://travis-ci.com/ituob/itu-ob-data.svg?branch=master[]
 
 == General
 
