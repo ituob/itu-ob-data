@@ -88,3 +88,40 @@ Following message types currently are implemented:
 Most message types specify freeform contents using `contents: <relative path to .adoc file>` key.
 
 Certain message types require messages to specify particular set of keys.
+
+== Localized contents
+
+Data that supports multiple languages is specified in the following format:
+
+[source,yaml]
+--
+some_translatable_field:
+  en: Hello
+  ja: こんにちは
+--
+
+In above example localizable values are strings, but they can also be
+objects (in case of formatted freeform contents output, ProseMirror-style):
+
+
+[source,yaml]
+--
+some_translatable_contents:
+  en:
+    type: doc
+    content:
+      - type: paragraph
+        content:
+          - type: text
+            text: Hello        
+  ja:
+    type: doc
+    content:
+      - type: paragraph
+        content:
+          - type: text
+            text: こんにちは
+--
+
+Translatable string values may also contain relative paths to .adoc files,
+in cases with localizable freeform message contents.
