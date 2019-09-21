@@ -8,6 +8,16 @@ image::https://travis-ci.com/ituob/itu-ob-data.svg?branch=master[]
 
 Provides a formalized representation of OB and associated ITU publications.
 
+== Modifying data
+
+The link:https://github.com/ituob/itu-ob-editor/[ITU OB editor] app,
+currently in early alpha testing mode,
+will be the primary tool for modifying this data.
+
+The app will enable ITU OB authors to create & edit bulletin editions
+through graphical user interface, and push the changes to the repository
+(subsequently triggering ituob.org CI build).
+
 == Vocabulary
 
 List::
