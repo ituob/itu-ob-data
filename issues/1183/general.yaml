@@ -1,1 +1,17 @@
-messages: []
+messages:
+  - type: telephone_service_2
+    contents:
+      - country_name:
+          en: Denmark
+        phone_code: '45'
+        contact:
+          en: |-
+            Danish Energy Agency
+            43 Carsten Niebuhrs Gade
+            1577 COPENHAGEN V
+            Denmark
+            Tel: +45 33 92 67 00
+            Fax: +45 33 11 47 43
+            E-mail: ens@ens.dk
+            URL: www.ens.dk 
+        communications: []
