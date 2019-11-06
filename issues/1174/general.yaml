@@ -1,23 +1,18 @@
 messages:
-
   - type: running_annexes
     extra_links:
       - M1400_ICC
       - BUREAUFAX
       - ROA
-
   - type: approved_recommendations
     by: AAP-59
     procedures: Recommendation ITU-T A.8
     items:
       L.1015: 2019-01
-
   - type: telephone_service
     contents: general/ts.adoc
-
   - type: org_changes
     contents: general/org_changes.adoc
-
   - type: service_restrictions
     items:
       - country: Seychelles
@@ -38,7 +33,7 @@ messages:
       - country: Uruguay
         ob: 1039
         page: 14
-      - country: Hong Kong, China
+      - country: 'Hong Kong, China'
         ob: 1068
         page: 4
       - country: Ukraine

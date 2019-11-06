@@ -1,11 +1,9 @@
 messages:
-
   - type: running_annexes
     extra_links:
       - M1400_ICC
       - BUREAUFAX
       - ROA
-
   - type: approved_recommendations
     by: TSB Circular 153 of 11 March 2019
     procedures: Resolution 1
@@ -13,16 +11,12 @@ messages:
       E.118 (2006) Amendment 1: 2019-02
       E.169.1: 2019-03
       E.217: 2019-03
-
   - type: mid
     contents: general/mid.adoc
-
   - type: sanc
     contents: general/sanc.adoc
-
   - type: telephone_service
     contents: general/ts.adoc
-
   - type: service_restrictions
     items:
       - country: Seychelles
@@ -43,11 +37,10 @@ messages:
       - country: Uruguay
         ob: 1039
         page: 14
-      - country: Hong Kong, China
+      - country: 'Hong Kong, China'
         ob: 1068
         page: 4
       - country: Ukraine
         ob: 1148
         page: 5
-
   - type: callback_procedures

@@ -1,35 +1,29 @@
 messages:
-
   - type: amendment
     target:
       publication: R_SP_LM.V
       position_on: 2018
     contents: amendments/list-v.adoc
-
   - type: amendment
     target:
       publication: E118_IIN
       position_on: 2018-12-01
     contents: amendments/e118-iin.adoc
-
   - type: amendment
     target:
       publication: E212_MNC
       position_on: 2018-12-15
     contents: amendments/e212-mnc.adoc
-
   - type: amendment
     target:
       publication: Q708_SANC
       position_on: 2017-06-01
     contents: amendments/q708-sanc.adoc
-
   - type: amendment
     target:
       publication: Q708_ISPC
       position_on: 2016-10-01
     contents: amendments/q708-ispc.adoc
-
   - type: amendment
     target:
       publication: NNP

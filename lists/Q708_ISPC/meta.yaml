@@ -1,10 +1,7 @@
 id: Q708_ISPC
-
-url: https://www.itu.int/pub/T-SP-Q.708B
-
+url: 'https://www.itu.int/pub/T-SP-Q.708B'
 title:
   en: List of International Signalling Point Codes (ISPC)
-
 recommendation:
   body: ITU-T
   code: Q.708

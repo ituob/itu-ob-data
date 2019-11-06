@@ -1,8 +1,8 @@
 id: DP
-
 title:
-  en: "Dialling Procedures (International prefix, national (trunk) prefix and national (significant) number)"
-
+  en: >-
+    Dialling Procedures (International prefix, national (trunk) prefix and
+    national (significant) number)
 recommendation:
   body: ITU-T
   code: E.164

@@ -1,23 +1,17 @@
 messages:
-
   - type: running_annexes
     extra_links:
       - M1400_ICC
       - BUREAUFAX
       - ROA
-
   - type: sanc
     contents: general/sanc.adoc
-
   - type: iptn
     contents: general/iptn.adoc
-
   - type: ipns
     contents: general/ipns.adoc
-
   - type: telephone_service
     contents: general/ts.adoc
-
   - type: service_restrictions
     items:
       - country: Seychelles
@@ -38,11 +32,10 @@ messages:
       - country: Uruguay
         ob: 1039
         page: 14
-      - country: Hong Kong, China
+      - country: 'Hong Kong, China'
         ob: 1068
         page: 4
       - country: Ukraine
         ob: 1148
         page: 5
-
   - type: callback_procedures

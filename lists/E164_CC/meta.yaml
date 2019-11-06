@@ -1,5 +1,5 @@
 id: E164_CC
-url: http://www.itu.int/pub/t-sp-e.164d
+url: 'http://www.itu.int/pub/t-sp-e.164d'
 title:
   en: List of Recommendation ITU-T E.164 Assigned Country Codes
 recommendation:
