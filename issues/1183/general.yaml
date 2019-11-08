@@ -33,6 +33,7 @@ messages:
       Z.161.7: 2019-10-01
       Z.166: 2019-10-01
       Z.169: 2019-10-01
+      TEST: 2019-04-01
   - type: telephone_service_2
     contents:
       - country_name:
@@ -54,10 +55,6 @@ messages:
               en:
                 type: doc
                 content:
-                  - type: paragraph
-                    content:
-                      - type: text
-                        text: 'Communication of 8.X.2019: '
                   - type: paragraph
                     content:
                       - type: text
@@ -766,10 +763,6 @@ messages:
                   - type: paragraph
                     content:
                       - type: text
-                        text: 'Communication of 11.IX.2019: '
-                  - type: paragraph
-                    content:
-                      - type: text
                         text: >-
                           The National Communications Authority (NCA), Accra,
                           announces the assignment of new numbering block to an
@@ -970,10 +963,6 @@ messages:
               en:
                 type: doc
                 content:
-                  - type: paragraph
-                    content:
-                      - type: text
-                        text: 'Communication of 7.X.2019: '
                   - type: paragraph
                     content:
                       - type: text
