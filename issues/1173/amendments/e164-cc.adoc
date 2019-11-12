@@ -1,11 +1,12 @@
-*Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes*
+==== Notes common to Numerical and Alphabetical lists of ITU-T Recommendation E.164 assigned country codes
 
-q::	Associated with shared country code 883, the following four-digit identification code reservations or assignments have been made for the international networks of:
+q Associated with shared country code 883, the following four-digit identification code reservations or assignments have been made for the international networks of:
 
-*Note q)     +883 5170     ADD\**
+===== Note p) +883 280; +883 290  ADD*
 
-Applicant	Network	Country Code and
-Identification Code	Status
-DIDWW	DIDWW	+883 5170	Assigned
+|===
+h| Applicant h| Network h| Country Code and Identification Code h| Status
+| DIDWW | DIDWW | +883 290 | Assigned
+|===
 
-* 8.V.2019
++++*+++ 8.V.2019
