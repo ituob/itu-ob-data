@@ -2,11 +2,11 @@
 
 q Associated with shared country code 883, the following four-digit identification code reservations or assignments have been made for the international networks of:
 
-===== Note p) +883 280; +883 290  ADD*
+===== Note q) +883 5170  ADD*
 
 |===
 h| Applicant h| Network h| Country Code and Identification Code h| Status
-| DIDWW | DIDWW | +883 290 | Assigned
+| DIDWW | DIDWW | +883 5170 | Assigned
 |===
 
 +++*+++ 8.V.2019
