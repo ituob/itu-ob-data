@@ -7,12 +7,6 @@ messages:
         type: doc
         content:
           - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  List of Ship Stations and Maritime Mobile Service Identity
-                  Assignments (List V) Edition of 2019 Section VI
-          - type: paragraph
           - type: table
             content:
               - type: table_row
@@ -116,20 +110,6 @@ messages:
       en:
         type: doc
         content:
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  List of Issuer Identifier Numbers for the International
-                  Telecommunication Charge Card (in accordance with
-                  Recommendation ITU-T E.118 (05/2006)) (Position on 1 December
-                  2018)
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
-                  (Amendment No. 16)
           - type: paragraph
           - type: paragraph
             content:
@@ -285,19 +265,6 @@ messages:
             content:
               - type: text
                 text: >-
-                  List of Recommendation ITU-T E.164 assigned Country Codes
-                  (Complement to Recommendation ITU-T E.164 (11/2010)) (Position
-                  on 15 December 2016)
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  (Annex to ITU Operational Bulletin No. 1114 – 15.XII.2016)
-                  (Amendment No. 11)
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
                   Notes common to Numerical and Alphabetical lists of ITU-T
                   Recommendation E.164 assigned country codes
           - type: bullet_list
@@ -415,19 +382,6 @@ messages:
         type: doc
         content:
           - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  Mobile Network Codes (MNC) for the international
-                  identification plan for public networks and subscriptions
-                  (According to Recommendation ITU-T E.212 (09/2016)) (Position
-                  on 15 December 2018)
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
-                  (Amendment No.16)
           - type: table
             content:
               - type: table_row
@@ -517,16 +471,6 @@ messages:
       en:
         type: doc
         content:
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  National Numbering Plan (According to Recommendation ITU-T
-                  E.129 (01/2013))
-          - type: paragraph
-            content:
-              - type: text
-                text: 'Web: www.itu.int/itu-t/inr/nnp/index.html'
           - type: paragraph
             content:
               - type: text

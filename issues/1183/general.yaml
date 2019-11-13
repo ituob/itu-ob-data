@@ -1,8 +1,7 @@
 messages:
-  - type: running_annexes
-    extra_links: []
-  - type: approved_recommendations
-    items:
+  - extra_links: []
+    type: running_annexes
+  - items:
       G.1033: 2019-10-01
       J.1600: 2019-10-01
       X.500: 2019-10-01
@@ -34,6 +33,7 @@ messages:
       Z.166: 2019-10-01
       Z.169: 2019-10-01
       TEST: 2019-04-01
+    type: approved_recommendations
   - type: telephone_service_2
     contents:
       - country_name:
