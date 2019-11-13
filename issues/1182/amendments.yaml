@@ -1,1 +1,176 @@
-messages: []
+messages:
+  - type: amendment
+    target:
+      publication: R_SP_LM.V
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  List of Ship Stations and Maritime Mobile Service Identity
+                  Assignments (List V) Edition of 2019 Section VI
+          - type: paragraph
+          - type: paragraph
+            content:
+              - type: text
+                text: 'ADD '
+          - type: paragraph
+            content:
+              - type: text
+                text: '      JP10 Hun''s Corporation Ltd. TF Building, 7-40-31 Minamikoiwa, Edogawa-ku, Tokyo Japan'
+  - type: amendment
+    target:
+      publication: E212_MNC
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Mobile Network Codes (MNC) for the international
+                  identification plan for public networks and subscriptions
+                  (According to Recommendation ITU-T E.212 (09/2016)) (Position
+                  on 15 December 2018)
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  (Annex to ITU Operational Bulletin No. 1162 – 15.XII.2018)
+                  (Amendment No. 18)
+          - type: paragraph
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Country or geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: MCC+MNC *
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Name of Operator/Network
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 2
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Canada ADD
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 302 100
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Data on Tap Inc.
+  - type: amendment
+    target:
+      publication: M1400_ICC
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  List of ITU Carrier Codes (According to Recommendation ITU-T
+                  M.1400 (03/2013)) (Position on 15 September 2014)
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
+                  (Amendment No. 86)
+          - type: paragraph
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Country or area/ISO code
+                      - type: paragraph
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph

@@ -1,1 +1,155 @@
-messages: []
+messages:
+  - type: amendment
+    target:
+      publication: R_SP_LM.V
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  List of Ship Stations and Maritime Mobile Service Identity
+                  Assignments (List V) Edition of 2018 Section VI
+          - type: paragraph
+          - type: paragraph
+            content:
+              - type: text
+                text: ADD
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth:
+                        - 422
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: JP09
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'ARION JAPAN CO., LTD, 7F, Hiyamadaini Bldg, '
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '2-20-30, Takanawa, Minato-ku, Tokyo Japan.'
+          - type: paragraph
+          - type: paragraph
+            content:
+              - type: text
+                text: REP
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth:
+                        - 421
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: IU02
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: >-
+                              SIRM ITALIA s.r.l., Via Calata San Marco 13, 80133
+                              NAPOLI, Italia. 
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: >-
+                              E-Mail: sirmitalia@pec.it, Tel: +39 081 5353201,
+                              Fax: +39 081 5353700
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth:
+                        - 421
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: US02
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: >-
+                              Mackay Communications, Inc., 3691 Trust Drive
+                              Raleigh, 
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'NC 27616-2955 United States. '
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: >-
+                              E-Mail: satserv@mackaycomm.com, Tel: +1 919 850
+                              3100, 
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Fax: +1 919 954 1707, URL: www.mackaycomm.com. '
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Contact Person: Satellite Services Department.'
+  - type: amendment
+    target:
+      publication: E118_IIN
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  List of Issuer Identifier Numbers for the International
+                  Telecommunication Charge Card (in accordance with
+                  Recommendation ITU-T E.118 (05/2006)) (Position on 1 December
+                  2018)
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  (Annex to ITU Operational Bulletin No. 1161 – 1.XII.2018)
+                  (Amendment No. 15)
+          - type: paragraph
+          - type: paragraph
+            content:
+              - type: text
+                text: Brazil
