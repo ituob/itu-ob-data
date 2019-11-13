@@ -174,7 +174,3 @@ messages:
                       colwidth: null
                     content:
                       - type: paragraph
-          rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
