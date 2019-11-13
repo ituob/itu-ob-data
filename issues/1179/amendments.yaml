@@ -7,19 +7,6 @@ messages:
         type: doc
         content:
           - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  Mobile Network Codes (MNC) for the international
-                  identification plan for public networks and subscriptions
-                  (According to Recommendation ITU-T E.212 (
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
-                  (Amendment No. 15)
-          - type: paragraph
           - type: table
             content:
               - type: table_row
@@ -157,18 +144,6 @@ messages:
       en:
         type: doc
         content:
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  List of ITU Carrier Codes (According to Recommendation ITU-T
-                  M.1400 (03/2013)) (Position on 15 September 2014)
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
-                  (Amendment No. 84)
           - type: paragraph
           - type: table
             content:
@@ -457,19 +432,6 @@ messages:
       en:
         type: doc
         content:
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  List of Data Network Identification Codes (DNIC) (According to
-                  Recommendation ITU-T X.121(10/2000)) (Position on 1 April
-                  2011)
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  (Annex to ITU Operational Bulletin No. 977 – 1.IV.2011)
-                  (Amendment No. 11)
           - type: paragraph
           - type: paragraph
             content:

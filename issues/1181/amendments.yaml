@@ -7,12 +7,6 @@ messages:
         type: doc
         content:
           - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  List of Ship Stations and Maritime Mobile Service Identity
-                  Assignments (List V) Edition of 2019 Section VI
-          - type: paragraph
           - type: table
             content:
               - type: table_row
@@ -257,20 +251,6 @@ messages:
       en:
         type: doc
         content:
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  Mobile Network Codes (MNC) for the international
-                  identification plan for public networks and subscriptions
-                  (According to Recommendation ITU-T E.212 (09/2016)) (Position
-                  on 15 December 2018)
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  (Annex to ITU Operational Bulletin No. 1162 - 15.XII.2018)
-                  (Amendment No. 17)
           - type: paragraph
           - type: table
             content:
@@ -634,18 +614,6 @@ messages:
         type: doc
         content:
           - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  List of ITU Carrier Codes (According to Recommendation ITU-T
-                  M.1400 (03/2013)) (Position on 15 September 2014)
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  (Annex to ITU Operational Bulletin No. 1060 – 15.IX.2014)
-                  (Amendment No. 85)
-          - type: paragraph
           - type: table
             content:
               - type: table_row
@@ -874,19 +842,6 @@ messages:
         type: doc
         content:
           - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  List of International Signalling Point Codes (ISPC) (According
-                  to Recommendation ITU-T Q.708 (03/1999)) (Position on 1
-                  October 2016)
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  (Annex to ITU Operational Bulletin No. 1109 – 1.X.2016)
-                  (Amendment No. 61)
-          - type: paragraph
           - type: table
             content:
               - type: table_row
@@ -1094,16 +1049,6 @@ messages:
       en:
         type: doc
         content:
-          - type: paragraph
-            content:
-              - type: text
-                text: >-
-                  National Numbering Plan (According to Recommendation ITU-T
-                  E.129 (01/2013))
-          - type: paragraph
-            content:
-              - type: text
-                text: 'Web: www.itu.int/itu-t/inr/nnp/index.html'
           - type: paragraph
             content:
               - type: text
