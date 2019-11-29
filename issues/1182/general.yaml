@@ -1,13 +1,15 @@
 messages:
-  - type: running_annexes
-    extra_links:
+  - extra_links:
       - M1400_ICC
       - BUREAUFAX
       - ROA
+    type: running_annexes
   - type: approved_recommendations
     items:
       G.9960 (2018) Cor. 1: 2019-08-01
       G.9961 (2018) Cor. 1: 2019-08-01
+    by: AAP-67
+    procedures: Recommendation ITU-T A.8
   - type: telephone_service_2
     contents:
       - country_name:

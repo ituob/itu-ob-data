@@ -1,9 +1,9 @@
 messages:
-  - type: running_annexes
-    extra_links:
+  - extra_links:
       - M1400_ICC
       - BUREAUFAX
       - ROA
+    type: running_annexes
   - type: approved_recommendations
     items:
       L.1032: 2019-08-01
@@ -15,6 +15,8 @@ messages:
       Y.3131: 2019-08-01
       Y.3508: 2019-08-01
       Y.3523: 2019-08-01
+    by: AAP-64
+    procedures: Recommendation ITU-T A.8
   - type: telephone_service_2
     contents:
       - country_name:
@@ -9508,3 +9510,89 @@ messages:
         ob: 1148
         page: 5
   - type: callback_procedures
+  - type: custom
+    title:
+      en: Data Transmission Service
+    recommendation: null
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: (Recommendation ITU-T X.121 (10/2000))
+          - type: paragraph
+            content:
+              - type: text
+                text: International numbering plan for public data networks
+          - type: paragraph
+            content:
+              - type: text
+                text: Hungary
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Communication of 9.VIII.2019:'
+          - type: paragraph
+            content:
+              - type: text
+                text: 'The '
+              - type: text
+                marks:
+                  - type: em
+                text: 'National Media and Infocommunications Authority, '
+              - type: text
+                text: Budapest
+              - type: text
+                marks:
+                  - type: em
+                text: ','
+              - type: text
+                text: ' announces the withdrawal of Data Network Identification Code (DNIC) '
+              - type: text
+                marks:
+                  - type: strong
+                text: 216 1
+              - type: text
+                text: " of the network “Packet Switched Data Service”.\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Accordingly, no Data Network Identification Codes (DNIC) is in
+                  use in Hungary.
+          - type: paragraph
+            content:
+              - type: text
+                text: 'For further information, please contact:'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ Mr Tamas Puss"
+              - type: hard_break
+              - type: text
+                text: 'National Media and Infocommunications Authority '
+              - type: hard_break
+              - type: text
+                text: Visegrádi utca 106.
+          - type: paragraph
+            content:
+              - type: text
+                text: 1133 BUDAPEST
+          - type: paragraph
+            content:
+              - type: text
+                text: Hungary
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ Tel: \_\_\_\_\_\_\_\_ +36 1 468 0666"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ Fax: \_\_\_\_\_\_\_ +36 1 468 0690"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ E-mail: \_ Puss.tamas@nmhh.hu; numbering@nmhh.hu"
