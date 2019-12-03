@@ -551,4 +551,6 @@ messages:
           - type: paragraph
             content:
               - type: text
-                text: See also page 5 of this ITU Operational Bulletin No. 1179
+                text: >-
+                  See also Data Transmission Service message in this ITU
+                  Operational Bulletin No. 1179
