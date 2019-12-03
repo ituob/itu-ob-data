@@ -22,6 +22,8 @@ messages:
       Q.5050: 2019-03-01
       L.1015: 2019-06-01
       G.9700: 2019-07-01
+    by: AAP-63
+    procedures: Recommendation ITU-T A.8
   - type: telephone_service_2
     contents:
       - country_name:

@@ -21,6 +21,8 @@ messages:
       T.832: 2019-07-01
       Y.4051: 2019-07-01
       Y.4906: 2019-07-01
+    by: AAP-62
+    procedures: Recommendation ITU-T A.8
   - type: telephone_service_2
     contents:
       - country_name:

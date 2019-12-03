@@ -1,9 +1,9 @@
 messages:
-  - type: running_annexes
-    extra_links:
+  - extra_links:
       - M1400_ICC
       - BUREAUFAX
       - ROA
+    type: running_annexes
   - type: telephone_service_2
     contents:
       - country_name:

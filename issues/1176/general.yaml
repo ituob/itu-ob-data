@@ -17,6 +17,8 @@ messages:
       'P.1201.2 (2012) Cor. 2 ': 2019-06-01
       'Y.3172 ': 2019-06-01
     type: approved_recommendations
+    by: AAP-61
+    procedures: Recommendation ITU-T A.8
   - type: telephone_service_2
     contents:
       - country_name:

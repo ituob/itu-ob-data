@@ -34,6 +34,8 @@ messages:
       Z.169: 2019-10-01
       TEST: 2019-04-01
     type: approved_recommendations
+    by: AAP-68
+    procedures: Recommendation ITU-T A.8
   - type: telephone_service_2
     contents:
       - country_name:
