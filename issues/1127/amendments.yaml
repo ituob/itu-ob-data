@@ -1,6 +1,72 @@
 messages:
   - type: amendment
     target:
+      publication: R_SP_LM.V
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: ADD
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "BM05\_ "
+              - type: text
+                text: "\_\_\_\_\_\_\_ Myanmar Navy MRCC (Ayeryyarwady), Monkey Point Streetm,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Botahtaung Township, Yangon Division, Myanmar."
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: REP
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: CL03
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_ Dirección General del Territorio Marítimo y de Marina Mercante,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Departamento de Tecnologías Marítimas), Calle Prat Nº 681, Valparaíso,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ V Región, Chile."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Tel.: +56 32 2208402, +56 32 2208499, E-Mail: "
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:frectecmar@directemar.cl'
+                      title: null
+                text: frectecmar@directemar.cl
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: em
+                text: 'Contact Person: Marcelo Albarrán Mora'
+  - type: amendment
+    target:
       publication: E118_IIN
     contents:
       en:
@@ -11,7 +77,18 @@ messages:
               - type: text
                 marks:
                   - type: strong
-                text: "Bulgaria\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ADD"
+                text: "Switzerland\_\_ "
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: "\_\_\_"
+              - type: text
+                text: "\_"
+              - type: text
+                marks:
+                  - type: strong
+                text: ADD
           - type: table
             content:
               - type: table_row
@@ -28,13 +105,12 @@ messages:
                             marks:
                               - type: em
                             text: Country/
-                          - type: hard_break
-                            marks:
-                              - type: em
+                      - type: paragraph
+                        content:
                           - type: text
                             marks:
                               - type: em
-                            text: Geographical area
+                            text: geographical area
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -82,14 +158,14 @@ messages:
                           - type: text
                             marks:
                               - type: em
-                            text: 'Effective date '
+                            text: 'Effective date of '
                           - type: hard_break
                             marks:
                               - type: em
                           - type: text
                             marks:
                               - type: em
-                            text: of usage
+                            text: usage
               - type: table_row
                 content:
                   - type: table_cell
@@ -101,7 +177,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Bulgaria
+                            text: Switzerland
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -113,22 +189,22 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: 'CONCORD SMART INFRASTRUCTURE '
+                            text: STMicroelectronics International NV
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 39 Chemin du
                           - type: hard_break
-                            marks:
-                              - type: strong
                           - type: text
-                            marks:
-                              - type: strong
-                            text: AD PIC 205612035
+                            text: Champ-des-Filles
                       - type: paragraph
                         content:
                           - type: text
-                            text: 90 Tzarigradsko shoee blvd
+                            text: Plan-les Ouates
                       - type: paragraph
                         content:
                           - type: text
-                            text: SOFIA
+                            text: 1228 GENEVE
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -140,7 +216,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: 89 359 23
+                            text: 89 41 30
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -150,23 +226,31 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Kiril Gueorguiev
+                            text: Mr. Salvatore Acunto
                       - type: paragraph
                         content:
                           - type: text
-                            text: 90 Tzarigradsko shose blvd
+                            text: 39 Chemin du Champ-des-Filles
                       - type: paragraph
                         content:
                           - type: text
-                            text: SOFIA
+                            text: Plan-les Ouates
                       - type: paragraph
                         content:
                           - type: text
-                            text: "Tel.:\_\_\_\_\_\_ +359 882 413 822"
+                            text: 1228 GENEVE
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'E-mail: kiril.gueorguiev@gmail.com'
+                            text: "Tel: \_\_\_\_\_\_ +41 78 744 7909"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax: \_\_\_\_\_ +41 22 929 2988"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail:\_ salvatore.acunto@st.com"
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -176,332 +260,8 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 1.XII.2019
+                            text: 1.VII.2017
           - type: paragraph
-  - type: amendment
-    target:
-      publication: E164_CC
-    contents:
-      en:
-        type: doc
-        content:
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: em
-                text: country code
-              - type: text
-                marks:
-                  - type: strong
-                text: " \_\_\_\_ "
-              - type: text
-                marks:
-                  - type: em
-                  - type: strong
-                text: '888'
-              - type: text
-                marks:
-                  - type: strong
-                text: " \_\_\_\_ LIR"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: em
-                              - type: strong
-                            text: Country code
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: em
-                              - type: strong
-                            text: 'Country, Geographical area or Global service'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: em
-                              - type: strong
-                            text: Note
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '888'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Humanitarian purposes
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'k, t'
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: strong
-                text: "\_"
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: strong
-                text: >-
-                  Notes common to Numerical and Alphabetical lists of ITU-T
-                  Recommendation E.164 assigned country codes
-          - type: paragraph
-            content:
-              - type: text
-                text: "k\_\_\_\_\_\_\_\_\_\_\_ United Nations Office of the Coordinator for Humanitarian Affairs (OCHA)"
-          - type: paragraph
-            content:
-              - type: text
-                text: "t\_\_\_\_\_\_\_\_\_\_\_ Reserved pending further studies."
-  - type: amendment
-    target:
-      publication: E212_MNC
-    contents:
-      en:
-        type: doc
-        content:
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 2
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: em
-                              - type: strong
-                            text: Country/Geographical area
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: em
-                              - type: strong
-                            text: MCC+MNC *
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: em
-                              - type: strong
-                            text: Operator/Network
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 2
-                      rowspan: 3
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: Canada ADD
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: "\_"
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: "\_"
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 302 550
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Star Solutions International Inc.
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 302 721
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Rogers Communications Canada Inc. (Wireless)
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 2
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: 'International Mobile, '
-                          - type: hard_break
-                            marks:
-                              - type: strong
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: "shared code\_\_\_ LIR"
-                  - type: table_cell
-                    attrs:
-                      colspan: 2
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: "\_"
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: "\_"
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 2
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 901 88
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: >-
-                              UN Office for the Coordination of Humanitarian
-                              Affairs (OCHA) - Reserved
-          - type: paragraph
-            content:
-              - type: text
-                text: "*MCC:\_ Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil"
-          - type: paragraph
-            content:
-              - type: text
-                text: "*MNC:\_ Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil"
   - type: amendment
     target:
       publication: M1400_ICC
@@ -612,65 +372,6 @@ messages:
                 marks:
                   - type: strong
                 text: ADD
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'ELBFIBER Netzwerkinfrastrukturen '
-                          - type: hard_break
-                          - type: text
-                            text: UG (haftungsbeschränkt)
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Kirchenstegel 4
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: D-21039 HAMBURG
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: ELBFIB
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Mr Fabian Alexander Hars
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: "Tel.: \_\_\_\_\_\_ +49 40 3346936 0"
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: "Fax: \_\_\_\_\_\_\_ +49 40 3346936 99"
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: "Email: \_\_\_ info@elbfiber.com"
           - type: paragraph
             content:
               - type: text
@@ -688,18 +389,15 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'HDone GmbH '
-                          - type: hard_break
-                          - type: text
-                            text: Cloud Services
+                            text: 3U TELECOM GmbH
                       - type: paragraph
                         content:
                           - type: text
-                            text: Schmelzofenvorstadt 33
+                            text: Frauenbergstrasse 31 - 39
                       - type: paragraph
                         content:
                           - type: text
-                            text: D-89520 HEIDENHEIM
+                            text: 35039 MARBURG
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -711,7 +409,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: HDONE
+                            text: 3UNET
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -721,19 +419,19 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Mr Alexander Bechtold
+                            text: Mr Sascha Rosenhaeger
                       - type: paragraph
                         content:
                           - type: text
-                            text: "Tel.: \_\_\_\_\_\_ +49 7321 91197 0"
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 6421 999 2202"
                       - type: paragraph
                         content:
                           - type: text
-                            text: "Fax: \_\_\_\_\_\_\_ +49 7321 91197 99"
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 6421 999 1400"
                       - type: paragraph
                         content:
                           - type: text
-                            text: "Email: \_\_\_ info@hdone.com"
+                            text: "E-mail:\_\_\_ portierungen@3u.net"
           - type: paragraph
             content:
               - type: text
@@ -751,18 +449,15 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Timo Jung '
-                          - type: hard_break
-                          - type: text
-                            text: Streamworx
+                            text: Felkatec Software GmbH & Co.KG
                       - type: paragraph
                         content:
                           - type: text
-                            text: Edisonstrasse 63
+                            text: Friedrichstrasse 7
                       - type: paragraph
                         content:
                           - type: text
-                            text: D-12459 BERLIN
+                            text: 86709 WOLFERSTADT
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -774,7 +469,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: STWX
+                            text: FELKAT
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -784,34 +479,23 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Mr. Timo Jung
+                            text: Mr Benedikt Richter
                       - type: paragraph
                         content:
                           - type: text
-                            text: "Tel.: \_\_\_\_\_\_ +49 30 863221 380"
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 9092 211932"
                       - type: paragraph
                         content:
                           - type: text
-                            text: "Fax: \_\_\_\_\_\_\_ +49 30 863221 381"
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 9092 911068"
                       - type: paragraph
                         content:
                           - type: text
-                            text: "Email: \_\_\_ numbering@streamworx.net"
+                            text: "E-mail:\_\_\_ portierung@felkatec.de"
           - type: paragraph
             content:
               - type: text
                 text: "\_"
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: em
-                  - type: strong
-                text: "Germany (Federal Republic of) / DEU\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
-              - type: text
-                marks:
-                  - type: strong
-                text: LIR
           - type: table
             content:
               - type: table_row
@@ -825,15 +509,15 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Kabelfernsehen München ServiCenter GmbH
+                            text: INCAS GmbH
                       - type: paragraph
                         content:
                           - type: text
-                            text: Dieselstrasse 1
+                            text: Europark Fichtenhain A 15
                       - type: paragraph
                         content:
                           - type: text
-                            text: D-85774 UNTERFOEHRING
+                            text: 47807 KREFELD
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -845,7 +529,67 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: TCKMSG
+                            text: INCAS
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Roland Janke
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 2151 6201221"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 2151 6201010"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail:\_\_\_ info@incas.de"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: KSP-Kabelservice Prenzlau GmbH
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Freyschmidtstrasse 20
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 17291 PRENZLAU
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: KSP01
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -859,15 +603,334 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: "Tel: \_\_\_\_\_\_\_\_ +49 341 60 952 445"
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 341 60952 445"
                       - type: paragraph
                         content:
                           - type: text
-                            text: "Fax: \_\_\_\_\_\_\_ +49 341 60 952 903"
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 341 60952 903"
                       - type: paragraph
                         content:
                           - type: text
-                            text: "E-mail: \_ andreas.gaertig@pyur.com"
+                            text: "E-mail:\_\_\_ andreas.gaertig@telecolumbus.de"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'RS Gesellschaft für Informationstechnik mbH '
+                          - type: hard_break
+                          - type: text
+                            text: "\_ & Co.KG"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Auf dem Knapp 35
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 42855 REMSCHEID
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: RGFI
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mrs Denise Lieth
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 2191 909446"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 2191 90950446"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail:\_\_\_ info@rgi.net"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Servario Networks GmbH
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Bentheimer Strasse 239
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 48529 NORDHORN
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: SNET
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Daniel Demmer
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 5921 8111027"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 5921 7111581"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail: \_\_ d.demmer@servario-networks.de"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: telkodata GmbH
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Vredenerstrasse 119
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 48703 STADTLOHN
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: TELKOD
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Reinhold Laurich
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 2563 930567 80"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 2563 930567 99"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail:\_\_\_ info@telkodata.de"
+          - type: paragraph
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: "Germany (Federal Republic of) / DEU\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: ADD
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: WINatNet Provider und Netze GmbH
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Ohrestrasse 50a
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 39124 MAGDEBURG
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: WINANT
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Marcel Winter
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 391 555538 53"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 391 555538 54"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail:\_\_\_ info@winatnet.de"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: "Switzerland (Confederation of) / CHE\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: ADD
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: ACONEL AG
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Bernstrasse 42
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: CH-3037 HERRENSCHWANDEN
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: ACO
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr. Bruno Thomann
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel.:\_\_\_\_\_\_\_\_ +41 31 511 3011 / 0848 226635"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Email:\_\_\_\_\_ aconel@aconel.com"
+          - type: paragraph
   - type: amendment
     target:
       publication: NNP
@@ -908,8 +971,8 @@ messages:
             content:
               - type: text
                 text: >-
-                  From 15.XI.2019, the following countries/geographical areas
-                  have updated their national numbering plan on our site:
+                  From 1.VI.2017 the following countries/geographical areas have
+                  updated their national numbering plan on our site:
           - type: paragraph
             content:
               - type: text
@@ -953,7 +1016,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Burkina Faso
+                            text: Israel
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -963,7 +1026,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '+226'
+                            text: '+972'
               - type: table_row
                 content:
                   - type: table_cell
@@ -975,7 +1038,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Morocco
+                            text: Kuwait
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -985,26 +1048,4 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '+212'
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Trinidad and Tobago
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: +1 868
+                            text: '+965'
