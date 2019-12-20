@@ -1,139 +1,6 @@
 messages:
   - type: amendment
     target:
-      publication: R_SP_LM.V
-    contents:
-      en:
-        type: doc
-        content:
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: strong
-                text: REP
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: strong
-                text: 'VT01 '
-              - type: text
-                text: "\_\_\_\_\_ VNPT International (VNPT-I), 97 Nguyen Chi Thanh, Dong Da, Hanoi, Viet Nam."
-              - type: hard_break
-              - type: text
-                text: "\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Tel.: +84 4 3 8410028, Fax: +84 4 3 8357393,"
-              - type: hard_break
-              - type: text
-                text: "\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_ E-Mail: "
-              - type: text
-                marks:
-                  - type: link
-                    attrs:
-                      href: 'mailto:buiquangvinh@vnpt.vn'
-                      title: null
-                text: buiquangvinh@vnpt.vn
-              - type: text
-                text: ', '
-              - type: text
-                marks:
-                  - type: link
-                    attrs:
-                      href: 'mailto:tranthihanh@vnpt.vn'
-                      title: null
-                text: tranthihanh@vnpt.vn
-              - type: hard_break
-                marks:
-                  - type: underline
-              - type: text
-                text: "\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ URL: "
-              - type: text
-                marks:
-                  - type: link
-                    attrs:
-                      href: 'http://www.vnpt.com.vn'
-                      title: null
-                text: www.vnpt.com.vn
-              - type: text
-                text: ', '
-              - type: text
-                marks:
-                  - type: link
-                    attrs:
-                      href: 'http://www.vnpti.vn'
-                      title: null
-                text: www.vnpti.vn
-              - type: text
-                text: ','
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
-              - type: text
-                marks:
-                  - type: em
-                text: 'Contact Person: Tran Thi Hanh (Ms.) Bui Quang Vinh (Mr.)'
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: strong
-                text: "\_"
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: strong
-                text: VT02
-              - type: text
-                text: "\_\_\_\_\_\_ Vietnam Maritime Communication and Electronics Single-Member"
-              - type: hard_break
-              - type: text
-                text: "\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Limited Liability Company,"
-              - type: hard_break
-              - type: text
-                text: "\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (VISHIPEL) 02, Nguyen Thuong Hien, Hong Bang, Haiphong, Vietnam."
-              - type: hard_break
-              - type: text
-                text: "\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Tel.: +84 225 3569330, Fax: +84 225 3842073,"
-              - type: hard_break
-              - type: text
-                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ E-Mail: "
-              - type: text
-                marks:
-                  - type: link
-                    attrs:
-                      href: 'mailto:customercare@vishipel.com.vn'
-                      title: null
-                text: customercare@vishipel.com.vn
-              - type: text
-                text: ','
-              - type: hard_break
-              - type: text
-                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_ URL: "
-              - type: text
-                marks:
-                  - type: link
-                    attrs:
-                      href: 'http://www.vishipel.com.vn'
-                      title: null
-                text: www.vishipel.com.vn
-              - type: text
-                text: ','
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
-              - type: text
-                marks:
-                  - type: em
-                text: 'Contact Person: Mr. Nguyen Viet Hoang'
-  - type: amendment
-    target:
       publication: E118_IIN
     contents:
       en:
@@ -144,18 +11,11 @@ messages:
               - type: text
                 marks:
                   - type: strong
-                text: Switzerland
-              - type: text
-                marks:
-                  - type: em
-                  - type: strong
-                text: "\_\_\_ "
+                text: Estonia ADD
+          - type: paragraph
+            content:
               - type: text
                 text: "\_"
-              - type: text
-                marks:
-                  - type: strong
-                text: ADD
           - type: table
             content:
               - type: table_row
@@ -237,7 +97,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Switzerland
+                            text: Estonia
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -249,15 +109,15 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: Telecom26 AG
+                            text: Top Connect OÜ
                       - type: paragraph
                         content:
                           - type: text
-                            text: Bahnhofstrasse 10
+                            text: 'Väike-Paala 1,'
                       - type: paragraph
                         content:
                           - type: text
-                            text: 6300 ZUG
+                            text: 'TALLINN, 11415'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -269,7 +129,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: 89 883 06
+                            text: 89 372 04
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -279,19 +139,26 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Mr Mike Ashdown
+                            text: Mr Erkki Joasoon
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Väike-Paala 1,'
                           - type: hard_break
                           - type: text
-                            text: Bahnhofstrasse 10
-                          - type: hard_break
+                            text: TALLINN
+                      - type: paragraph
+                        content:
                           - type: text
-                            text: '6300 ZUG '
-                          - type: hard_break
+                            text: "Tel:\_\_\_\_\_\_\_\_\_\_\_\_ +372 622 6454"
+                      - type: paragraph
+                        content:
                           - type: text
-                            text: 'Tel: +41 43 500 42 44'
-                          - type: hard_break
+                            text: "Fax:\_\_\_\_\_\_\_\_\_\_\_ +372 6062501"
+                      - type: paragraph
+                        content:
                           - type: text
-                            text: 'E-mail: mashdown@telecom26.ch'
+                            text: "E-mail: \_\_\_\_\_ erkki.joasoon@topconnect.ee"
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -301,8 +168,860 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 12.V.2017
+                            text: 1.V.2017
           - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Finland SUP
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Name/Address
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Issuer Identifier Number
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Contact
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: 'Effective '
+                          - type: hard_break
+                            marks:
+                              - type: em
+                          - type: text
+                            marks:
+                              - type: em
+                            text: date of cancellation
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Finland
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Ukko Mobile Oy
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Munkkiniemen puistotie 25
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: FI-00330 HELSINKI
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 89 358 10
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Antti Pellinen
+                          - type: hard_break
+                          - type: text
+                            text: Munkkiniemen puistotie 25
+                          - type: hard_break
+                          - type: text
+                            text: FI-00330 HELSINKI
+                          - type: hard_break
+                          - type: text
+                            text: 'Tel: +358 40 547 7044'
+                          - type: hard_break
+                          - type: text
+                            text: 'E-mail: antti.pellinen@ukkomobile.com'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 20.IX.2016
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Finland LIR
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Name/Address
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Issuer Identifier Number
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Contact
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Finland
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Elisa Corporation
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'P.O. Box 1,'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: FI - 00061 ELISA
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 89 358 09
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Jari Jokela
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: P.O. Box 40
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: FI - 00061 ELISA
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Tel: +358 50 506 6070'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Fax: +358 50 8506 6070'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'E-mail: jari.jokela@elisa.fi'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Netherlands LIR
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Name/Address
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Issuer Identifier Number
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Contact
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Netherlands
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Glotell B.V.
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Willem Dreeslaan 37,'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 2729 ND ZOETERMEER
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 89 31 17
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Edwin Clement
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Willem Dreeslaan 37,'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 2729 ND ZOETERMEER
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Tel: +31 628 200 000'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'E-mail: edwin@glotell.nl'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: 'Portugal '
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: "\_"
+              - type: text
+                text: "\_"
+              - type: text
+                marks:
+                  - type: strong
+                text: SUP
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Name/Address
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Issuer Identifier Number
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Contact
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Effective date of cancellation
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Portugal
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 'Companhia Portugesa Rádio Marconi (CPRM), S.A.'
+                          - type: hard_break
+                          - type: text
+                            text: 'Avenida Alvaro País No. 2, Edificio Marconi'
+                          - type: hard_break
+                          - type: text
+                            text: 1600 LISBOA
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 89 351 98
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: José Morais de Oliveira
+                          - type: hard_break
+                          - type: text
+                            text: 2 Av. Álvaro País
+                          - type: hard_break
+                          - type: text
+                            text: 1600 LISBOA
+                          - type: hard_break
+                          - type: text
+                            text: 'Tel: +351 21 720 7191'
+                          - type: hard_break
+                          - type: text
+                            text: 'Fax: +351 21 795 5744'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 1.VI.2014
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Portugal
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: PT Comunicações S.A.
+                          - type: hard_break
+                          - type: text
+                            text: Avenida Fontes Pereira de Melo No. 40
+                          - type: hard_break
+                          - type: text
+                            text: 1089 LISBOA CODEX
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 89 351 99
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Manuel Luis Vilarinho Pires
+                          - type: hard_break
+                          - type: text
+                            text: 'Av. Fontes Pereira de Melo, 40'
+                          - type: hard_break
+                          - type: text
+                            text: 1089 LISBOA CODEX
+                          - type: hard_break
+                          - type: text
+                            text: 'Tel: +351 21 350 4426'
+                          - type: hard_break
+                          - type: text
+                            text: 'Fax: +351 21 350 4012'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 1.VI.2014
+          - type: paragraph
+  - type: amendment
+    target:
+      publication: E164_CC
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: >-
+                  Notes common to Numerical and Alphabetical lists of
+                  Recommendation ITU-T E.164 assigned country codes
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Associated with shared country code 883, the following
+                  three-digit identification code assignment has been made for
+                  the international networks of:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "P\_ 18\_\_ "
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: Note p)
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_\_ +883 210\_\_ \_\_ADD*"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Applicant
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Network
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: 'Country Code and '
+                          - type: hard_break
+                            marks:
+                              - type: em
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Identification Code
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Status
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Telecom26 AG
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Telecom26 AG
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: +883 210
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Assigned
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: '*'
+              - type: text
+                text: ' 1 May 2017'
   - type: amendment
     target:
       publication: E212_MNC
@@ -366,7 +1085,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: Gibraltar LIR
+                            text: Hungary ADD
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -398,7 +1117,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 266 01
+                            text: 216 04
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -408,13 +1127,13 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Gibtel
+                            text: Invitech Solutions
               - type: table_row
                 content:
                   - type: table_cell
                     attrs:
                       colspan: 1
-                      rowspan: 2
+                      rowspan: 8
                       colwidth: null
                     content:
                       - type: paragraph
@@ -422,7 +1141,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: 'International Mobile, shared code ADD'
+                            text: Myanmar ADD
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -454,7 +1173,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 901 56
+                            text: 414 00
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -464,15 +1183,144 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: >-
-                              European Telecommunications Standards Institute
-                              (ETSI)
+                            text: Myanmar Posts and Telecommunications
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 414 02
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Myanmar Posts and Telecommunications
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 414 03
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Myanmar Economic Corporation
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 414 04
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Myanmar Posts and Telecommunications
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 414 05
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Ooredoo Myanmar Limited
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 414 06
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Telenor Myanmar Limited
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 414 09
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Myanmar National Tele & Communication Co.,Ltd'
           - type: paragraph
             content:
               - type: text
                 text: "*MCC:\_ Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil"
-          - type: paragraph
-            content:
+              - type: hard_break
               - type: text
                 text: "*MNC:\_ Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil"
   - type: amendment
@@ -584,77 +1432,6 @@ messages:
               - type: text
                 marks:
                   - type: strong
-                text: SUP
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Comulus AG
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Roesnerstrasse 8
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 48155 Muenster
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: COMULU
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Mr. Dirk Walla
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 251 29793 506'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 251 29793 500'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: "E-mail:\_ dirk.walla@comulus.de"
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: em
-                  - type: strong
-                text: "Germany (Federal Republic of) / DEU\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
-              - type: text
-                marks:
-                  - type: strong
                 text: ADD
           - type: table
             content:
@@ -669,15 +1446,15 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: AEP Plückhahn Netze GmbH
+                            text: ADDIX Internet Services GmbH
                       - type: paragraph
                         content:
                           - type: text
-                            text: Breite Strasse 18 b
+                            text: Kaistrasse 101
                       - type: paragraph
                         content:
                           - type: text
-                            text: 17438 WOLGAST
+                            text: 24114 KIEL
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -689,7 +1466,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: AEP18B
+                            text: ADDIX
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -699,19 +1476,15 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Mrs Rohde
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 431 7755 150"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Tel: +49 38362 77720'
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 431 7755 105"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Fax: +49 38362 77787'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: vertrieb@aepservice.de'
+                            text: "E-mail: \_\_ portierung@addix.net"
           - type: paragraph
             content:
               - type: text
@@ -729,15 +1502,15 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Comulus AG
+                            text: AGILIScom AG
                       - type: paragraph
                         content:
                           - type: text
-                            text: Max-Dohm-Strasse 8 - 10
+                            text: Unter den Platanen 24
                       - type: paragraph
                         content:
                           - type: text
-                            text: 10589 BERLIN
+                            text: 14774 BRANDENBURG A. D. HAVEL
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -749,7 +1522,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: CMLS
+                            text: AGILIS
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -759,19 +1532,19 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Mr Fabian Kroeger
+                            text: Mrs Sandy Burghardt
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Tel: +49 30 921056 444'
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 3381 8043696"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Fax: +49 30 921056 8444'
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 3381 8043629"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'E-mail: fabian.kroeger@comulus.de'
+                            text: "E-mail:\_\_\_ portierung@agiliscom.de"
           - type: paragraph
             content:
               - type: text
@@ -789,15 +1562,15 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Dolphin IT-Systeme e.K.
+                            text: Broadsoft Germany GmbH
                       - type: paragraph
                         content:
                           - type: text
-                            text: Peterstr. 69
+                            text: Lothringer Strasse 56
                       - type: paragraph
                         content:
                           - type: text
-                            text: 42499 HUECKESWAGEN
+                            text: 50677 COLOGNE
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -809,7 +1582,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: DOLPH
+                            text: BSFT
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -819,19 +1592,19 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Mr Olaf Famers
+                            text: Ordermanagement
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Tel: +49 2192 8549 140'
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 221 9999 85636"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Fax: +49 2192 8549 29'
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 221 9999 85692"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'E-mail: olaf.famers@dolphin-it.de'
+                            text: "E-mail: \_\_ rufnummern@placetel.de"
           - type: paragraph
             content:
               - type: text
@@ -849,15 +1622,15 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: FNOH-DSL Südheide GmbH
+                            text: ccn corporate communication networks GmbH
                       - type: paragraph
                         content:
                           - type: text
-                            text: Alte Bahnhofstrasse 28
+                            text: Frankfurter Ring 105 a
                       - type: paragraph
                         content:
                           - type: text
-                            text: 31311 UETZE
+                            text: 80807 MUNICH
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -869,7 +1642,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: FNOH
+                            text: CCN
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -879,692 +1652,19 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Mr Marc Blechschmidt
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 89 74616044"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Tel: +49 5147 3089900'
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 89 74616030"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Fax: +49 5147 3089903'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: support@fnoh.de'
+                            text: "E-mail: \_\_ support@bluesip.net"
           - type: paragraph
             content:
               - type: text
                 text: "\_"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Freikom GmbH
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Augsburger Weg 19 a
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 25813 SCHWESING
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: FREIKM
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Mr Stefan Frech
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 4841 964990 0'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 4841 964990 49'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: immeronline@freikom.net'
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'GP-Elektronik '
-                          - type: hard_break
-                          - type: text
-                            text: Inh. Klemens Pohl e.K
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Elsterstrasse 22
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 08626 ADORF
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: GPISP
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Mr Klemens Pohl
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 37423 48972'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 37423 48982'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: info@gpelektronik.de'
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Hofnetz und IT Services GmbH
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Geneststrasse 5
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 10829 BERLIN
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: HOFNET
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 30 440123 166'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 30 440123 299'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: portierung@hofnetz.de'
-          - type: paragraph
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: ip-fabric GmbH
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Oetztaler Strasse 1
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 81373 MUNICH
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: IPF
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Mr Martin Born
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 89 21231900'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 89 21231901'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: portierung@ip-fabric.net'
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Martens Deutsche Telekabel GmbH
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Papenreye 31
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 22453 HAMBURG
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: MART
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Mr Andreas Gaertig
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 341 60952 445'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 341 60952 903'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: andreas.gaertig@telecolumbus.de'
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'MDDSL Mitteldeutsche Gesellschaft für '
-                          - type: hard_break
-                          - type: text
-                            text: Kommunikation mbH
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Carnotstrasse 33
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 39120 MAGDEBURG
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: MDDSL
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 391 6366708'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 391 5334499'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: info@mddsl.eu'
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: MK Netzdienste GmbH & Co.KG
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Marienwall 27
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 32423 MINDEN
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: MKN
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Mr Tobias Helbig
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 571 38859 39'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 571 38859 99'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: the@mk.de'
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: PrimaCom Berlin GmbH
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Messeallee 2
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 04356 LEIPZIG
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: PRIMA
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Mr Andreas Gaertig
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 341 60952 445'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 341 60952 903'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: andreas.gaertig@telecolumbus.de'
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Stefan Englhardt
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Genias Internet
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Dr.-Gessler-Strasse 20
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 93051 REGENSBURG
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: GENIAS
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Mr Thomas Giechau
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 941 942798 0'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 941 942798 9'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: info@genias.net'
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: TeamFON GmbH
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Stahlgruberring 11
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 81820 MUNICH
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: TFON
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Mr Thomas Weiss
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 89 42700525'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 89 42700555'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: twe@teamfon.com'
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: ZEAG Energie AG
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Weipertstrasse 41
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 74076 HEILBRONN
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: ZEAG
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +49 7131 610 1300'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +49 7131 610 1350'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: horst.markl@zeag-energie.de'
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: em
-                  - type: strong
-                text: "\_"
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: em
-                  - type: strong
-                text: "Germany (Federal Republic of) / DEU\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
-              - type: text
-                marks:
-                  - type: strong
-                text: LIR
           - type: table
             content:
               - type: table_row
@@ -1612,15 +1712,264 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Tel: +49 355 486970'
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 355 486970"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Fax: +49 355 533395'
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 355 533395"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'E-mail: telefonie@cns-network.de'
+                            text: "E-mail: \_\_ telefonie@cns-network.net"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: RMS Systems Datenverarbeitungs GmbH
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Wildbirnenweg 17
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 91126 SCHWABACH
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: RMSSYS
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Jochen Kuenzel
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 9122 99210"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 9122 99215"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail: \_\_ info@rms-online.de"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Städtische Werke Netz + Service GmbH
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Koenigstor 3 - 13
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 34117 KASSEL
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: STWNSG
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Mirco Glitzenhirn
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +49 561 5745 2476"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax: \_\_\_\_\_\_\_\_ +49 561 5745 2425"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'E-mail: mirco.glitzenhirn@netzplusservice.de'
+          - type: paragraph
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: "Germany (Federal Republic of) / DEU\_\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: LIR
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Jens Dreiheller – Lodaya Technologies
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Vacher Strasse 118
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 90766 FUERTH
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: LODAYA
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Jens Dreiheller
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel:\_\_\_\_\_\_\_\_\_ +49 3222 2132461"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax: \_\_\_\_\_\_\_ +49 3222 2133859"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail: \_ info@lodaya.net"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: mobilcom-debitel GmbH
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Hollerstrasse 126
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 24782 BUEDELSDORF
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: MD8000
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Dirk Lembrecht
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel: \_\_\_\_\_\_\_\_ +49 4331 69 5265"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax: \_\_\_\_\_\_\_ +49 4331 69 3330"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail: \_ dirk.lembrecht@md.de"
+          - type: paragraph
   - type: amendment
     target:
       publication: Q708_ISPC
@@ -1707,7 +2056,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: "Sweden\_\_\_ ADD"
+                            text: "Canada\_\_\_ ADD"
               - type: table_row
                 content:
                   - type: table_cell
@@ -1719,7 +2068,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 7-207-2
+                            text: 3-009-7
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -1729,7 +2078,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '15994'
+                            text: '6223'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -1739,7 +2088,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: viahubSTP1
+                            text: TREXSS1
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -1749,315 +2098,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: SMS Provider Corp.
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 4
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: "Switzerland\_\_\_ SUP"
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 2-062-0
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '4592'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Genève
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Télésonique SA
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 2-062-1
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '4593'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Zürich
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Télésonique SA
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 2-063-2
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '4602'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Zürich
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Datatrade Managed AG
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 7-228-0
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '16160'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Altendorf
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Datatrade Managed AG
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 7-228-1
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '16161'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Altendorf
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Datatrade Managed AG
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 7-228-5
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '16165'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Zürich
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Datatrade Managed AG
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 7-228-6
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '16166'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Equinix
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Datatrade Managed AG
+                            text: China Mobile International (Canada) Inc.
               - type: table_row
                 content:
                   - type: table_cell
@@ -2071,7 +2112,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: "Switzerland\_\_\_ ADD"
+                            text: "Cuba\_\_\_ ADD"
               - type: table_row
                 content:
                   - type: table_cell
@@ -2083,7 +2124,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 2-062-0
+                            text: 3-137-2
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2093,7 +2134,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '4592'
+                            text: '7242'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2103,7 +2144,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Zürich 2
+                            text: Holguin
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2113,91 +2154,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: MITTO AG
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 2-062-1
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '4593'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Zug 2
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: MITTO AG
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 7-247-4
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '16316'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Zürich 2
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Horisen AG
+                            text: ETECSA
               - type: table_row
                 content:
                   - type: table_cell
@@ -2211,7 +2168,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: "Switzerland\_\_\_ LIR"
+                            text: "Myanmar\_\_\_ ADD"
               - type: table_row
                 content:
                   - type: table_cell
@@ -2223,7 +2180,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 2-054-4
+                            text: 4-225-0
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2233,7 +2190,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '4532'
+                            text: '9992'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2243,7 +2200,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Zurich
+                            text: YGIG01_01
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2253,7 +2210,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Level 3 Communications Switzerland
+                            text: 'Myanmar National Tele & Communication Co.,Ltd'
               - type: table_row
                 content:
                   - type: table_cell
@@ -2265,7 +2222,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 2-054-7
+                            text: 4-225-1
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2275,7 +2232,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '4535'
+                            text: '9993'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2285,7 +2242,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Zürich_1
+                            text: YGST01_01
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2295,7 +2252,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: UPC Schweiz GmbH
+                            text: 'Myanmar National Tele & Communication Co.,Ltd'
               - type: table_row
                 content:
                   - type: table_cell
@@ -2307,7 +2264,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 2-061-3
+                            text: 4-225-2
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2317,7 +2274,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '4587'
+                            text: '9994'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2327,7 +2284,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Zürich_2
+                            text: MDIG01_01
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2337,7 +2294,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: UPC Schweiz GmbH
+                            text: 'Myanmar National Tele & Communication Co.,Ltd'
               - type: table_row
                 content:
                   - type: table_cell
@@ -2349,7 +2306,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 2-062-7
+                            text: 4-225-3
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2359,7 +2316,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '4599'
+                            text: '9995'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2369,7 +2326,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Zurich_3
+                            text: MDST01_01
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2379,7 +2336,21 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: UPC Schweiz GmbH
+                            text: 'Myanmar National Tele & Communication Co.,Ltd'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 4
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: "Panama\_\_\_ ADD"
               - type: table_row
                 content:
                   - type: table_cell
@@ -2391,7 +2362,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 7-247-6
+                            text: 7-029-2
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2401,7 +2372,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '16318'
+                            text: '14570'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2411,7 +2382,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Zürich_4
+                            text: Corozal
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2421,7 +2392,21 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: UPC Schweiz GmbH
+                            text: 'Trans Ocean Communications, Corp.'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 4
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: "Singapore\_\_\_ LIR"
               - type: table_row
                 content:
                   - type: table_cell
@@ -2433,7 +2418,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 7-247-7
+                            text: 5-047-3
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2443,7 +2428,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '16319'
+                            text: '10619'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2453,7 +2438,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Zürich_5
+                            text: Global Crossing - Tai Seng Drive
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2463,7 +2448,469 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: UPC Schweiz GmbH
+                            text: Level 3 Communications Singapore Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-048-0
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10624'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: ComNet ESE
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: CITIC Telecom International (SEA) Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-048-3
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10627'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: VSNL-SNG Cable Landind Station
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Tata Communications International Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-048-6
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10630'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Asia Netcom - Tai Seng
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Telstra Global (Singapore) Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-049-2
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10634'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: VSNL-Tai Seng
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Tata Communications International Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-049-4
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10636'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'C&W Equinix, Ayer Rajah'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Vodafone Enterprise Singapore Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-052-4
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10660'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: MCI - Singapore 1
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Verizon Communications Singapore Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-053-2
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10666'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: I2U - Singapore Technologies Building
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: MediaRing Communications Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-053-5
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10669'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: MCI - Singapore 2
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Verizon Communications Singapore Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-053-6
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10670'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: France Telecom - Chai Chee
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Orange Carriers Singapore Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-055-3
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10683'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Teleone Tai Seng Drive
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: CTM (Singapore) Pte Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 5-055-7
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10687'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: ComNet IMG
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: CITIC Telecom International (SEA) Pte Ltd
           - type: paragraph
             content:
               - type: text
@@ -2520,8 +2967,8 @@ messages:
             content:
               - type: text
                 text: >-
-                  From 1.V.2017 the following countries/geographical areas have
-                  updated their national numbering plan on our site:
+                  From 15.IV.2017 the following countries have updated their
+                  national numbering plan on our site:
           - type: paragraph
             content:
               - type: text
@@ -2541,9 +2988,7 @@ messages:
                           - type: text
                             marks:
                               - type: em
-                            text: Country/
-                          - type: text
-                            text: Geographical area
+                            text: Country
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2567,16 +3012,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Kosovo
-                          - type: text
-                            marks:
-                              - type: link
-                                attrs:
-                                  href: '#_ftn1'
-                                  title: ''
-                              - type: strong
-                              - type: superscript
-                            text: '*'
+                            text: Bosnia and Herzegovina
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2586,7 +3022,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '+383'
+                            text: '+387'
               - type: table_row
                 content:
                   - type: table_cell
@@ -2598,7 +3034,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Kuwait
+                            text: Burkina Faso
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2608,7 +3044,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '+965'
+                            text: '+226'
               - type: table_row
                 content:
                   - type: table_cell
@@ -2620,7 +3056,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Poland
+                            text: Israel
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -2630,19 +3066,48 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '+48'
-          - type: paragraph
-            content:
-              - type: hard_break
-          - type: horizontal_rule
-          - type: paragraph
-            content:
-              - type: text
-                marks:
-                  - type: link
+                            text: '+972'
+              - type: table_row
+                content:
+                  - type: table_cell
                     attrs:
-                      href: '#_ftnref1'
-                      title: ''
-                text: '*'
-              - type: text
-                text: ' This designation is without prejudice to positions on status, and is in line with UNSCR 1244 and the ICJ Opinion on the Kosovo declaration of independence.'
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Papua New Guinea
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+675'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Suriname
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+597'
