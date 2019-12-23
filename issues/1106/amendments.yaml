@@ -11,180 +11,42 @@ messages:
               - type: text
                 marks:
                   - type: strong
-                text: REP
+                text: ADD
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
           - type: paragraph
             content:
               - type: text
                 marks:
                   - type: strong
-                text: "US11\_\_\_\_\_\_ "
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ UX08\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
               - type: text
                 text: >-
-                  COMSAT, Inc., 2550 Wasser Terrace, Suite 6000, Herndon, VA
-                  21701, United States.
-              - type: hard_break
-              - type: text
-                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Tel.: +1 (571) 599 3627, Fax: +1 (571) 599 3672, E-Mail: "
-              - type: text
-                marks:
-                  - type: link
-                    attrs:
-                      href: 'mailto:julie.wilhelmi@comsat.com'
-                      title: null
-                text: julie.wilhelmi@comsat.com
-              - type: text
-                text: ','
-              - type: hard_break
-              - type: text
-                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ URL: "
-              - type: text
-                marks:
-                  - type: link
-                    attrs:
-                      href: 'http://www.comsat.com'
-                      title: null
-                text: www.comsat.com
-              - type: text
-                text: ', '
-              - type: text
-                marks:
-                  - type: em
-                text: 'Contact Person: Julie Wilhelmi,'
-              - type: hard_break
-                marks:
-                  - type: em
-              - type: text
-                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
-              - type: text
-                marks:
-                  - type: em
-                text: 'E-mail: '
-              - type: text
-                marks:
-                  - type: link
-                    attrs:
-                      href: 'mailto:julie.wilhelmi@comsat.com'
-                      title: null
-                  - type: em
-                text: julie.wilhelmi@comsat.com
-              - type: text
-                marks:
-                  - type: em
-                text: ', Tel.: +1 (571) 599 3627, Fax: +1 (571) 599 3672'
-  - type: amendment
-    target:
-      publication: E212_MNC
-    contents:
-      en:
-        type: doc
-        content:
-          - type: table
-            content:
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: em
-                              - type: strong
-                            text: Country/Geographical area
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: em
-                              - type: strong
-                            text: MCC+MNC *
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: em
-                              - type: strong
-                            text: Operator/Network
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 2
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: Hungary ADD
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: "\_"
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: "\_"
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 216 03
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: DIGI Telecommunication Ltd.
+                  Beinleumi Ukraine P.E. Street Ingenerna 9/116 Dnipro, 49066
+                  Ukraine,
           - type: paragraph
             content:
               - type: text
-                text: "*MCC:\_ Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil"
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Tel.: +380 67 636 23 84, Fax: +380 67 236 80 68, E-Mail: "
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:costabez@beinleumi.com.ua'
+                      title: null
+                text: costabez@beinleumi.com.ua
+              - type: text
+                text: ' ,'
           - type: paragraph
             content:
               - type: text
-                text: "*MNC:\_ Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil"
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: em
+                text: 'Contact Person: Constantine Bezymyanny'
   - type: amendment
     target:
       publication: E118_IIN
@@ -197,12 +59,12 @@ messages:
               - type: text
                 marks:
                   - type: strong
-                text: 'Somalia '
+                text: Cyprus
               - type: text
                 marks:
                   - type: em
                   - type: strong
-                text: "\_\_\_"
+                text: "\_\_\_ "
               - type: text
                 text: "\_"
               - type: text
@@ -290,7 +152,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Somalia
+                            text: Cyprus
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -302,11 +164,19 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: NABAADTELCOM
+                            text: MTX Connect Ltd
                       - type: paragraph
                         content:
                           - type: text
-                            text: Km4 MOGADISHU
+                            text: Georgiou Gennadiou
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '10 Agathangelos Court #403'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: LIMASSOL 3041
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -318,7 +188,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: 89 252 85
+                            text: 89 883 05
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -328,27 +198,27 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Mr Duwane Alaafi
+                            text: Mr Ilya Balashov
                       - type: paragraph
                         content:
                           - type: text
-                            text: NABAADTELCOM
+                            text: Georgiou Gennadiou
                       - type: paragraph
                         content:
                           - type: text
-                            text: Km4 MOGADISHU
+                            text: '10 Agathangelos Court #403'
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Tel: +252 85 100 200'
+                            text: LIMASSOL 3041
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Fax: +252 85 100 200'
+                            text: "Tel: \_\_\_\_\_\_\_\_\_ +357 22 030 076"
                       - type: paragraph
                         content:
                           - type: text
-                            text: 'Email: nabaadtelecom@gmail.com'
+                            text: "E-mail:\_\_\_ ilya.balashov@mtxc.eu"
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -358,11 +228,15 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 1.IX.2016
+                            text: 18.VII.2016
           - type: paragraph
-            content:
-              - type: text
-                text: "\_"
+  - type: amendment
+    target:
+      publication: E212_MNC
+    contents:
+      en:
+        type: doc
+        content:
           - type: table
             content:
               - type: table_row
@@ -378,13 +252,8 @@ messages:
                           - type: text
                             marks:
                               - type: em
-                            text: Country/
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: em
-                            text: geographical area
+                              - type: strong
+                            text: Country/Geographical area
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -396,7 +265,8 @@ messages:
                           - type: text
                             marks:
                               - type: em
-                            text: Company Name/Address
+                              - type: strong
+                            text: MCC+MNC *
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -408,7 +278,22 @@ messages:
                           - type: text
                             marks:
                               - type: em
-                            text: Issuer Identifier Number
+                              - type: strong
+                            text: Operator/Network
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 2
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Australia ADD
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -418,9 +303,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            marks:
-                              - type: em
-                            text: Contact
+                            text: "\_"
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -430,9 +313,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            marks:
-                              - type: em
-                            text: Effective date of usage
+                            text: "\_"
               - type: table_row
                 content:
                   - type: table_cell
@@ -444,11 +325,23 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Somalia
+                            text: 505 37
                   - type: table_cell
                     attrs:
                       colspan: 1
                       rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Yancoal Australia Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 3
                       colwidth: null
                     content:
                       - type: paragraph
@@ -456,19 +349,77 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: NOMAD TELECOM LTD
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Maka Al-Mukarama Street
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: MOGADISHU
+                            text: Serbia ADD
                   - type: table_cell
                     attrs:
                       colspan: 1
                       rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 220 09
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: MUNDIO MOBILE d.o.o.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 220 11
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: GLOBALTEL d.o.o.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 2
                       colwidth: null
                     content:
                       - type: paragraph
@@ -476,7 +427,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: 89 252 84
+                            text: Sweden ADD
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -486,35 +437,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Mr Ali Omar
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Managing Director
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: NOMAD TELECOM LTD
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Maka Al-Mukarama Street
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: MOGADISHU
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Tel: +252 84 200 022'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'Fax: +252 84 200 021'
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 'E-mail: nomadtelecomltd@gmail.com'
+                            text: "\_"
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -524,8 +447,303 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 1.IX.2016
+                            text: "\_"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 240 11
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: ComHem AB
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 6
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Tanzania ADD
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 640 07
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Tanzania Telecommunications Company Limited
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 640 08
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Benson Informatics Limited (Smart)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 640 09
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Viettel Tanzania Limited (Halotel)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 640 11
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Smile Communications Tanzania Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 640 13
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Wiafrica Tanzania Limited (Cootel)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 5
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Tanzania LIR
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 640 02
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: MIC Tanzania Limited (Tigo)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 640 03
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Zanzibar Telecom Limited (Zantel)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 640 04
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Vodacom Tanzania Limited
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 640 05
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Airtel Tanzania Limited
           - type: paragraph
+            content:
+              - type: text
+                text: "*MCC:\_ Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil"
+          - type: paragraph
+            content:
+              - type: text
+                text: "MNC:\_ Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil"
   - type: amendment
     target:
       publication: Q708_ISPC
@@ -546,8 +764,6 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            marks:
-                              - type: em
                             text: Country/ Geographical Area
                   - type: table_cell
                     attrs:
@@ -558,8 +774,6 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            marks:
-                              - type: em
                             text: Unique name of the signalling point
                   - type: table_cell
                     attrs:
@@ -570,8 +784,6 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            marks:
-                              - type: em
                             text: Name of the signalling point operator
               - type: table_row
                 content:
@@ -584,8 +796,6 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            marks:
-                              - type: em
                             text: ISPC
                   - type: table_cell
                     attrs:
@@ -596,8 +806,6 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            marks:
-                              - type: em
                             text: DEC
               - type: table_row
                 content:
@@ -612,7 +820,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: "Germany\_\_\_ SUP"
+                            text: "Serbia\_\_\_ ADD"
               - type: table_row
                 content:
                   - type: table_cell
@@ -624,7 +832,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 2-125-6
+                            text: 3-241-1
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -634,7 +842,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '5102'
+                            text: '8073'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -644,7 +852,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Frankfurt
+                            text: 'PCOM-01,RS'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -654,217 +862,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Coast Media GmbH
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 2-248-4
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '6084'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Frankfurt
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: World Teleconnect International GmbH
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 5-245-2
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '12202'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Frankfurt
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Rehling GmbH
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 5-245-6
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '12206'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Frankfurt
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Pentatel GmbH
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 5-251-0
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '12248'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Frankfurt
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: bluerate telecom GmbH
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 6-237-4
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '14188'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Frankfurt
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: WeltDialCom GmbH
+                            text: GLOBALTEL d.o.o.
               - type: table_row
                 content:
                   - type: table_cell
@@ -878,7 +876,7 @@ messages:
                           - type: text
                             marks:
                               - type: strong
-                            text: "Germany\_\_\_ ADD"
+                            text: "Singapore\_\_\_ SUP"
               - type: table_row
                 content:
                   - type: table_cell
@@ -890,7 +888,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 2-249-2
+                            text: 5-047-2
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -900,7 +898,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '6090'
+                            text: '10618'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -910,7 +908,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 51-418-1627
+                            text: 'Touchtone-Equinix, Ayer Rajah'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -920,21 +918,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Softnet Trading PTE. LTD.
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 4
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: "Germany\_\_\_ LIR"
+                            text: Touchtone Pte Ltd
               - type: table_row
                 content:
                   - type: table_cell
@@ -946,7 +930,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: 2-037-7
+                            text: 5-141-3
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -956,7 +940,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: '4399'
+                            text: '11371'
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -966,7 +950,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Frankfurt
+                            text: Equinix Singapore
                   - type: table_cell
                     attrs:
                       colspan: 1
@@ -976,527 +960,7 @@ messages:
                       - type: paragraph
                         content:
                           - type: text
-                            text: Wavecrest Communications Deutschland GmbH
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 2-125-7
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '5103'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Frankfurt
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Level 3 Communications GmbH
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 2-247-0
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '6072'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Hamburg
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Xtend new media Holding GmbH
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 4-246-3
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '10163'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Frankfurt
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: >-
-                              European Telecommunications Holding E.T.H.
-                              Aktiengesellschaft
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 4
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: "Hungary\_\_\_ LIR"
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 6-251-0
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '14296'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Budapest-DIGIMOBIL-01
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: DIGI Telecommunication Ltd
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 4
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: "Japan\_\_\_ SUP"
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 4-082-6
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '8854'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Tokyo
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Nebular Telecom Japan K.K.
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 4-086-0
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '8880'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Higashi
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Tata Communications (Japan) K.K.
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 4-086-1
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '8881'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Nihonbashi
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Tata Communications (Japan) K.K.
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 4
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: "Japan\_\_\_ ADD"
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 4-090-4
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '8916'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Tokyo-7
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: KDDI Corporation
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 4-090-5
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '8917'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Osaka-10
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: KDDI Corporation
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 4
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            marks:
-                              - type: strong
-                            text: "Japan\_\_\_ LIR"
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 4-086-4
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '8884'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Tokyo-6
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: KDDI Corporation
-              - type: table_row
-                content:
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: 4-086-5
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: '8885'
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: Osaka-9
-                  - type: table_cell
-                    attrs:
-                      colspan: 1
-                      rowspan: 1
-                      colwidth: null
-                    content:
-                      - type: paragraph
-                        content:
-                          - type: text
-                            text: KDDI Corporation
+                            text: Bitucom Pte Ltd
           - type: paragraph
             content:
               - type: text
@@ -1513,3 +977,121 @@ messages:
             content:
               - type: text
                 text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ Códigos de puntos de señalización internacional (CPSI)."
+  - type: amendment
+    target:
+      publication: NNP
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Administrations are requested to notify ITU about their
+                  national numbering plan changes, or to give an explanation on
+                  their webpage concerning the national numbering plan as well
+                  as their contact points, so that the information, which will
+                  be made available freely to all administrations/ROAs and
+                  service providers, can be posted on the ITU-T website.
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  For their numbering website, or when sending their information
+                  to ITU/TSB (e-mail: 
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:tsbtson@itu/.int'
+                      title: null
+                text: tsbtson@itu.int
+              - type: text
+                text: >-
+                  ), administrations are kindly requested to use the format as
+                  explained in Recommendation ITU-T E.129. They are reminded
+                  that they will be responsible for the timely update of this
+                  information.
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  From 15.VII.2016 the following countries have updated their
+                  national numbering plan on our site:
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country Code (CC)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Iran (Islamic Republic of)
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+98'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Uganda
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+256'
