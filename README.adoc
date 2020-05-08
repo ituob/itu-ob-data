@@ -72,6 +72,8 @@ references the original publication being amended.
 +
 Must specify `publication` (specifying original publication)
 and, where applicable, `position_on` (specifying the version/issue/snapshot).
+If not provided, `position_on` will be assumed to be the latest position annexed
+to one of the preceding OB editions.
 
 External publication::
 ITU publication not annexed to a previous OB issue,
