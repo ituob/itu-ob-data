@@ -1,1 +1,80 @@
-messages: []
+messages:
+  - type: amendment
+    target:
+      publication: R_SP_LM.V
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: REP
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: IR16
+              - type: text
+                text: "\_\_\_\_\_\_ Sokan Iman Jaroon LTD Co., No.42, 9th floor, Eghtesad Tower, Jahanbar intersection,"
+              - type: hard_break
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Postal Code: 7918768794, Bandar Abbas, Iran."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Tel.: +98 761 4511495 (4 lines), Fax: +98 761 5562265,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_E-Mail: "
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:managing@sijco.net'
+                      title: null
+                text: managing@sijco.net
+              - type: text
+                text: ', URL: '
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'http://www.sijco.net'
+                      title: null
+                text: www.sijco.net
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: PL02
+              - type: text
+                text: "\_\_\_\_\_\_ Orange Customer Service, Collecting and Invoicing Agency,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Invoicing Transmission Services Billing Unit ul."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_ Kasprzaka 18/20 01-211 Warsaw, Poland."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_ Tel.: +48 50 094 39 30, E-Mail: "
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:renata.grzegorek@orange.com'
+                      title: null
+                text: renata.grzegorek@orange.com
