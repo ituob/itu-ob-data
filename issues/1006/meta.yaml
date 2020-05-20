@@ -1,3 +1,7 @@
+id: 1006
+publication_date: 2012-06-15T05:06:40.594Z
+cutoff_date: 2012-06-01T05:06:40.594Z
+issn: 1564-5223
 languages:
   en: true
 authors:
@@ -35,7 +39,3 @@ authors:
       - type: email
         data: brmail@itu.int
         recommended: true
-issn: 1564-5223
-id: 1006
-cutoff_date: 2012-06-01T05:06:40.594Z
-publication_date: 2012-06-15T05:06:40.594Z
