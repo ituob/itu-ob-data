@@ -6328,6 +6328,4 @@ messages:
                 text: OE50XFG
               - type: text
                 text: ' from 1 to 31 July 2012 and from 12 to 14 October 2012.'
-  - type: service_restrictions
-    items: []
   - type: callback_procedures
