@@ -1018,10 +1018,6 @@ messages:
           - type: paragraph
             content:
               - type: text
-                text: Edition of 2019
-          - type: paragraph
-            content:
-              - type: text
                 text: (Amendment No. 1)*
           - type: paragraph
             content:
