@@ -6,10 +6,8 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'Y.3515 ': 2017-07-01
-      'Y.4114 ': 2017-07-01
-      'G.9700 (2014) Amd. 2 ': 2017-07-01
-      'G.9901 ': 2017-07-01
+      'Y.3515 ': 2017-07-01T00:00:00.000Z
+      'Y.4114 ': 2017-07-01T00:00:00.000Z
     by: AAP-16
     procedures: Recommendation ITU-T A.8
   - type: custom
@@ -1116,7 +1114,7 @@ messages:
         contact:
           en: "Danish Energy Agency\nAmaliegade 44\n1256 COPENHAGEN K\nDenmark\nTel:\t+45 33 92 67 00 \nFax:\t+45 33 11 47 43\nE-mail:\tens@ens.dk \nURL:\twww.ens.dk "
         communications:
-          - date: 2017-07-12
+          - date: 2017-07-12T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -1231,7 +1229,7 @@ messages:
             E-mail: communications@gra.gi
             URL: www.gra.gi
         communications:
-          - date: 2017-07-06
+          - date: 2017-07-06T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -1922,7 +1920,7 @@ messages:
             E-mail: roaming@telepost.gl
             URL: www.tele.gl
         communications:
-          - date: 2017-07-07
+          - date: 2017-07-07T00:00:00.000Z
             contents:
               en:
                 type: doc
