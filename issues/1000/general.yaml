@@ -15756,6 +15756,4 @@ messages:
               - type: hard_break
               - type: text
                 text: "URL:\_\_\_\_\_\_\_\_ www.mascom.bw"
-  - type: service_restrictions
-    items: []
   - type: callback_procedures
