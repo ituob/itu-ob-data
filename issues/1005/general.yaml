@@ -11304,6 +11304,4 @@ messages:
                       href: 'http://www.sviluppoeconomico.gov.it'
                       title: null
                 text: www.sviluppoeconomico.gov.it
-  - type: service_restrictions
-    items: []
   - type: callback_procedures
