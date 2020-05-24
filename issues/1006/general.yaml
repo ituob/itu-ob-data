@@ -4772,6 +4772,4 @@ messages:
                 text: YU175SB
               - type: text
                 text: ' from 15 June to 31 December 2012.'
-  - type: service_restrictions
-    items: []
   - type: callback_procedures
