@@ -6,19 +6,19 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'Y.4500.4 ': 2018-03-01
-      'Y.4500.5 ': 2018-03-01
-      'Y.4500.6 ': 2018-03-01
-      'Y.4500.8 ': 2018-03-01
-      'Y.4500.9 ': 2018-03-01
-      'Y.4500.10 ': 2018-03-01
-      'Y.4500.11 ': 2018-03-01
-      'Y.4500.12 ': 2018-03-01
-      'Y.4500.13 ': 2018-03-01
-      'Y.4500.14 ': 2018-03-01
-      'Y.4500.15 ': 2018-03-01
-      'Y.4500.20 ': 2018-03-01
-      'Y.4500.23 ': 2018-03-01
+      'Y.4500.4 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.5 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.6 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.8 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.9 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.10 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.11 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.12 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.13 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.14 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.15 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.20 ': 2018-03-01T00:00:00.000Z
+      'Y.4500.23 ': 2018-03-01T00:00:00.000Z
     by: AAP-34
     procedures: Recommendation ITU-T A.8
   - type: custom
@@ -137,7 +137,7 @@ messages:
         contact:
           en: "Mr Jérôme Besch\nInstitut Luxembourgeois de Régulation (ILR)\n17, rue du Fossé\n2922 Luxembourg\nLuxembourg\nTel:\t+352 28 228 228\nFax:\t+352 28 228 229\nE-mail: \tnumerotation@ilr.lu\nURL:\twww.ilr.lu "
         communications:
-          - date: 2018-04-18
+          - date: 2018-04-18T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -604,7 +604,7 @@ messages:
         contact:
           en: "State Communications Agency \nunder the State Committee of Information Technologies and Communications of Kyrgyz Republic\n7b, Baytik Baatyr Street\n720005 BISHKEK\nKyrgyzstan\nTel: \t+996 312 541333 \nFax: \t+996 312 544105 \nE-mail:\tatilenbaev@nas.gov.kg; nta@infotel.kg\nURL: \thttp://world.nas.gov.kg/index.php?option=com_content&view=article&id=70&Itemid=165 &lang=ru \nSky Mobile LLC\nRoaming and interconnect department\nE-mail: roaming@beeline.kg"
         communications:
-          - date: 2018-04-25
+          - date: 2018-04-25T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -961,7 +961,7 @@ messages:
         contact:
           en: "Mr Colin Talamahina - Director\nMr Farm Tukumulia - Operations Manager\nTelecom Niue LTD\nPO Box 32 – Commercial Center\nALOFI\nNiue\nTel:\t+683 5663/+683 4005\nFax:\t+683 4010\nE-mail:\tcolin.talamahina@mail.gov.nu; \n\tfarm.tukumulia@mail.gov.nu; \n\ttelecom.callcentre@mail.gov.nu"
         communications:
-          - date: 2018-04-25
+          - date: 2018-04-25T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -1760,7 +1760,7 @@ messages:
         contact:
           en: "Norwegian Communications Authority\nPostbox 93\n4791 LILLESAND\nNorway\nTel: \t+47 22 82 46 00\nFax: \t+47 22 82 46 40\nE-mail: \tfirmapost@nkom.no \nURL: \twww.nkom.no\n"
         communications:
-          - date: 2018-04-26
+          - date: 2018-04-26T00:00:00.000Z
             contents:
               en:
                 type: doc
