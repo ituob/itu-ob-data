@@ -1429,6 +1429,4 @@ messages:
                       href: 'mailto:min_com@gosl.gov.lc'
                       title: null
                 text: min_com@gosl.gov.lc
-  - type: service_restrictions
-    items: []
   - type: callback_procedures
