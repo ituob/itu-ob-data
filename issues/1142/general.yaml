@@ -11,7 +11,7 @@ messages:
         contact:
           en: "Ministry of Transport, Communications and High Technologies\n77, Zarifa Aliyeva Str., \nAZ 1000 BAKU\nAzerbaijan \nTel:\t\t+994 12 498 5838        +994 12 598 0753\nFax:\t\t+994 12 498 7912        +994 12 493 7363\nE-mail: \t\tmincom@mincom.gov.az\nURL: \t\twww.mincom.gov.az"
         communications:
-          - date: 2018-01-24
+          - date: 2018-01-24T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -8132,7 +8132,7 @@ messages:
         contact:
           en: "Belgian Institute for Postal services and Telecommunications\nEllipse Building\nBoulevard du Roi Albert II, 35\n1030 Brussels\nBelgium\nTel. :\t+32 2 226 88 88\nFax: \t+32 2 226 88 77\nE-mail:\tnumbering@bipt.be\nURL: \twww.bipt.be"
         communications:
-          - date: 2018-02-01
+          - date: 2018-02-01T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -8299,7 +8299,7 @@ messages:
         contact:
           en: "Danish Energy Agency\nAmaliegade 44\n1256 COPENHAGEN K\nDenmark\nTel:\t+45 33 92 67 00 \nFax:\t+45 33 11 47 43\nE-mail:\tens@ens.dk \nURL:\twww.ens.dk "
         communications:
-          - date: 2019-12-11
+          - date: 2019-12-11T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -8402,7 +8402,7 @@ messages:
         contact:
           en: "Alireza Darvishi\nDirector, International Specialized Organizations Bureau,\nCommunications Regulatory Authority (CRA)\nMinistry of Information and Communication Technology\n15598 TEHRAN \nIran (Islamic Republic of) \nTel:\t+98 21 89662201\nFax: \t+98 21 88468999\nURL: \twww.cra.ir"
         communications:
-          - date: 2018-01-27
+          - date: 2018-01-27T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -12335,7 +12335,7 @@ messages:
         contact:
           en: "Eng. Candido Frota\nPresident\nAutoridade Geral de Regulação (AGER)\nAvenida 12 de Julho N° 54\nSÃO TOMÉ\nSao Tome and Principe\nTel: \t+239 2224995\nEmail:\tcandidofrota1963@gmail.com"
         communications:
-          - date: 2018-01-19
+          - date: 2018-01-19T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -12389,7 +12389,7 @@ messages:
         contact:
           en: "Mr Simeti Lopati\nCEO\nTuvalu Telecommunications Corporation (TTC)\nPrivate Bag 14\nVaiaku\nFUNAFUTI\nTuvalu\nTel:\t+688 20688\nFax:\t+688 20800\nE-mail: \tsimeti@tuvalutelecom.tv"
         communications:
-          - date: 2018-02-02
+          - date: 2018-02-02T00:00:00.000Z
             contents:
               en:
                 type: doc
