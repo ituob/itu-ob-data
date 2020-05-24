@@ -4842,6 +4842,4 @@ messages:
                 text: YU0KRUNA
               - type: text
                 text: ' from 14 to 17 April 2012.'
-  - type: service_restrictions
-    items: []
   - type: callback_procedures
