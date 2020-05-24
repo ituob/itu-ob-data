@@ -6,22 +6,22 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.989.2 ': 2014-12-01
-      'G.994.1 (2012) Amd. 4 ': 2014-12-01
-      'G.9701 ': 2014-12-01
-      'G.9979 ': 2014-12-01
-      'H.761 ': 2014-11-01
-      'J.343 ': 2014-11-01
-      'J.343.1 ': 2014-11-01
-      'J.343.2 ': 2014-11-01
-      'J.343.3 ': 2014-11-01
-      'J.343.4 ': 2014-11-01
-      'J.343.5 ': 2014-11-01
-      'J.343.6 ': 2014-11-01
-      'K.100 ': 2014-12-01
-      'K.101 ': 2014-12-01
-      'L.1410 ': 2014-12-01
-      'X.1311 (2011) Cor. 1 ': 2014-11-01
+      'G.989.2 ': 2014-12-01T00:00:00.000Z
+      'G.994.1 (2012) Amd. 4 ': 2014-12-01T00:00:00.000Z
+      'G.9701 ': 2014-12-01T00:00:00.000Z
+      'G.9979 ': 2014-12-01T00:00:00.000Z
+      'H.761 ': 2014-11-01T00:00:00.000Z
+      'J.343 ': 2014-11-01T00:00:00.000Z
+      'J.343.1 ': 2014-11-01T00:00:00.000Z
+      'J.343.2 ': 2014-11-01T00:00:00.000Z
+      'J.343.3 ': 2014-11-01T00:00:00.000Z
+      'J.343.4 ': 2014-11-01T00:00:00.000Z
+      'J.343.5 ': 2014-11-01T00:00:00.000Z
+      'J.343.6 ': 2014-11-01T00:00:00.000Z
+      'K.100 ': 2014-12-01T00:00:00.000Z
+      'K.101 ': 2014-12-01T00:00:00.000Z
+      'L.1410 ': 2014-12-01T00:00:00.000Z
+      'X.1311 (2011) Cor. 1 ': 2014-11-01T00:00:00.000Z
     by: AAP-48
     procedures: Recommendation ITU-T A.8
   - contents:
@@ -31,7 +31,7 @@ messages:
         contact:
           en: "Belgium Institute for Postal Services and Telecommunications\nEllipse Building, Building C\nKoning Albert II – Iaan 35\n1030 BRUSSELS\nBelgium \nTel:\t+32 2 226 8888\nFax:\t+32 2 226 8877\nE-mail:\tinfo@bipt.be\nURL:\twww.bipt.be "
         communications:
-          - date: 2014-12-02
+          - date: 2014-12-02T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -72,7 +72,7 @@ messages:
         contact:
           en: "Danish Business Authority\nDahlerups Pakhus\nLangelinie Allé 17\nDK-2100 COPENHAGEN\nDenmark\nTel:\t+45 35 29 10 00 \nFax:\t+45 35 46 60 01 \nE-mail:\terst@erst.dk \nURL:\twww.erst.dk "
         communications:
-          - date: 2014-12-04
+          - date: 2014-12-04T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -103,7 +103,7 @@ messages:
         contact:
           en: "National Communications Authority (NCA)\nFirst Rangoon Close\nP.O. Box CT1568 Cantonments\nACCRA\nGhana \nTel:\t+233 302 776 621\nFax:\t+233 302 763 449\nE-mail:\tinfo@nca.com.gh\nURL:\twww.nca.org.gh"
         communications:
-          - date: 2014-12-08
+          - date: 2014-12-08T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -288,7 +288,7 @@ messages:
         contact:
           en: "ISCC Kuwait\nMinistry of Communications\nP.O. Box 318\n11111 SAFAT\nKuwait\nTel:\t+965 2241 1777\nFax:\t+965 2241 9815\nE-mail:\tiscckuwait@gmail.com\nURL:\twww.moc.kw"
         communications:
-          - date: 2014-12-08
+          - date: 2014-12-08T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -339,7 +339,7 @@ messages:
         contact:
           en: "Agency for Electronic Communications and Postal Services (EKIP)\nBulevar Džordža Vašingtona bb\n81000 PODGORICA\nMontenegro\nTel:\t+382 20 406 700\nFax:\t+382 20 406 702\nE-mail:\tekip@ekip.me\nURL: \twww.ekip.me"
         communications:
-          - date: 2014-11-05
+          - date: 2014-11-05T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -1582,7 +1582,7 @@ messages:
         contact:
           en: "Administrative questions:\nTelecommunications Commissioner\nTelecommunications Commission of Solomon Islands (TCSI)\nPO Box 2180\nHONIARA \nSolomon Islands\nTel : \t+677 23855\nFax: \t+677 23861\nE-mail: \tbernard.hill@tcsi.org.sb\n\n\nTechnical questions:\nMr Martin Horika\nTeam Leader Call Centre\nSolomon Telekom Company Limited\nTelekom Haus\nMendana Avenue\nGPO Box 148\nHONIARA\nSolomon Islands\nTel:\t+677 26766\nFax:\t+677 21468\nE-mail: \tmartin.horika@telekom.com.sb\n"
         communications:
-          - date: 2014-12-05
+          - date: 2014-12-05T00:00:00.000Z
             contents:
               en:
                 type: doc
