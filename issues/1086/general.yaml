@@ -6,10 +6,10 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'Y.2071 ': 2015-09-01
-      'Y.2075 ': 2015-09-01
-      'Y.2320 ': 2015-09-01
-      'Y.3520 Rev.1 ': 2015-09-01
+      'Y.2071 ': 2015-09-01T00:00:00.000Z
+      'Y.2075 ': 2015-09-01T00:00:00.000Z
+      'Y.2320 ': 2015-09-01T00:00:00.000Z
+      'Y.3520 Rev.1 ': 2015-09-01T00:00:00.000Z
     by: AAP-66
     procedures: Recommendation ITU-T A.8
   - contents:
@@ -19,7 +19,7 @@ messages:
         contact:
           en: "Danish Business Authority\nDahlerups Pakhus\nLangelinie Allé 17\nDK-2100 COPENHAGEN\nDenmark\nTel:\t+45 35 29 10 00 \nFax:\t+45 35 46 60 01 \nE-mail:\terst@erst.dk \nURL:\twww.erst.dk "
         communications:
-          - date: 2015-09-28
+          - date: 2015-09-28T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -122,7 +122,7 @@ messages:
         contact:
           en: "Mr. Itaaka Tebaka\nManager Engineering\nCommunications Commission of Kiribati (CCK)\nP.O. Box 529\nBETIO, TARAWA \nKiribati\nTel: \t+686 25488; Cell: +686 72098911\nE-mail: \titaaka.tebaka@cck.ki \nURL: \twww.cck.ki"
         communications:
-          - date: 2015-09-30
+          - date: 2015-09-30T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -464,7 +464,7 @@ messages:
         contact:
           en: "Mrs. Sana AMRI \nInstance Nationale des Télécommunications \nRue Echabia, Montplaisir \n1073 TUNIS\nTunisia\nTel: \t+216 71 900 868 / +216 71 901 526 / +216 71 902 658 / +216 99 300 746\nFax: \t+216 71 909 435 / +216 71 904 811\nE-mail: \tsana.amri@intt.tn\nURL: \twww.intt.tn"
         communications:
-          - date: 2015-09-28
+          - date: 2015-09-28T00:00:00.000Z
             contents:
               en:
                 type: doc
