@@ -2,11 +2,11 @@ name: deploy
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, staging ]
 
 jobs:
   trigger-deploy:
-    name: Trigger master deploy
+    name: Trigger deploy
     runs-on: ubuntu-latest
     steps:
       - name: Build event type
@@ -16,6 +16,6 @@ jobs:
       - name: Trigger ituob.org
         uses: peter-evans/repository-dispatch@v1
         with:
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.ITUOB_CI_GHA_TOKEN }}
           repository: ituob/ituob.org
           event-type: ${{ steps.event_type.outputs.value }}
