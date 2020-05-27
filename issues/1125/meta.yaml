@@ -1,9 +1,9 @@
 id: 1125
-publication_date: 2018-06-01
-cutoff_date: 2018-05-16
+publication_date: 2017-06-01T00:00:00.000Z
+cutoff_date: 2017-05-16T00:00:00.000Z
 issn: 1564-5223
 languages:
-  en: yes
+  en: true
 authors:
   - address: |-
       Place des Nations CH-1211
@@ -13,29 +13,29 @@ authors:
         data: +41 22 730 5111
       - type: email
         data: itumail@itu.int
-        recommended: yes
+        recommended: true
   - name: Standardization Bureau (TSB)
     contacts:
       - type: phone
         data: +41 22 730 5211
-        recommended: yes
+        recommended: true
       - type: fax
         data: +41 22 730 5853
-        recommended: yes
+        recommended: true
       - type: email
         data: tsbmail@itu.int
-        recommended: yes
+        recommended: true
       - type: email
         data: tsbtson@itu.int
-        recommended: yes
+        recommended: true
   - name: Radiocommunication Bureau (BR)
     contacts:
       - type: phone
         data: +41 22 730 5560
-        recommended: yes
+        recommended: true
       - type: fax
         data: +41 22 730 5785
-        recommended: yes
+        recommended: true
       - type: email
         data: brmail@itu.int
-        recommended: yes
+        recommended: true

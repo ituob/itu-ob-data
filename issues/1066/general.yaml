@@ -11,7 +11,7 @@ messages:
         contact:
           en: "Mr. Marcos de Souza Oliveira\nAgência Nacional de Telecomunicações (ANATEL)\nGerência de Certificação e Numeração – ORCN\nSAUS Quadra 6, Bloco E, 9o andar\nCEP 70.070-940 - BRASILIA/DF\nBrazil\nTel:\t+55 61 2312 2026\nURL:\twww.anatel.gov.br"
         communications:
-          - date: 2014-11-26
+          - date: 2014-11-26T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -4066,7 +4066,7 @@ messages:
         contact:
           en: "Danish Business Authority\nDahlerups Pakhus\nLangelinie Allé 17\nDK-2100 COPENHAGEN\nDenmark\nTel:\t+45 35 29 10 00 \nFax:\t+45 35 46 60 01 \nE-mail:\terst@erst.dk \nURL:\twww.erst.dk"
         communications:
-          - date: 2014-11-20
+          - date: 2014-11-20T00:00:00.000Z
             contents:
               en:
                 type: doc

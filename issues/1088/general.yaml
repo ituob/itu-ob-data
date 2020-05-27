@@ -6,23 +6,23 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.989 ': 2015-10-01
-      'G.989.3 ': 2015-10-01
-      'L.1440 ': 2015-10-01
-      'X.1155 ': 2015-10-01
-      'X.1314 (2014) Cor. 1 ': 2015-10-01
-      'X.1601 ': 2015-10-01
-      'Z.161 ': 2015-10-01
-      'Z.161.1 ': 2015-10-01
-      'Z.161.2 ': 2015-10-01
-      'Z.161.3 ': 2015-10-01
-      'Z.161.4 ': 2015-10-01
-      'Z.161.5 ': 2015-10-01
-      'Z.165 ': 2015-10-01
-      'Z.165.1 ': 2015-10-01
-      'Z.166 ': 2015-10-01
-      'Z.168 ': 2015-10-01
-      Z.169: 2015-10-01
+      'G.989 ': 2015-10-01T00:00:00.000Z
+      'G.989.3 ': 2015-10-01T00:00:00.000Z
+      'L.1440 ': 2015-10-01T00:00:00.000Z
+      'X.1155 ': 2015-10-01T00:00:00.000Z
+      'X.1314 (2014) Cor. 1 ': 2015-10-01T00:00:00.000Z
+      'X.1601 ': 2015-10-01T00:00:00.000Z
+      'Z.161 ': 2015-10-01T00:00:00.000Z
+      'Z.161.1 ': 2015-10-01T00:00:00.000Z
+      'Z.161.2 ': 2015-10-01T00:00:00.000Z
+      'Z.161.3 ': 2015-10-01T00:00:00.000Z
+      'Z.161.4 ': 2015-10-01T00:00:00.000Z
+      'Z.161.5 ': 2015-10-01T00:00:00.000Z
+      'Z.165 ': 2015-10-01T00:00:00.000Z
+      'Z.165.1 ': 2015-10-01T00:00:00.000Z
+      'Z.166 ': 2015-10-01T00:00:00.000Z
+      'Z.168 ': 2015-10-01T00:00:00.000Z
+      Z.169: 2015-10-01T00:00:00.000Z
     by: AAP-68
     procedures: Recommendation ITU-T A.8
   - type: custom
@@ -58,7 +58,7 @@ messages:
         contact:
           en: "Ms. C.I.M. Sandries LLC\nDeputy Director\nBureau Telecommunicatie en Post\nBeatrixlaan 9\nCuraçao\nTel:\t+599 9 463 1700\nFax: \t+599 9 736 5265"
         communications:
-          - date: 2015-10-27
+          - date: 2015-10-27T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -1620,7 +1620,7 @@ messages:
         contact:
           en: "Mr Simeti K. Lopati\nCEO\nTuvalu Telecommunications Corporation (TTC)\nPrivate Bag 14\nVaiaku\nFUNAFUTI\nTuvalu\nTel:\t+688 20688\nFax:\t+688 20800\nE-mail: \tsimeti@tuvalutelecom.tv"
         communications:
-          - date: 2015-10-31
+          - date: 2015-10-31T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -2135,7 +2135,7 @@ messages:
         contact:
           en: "Service des Postes et Télécommunications \nDivision Telecom\nB.P. 00\n98600 MATA-UTU, UVEA\nWallis and Futuna\nAtt: Stéphane Pambrun\nTél:\t+681 722 014\nE-mail: \tstephane.pambrun@spt.wf"
         communications:
-          - date: 2015-10-20
+          - date: 2015-10-20T00:00:00.000Z
             contents:
               en:
                 type: doc

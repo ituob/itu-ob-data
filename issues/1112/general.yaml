@@ -6,14 +6,11 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.994.1 (2012) Cor. 1 ': 2016-10-01
-      'H.265.1 ': 2016-10-01
-      'Z.100 Annex F3 ': 2016-10-01
-      'Z.100 Annex F2 ': 2016-10-01
-      'Z.100 Annex F1 ': 2016-10-01
-      'G.9700 (2014) Amd. 1 ': 2016-09-01
-      'G.9964 (2011) Amd. 2 ': 2016-09-01
-      'E.212 ': 2016-09-01
+      'G.994.1 (2012) Cor. 1 ': 2016-10-01T00:00:00.000Z
+      'H.265.1 ': 2016-10-01T00:00:00.000Z
+      'Z.100 Annex F3 ': 2016-10-01T00:00:00.000Z
+      'Z.100 Annex F2 ': 2016-10-01T00:00:00.000Z
+      'Z.100 Annex F1 ': 2016-10-01T00:00:00.000Z
     by: AAP-91
     procedures: Recommendation ITU-T A.8
   - type: sanc
@@ -134,7 +131,7 @@ messages:
         contact:
           en: "Danish Energy Agency\nAmaliegade 44\n1256 COPENHAGEN K\nDenmark\nTel:\t+45 33 92 67 00 \nFax:\t+45 33 11 47 43\nE-mail:\tens@ens.dk \nURL:\twww.ens.dk "
         communications:
-          - date: 2016-10-26
+          - date: 2016-10-26T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -349,7 +346,7 @@ messages:
         contact:
           en: "Institut Luxembourgeois de Régulation (ILR)\n17, rue du Fossé\n2922 LUXEMBOURG\nLuxembourg\nTel:\t+352 28 228 228\nFax:\t+352 28 228 229\nE-mail: \tinfo@ilr.lu\nURL:\twww.ilr.lu"
         communications:
-          - date: 2016-10-31
+          - date: 2016-10-31T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -382,7 +379,7 @@ messages:
         contact:
           en: "Mr. Shukri Mohamed Jama\nCEO and Founder\nSomali Networks Telecom\nMOGADISHU\nSomalia\nEmail: shukriwalker20@yahoo.co.uk\t\n\nMr. Ahmed Abdi\nDirector General\nMinistry of Post, ICT and Telecommunications\nJamhuria Road\nMOGADISHU\nSomalia\nTel: \t+252 616342657\nEmail: \tdg.ahabdi@gmail.com\n"
         communications:
-          - date: 2016-10-21
+          - date: 2016-10-21T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -656,7 +653,7 @@ messages:
                                 content:
                                   - type: text
                                     text: 'Email: dg.ahabdi@gmail.com'
-          - date: 2016-10-21
+          - date: 2016-10-21T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -1106,7 +1103,7 @@ messages:
                                   - type: text
                                     text: "Email: \_ gelleh.mursal@gmail.com; dg.ahabdi@gmail.com"
                   - type: paragraph
-          - date: 2016-10-21
+          - date: 2016-10-21T00:00:00.000Z
             contents:
               en:
                 type: doc
