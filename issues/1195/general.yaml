@@ -6,11 +6,8 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.781 ': 2020-04-01
-      'Y.4209 ': 2020-04-01
-      'G.9710 ': 2020-02-01
-      'G.9964 (2011) Amd. 3 ': 2020-02-01
-      'T Q.5051 ': 2020-03-01
+      'G.781 ': 2020-04-01T00:00:00.000Z
+      'Y.4209 ': 2020-04-01T00:00:00.000Z
     by: AAP-79
     procedures: Recommendation ITU-T A.8
   - type: iptn
@@ -143,7 +140,7 @@ messages:
         contact:
           en: "Ministry of High-Tech Industry\n3/3 Vazgen Sargsyan Street\n0010 YEREVAN\nArmenia\nTel:\t+374 10590021 \nFax:\t+374 10590017 \nE-mail: \tinfo@hti.am\nURL:\twww.hti.am"
         communications:
-          - date: 2020-04-08
+          - date: 2020-04-08T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -9723,7 +9720,7 @@ messages:
         contact:
           en: "TRA BAHRAIN\nMohammed Abdulla Ramzan Alnoaimi\nDirector, Technical and Operations Department\nP.O. Box 10353\nManama - Bahrain\nTel: \t+973 17 520 000\nFax: \t+973 17 532 125\nE-mail: \tict@tra.org.bh\nURL: \twww.tra.org.bh"
         communications:
-          - date: 2020-05-15
+          - date: 2020-05-15T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -14965,7 +14962,7 @@ messages:
         contact:
           en: "Alireza Darvishi\nDirector General, International Organizations Bureau,\nCommunications Regulatory Authority (CRA)\nMinistry of Information and Communication Technology\n15598 TEHRAN \nIran (Islamic Republic of) \nTel:\t+98 21 89662201\nFax: \t+98 21 88468999\nE-mail: \tdarvishi@cra.ir\nURL: \twww.cra.ir"
         communications:
-          - date: 2020-05-02
+          - date: 2020-05-02T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -19945,7 +19942,7 @@ messages:
         contact:
           en: "Ministry of Information and Communications (MIC)\n18 Nguyen Du Street\nHA NOI 10000\nViet Nam\nTel: \t+84 43943 0204\nFax: \t+84 43822 6590\nE-mail: \tdic@mic.gov.vn \nURL: \twww.mic.gov.vn"
         communications:
-          - date: 2020-04-15
+          - date: 2020-04-15T00:00:00.000Z
             contents:
               en:
                 type: doc

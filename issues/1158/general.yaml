@@ -6,8 +6,7 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'L.1450 ': 2018-09-01
-      'X.1361 ': 2018-09-01
+      'L.1450 ': 2018-09-01T00:00:00.000Z
     by: AAP-44
     procedures: Recommendation ITU-T A.8
   - contents:
@@ -17,7 +16,7 @@ messages:
         contact:
           en: "Botswana Communications Regulatory Authority (BOCRA)\nPlot 50671, Independence Avenue\nPrivate Bag 00495\nGABORONE\nBotswana\nTel:\t+267 395 7755 \nFax: \t+267 395 7976\nE-mail:\ttechnical@bocra.org.bw \nURL:\twww.bocra.org.bw"
         communications:
-          - date: 2018-09-27
+          - date: 2018-09-27T00:00:00.000Z
             contents:
               en:
                 type: doc
