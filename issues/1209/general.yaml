@@ -6,8 +6,8 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.8275.1/Y.1369.1 (2020) Amd. 1 ': 2020-10-31T23:00:00.000Z
-      'G.8275.2/Y.1369.2 (2020) Amd. 1 ': 2020-10-31T23:00:00.000Z
+      'G.8275.1/Y.1369.1 (2020)/Amd 1 ': 2020-10-31T23:00:00.000Z
+      'G.8275.2/Y.1369.2 (2020)/Amd 1 ': 2020-10-31T23:00:00.000Z
     by: AAP-93
     procedures: Recommendation ITU-T A.8
   - contents:

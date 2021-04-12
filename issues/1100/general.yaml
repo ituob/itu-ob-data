@@ -6,7 +6,7 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'X.509 (2012) Cor. 2 ': 2016-04-01
+      'X.509 (2012)/Cor 2 ': 2016-04-01
       'X.1033 ': 2016-04-01
       'X.1051 ': 2016-04-01
       'Z.100 ': 2016-04-01

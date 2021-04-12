@@ -6,10 +6,10 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.798 (2010) Amend. 1 ': 2011-06-30T22:00:00.000Z
+      'G.798 (2010)/Amd 1 ': 2011-06-30T22:00:00.000Z
       'G.873.1 ': 2011-06-30T22:00:00.000Z
       'G.8013/Y.1731 ': 2011-06-30T22:00:00.000Z
-      'G.8021/Y.1341 (2010) Amend .1 ': 2011-06-30T22:00:00.000Z
+      'G.8021/Y.1341 (2010)/Amd 1 ': 2011-06-30T22:00:00.000Z
       'X.660 ': 2011-06-30T22:00:00.000Z
     by: AAP-64
     procedures: Recommendation ITU-T A.8

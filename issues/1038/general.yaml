@@ -6,8 +6,8 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.8021/Y.1341 (2012) Amd. 2 ': 2013-07-31T22:00:00.000Z
-      'G.8271/Y.1366 (2012) Amd. 1 ': 2013-07-31T22:00:00.000Z
+      'G.8021/Y.1341 (2012)/Amd 2 ': 2013-07-31T22:00:00.000Z
+      'G.8271/Y.1366 (2012)/Amd 1 ': 2013-07-31T22:00:00.000Z
     by: AAP-20
     procedures: Recommendation ITU-T A.8
   - type: iptn
