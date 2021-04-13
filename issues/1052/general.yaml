@@ -6,7 +6,7 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'P.1201.2 (2012)/Cor 1 ': 2014-03-31T22:00:00.000Z
+      'P.1201.2 (2012) Cor 1 ': 2014-03-31T22:00:00.000Z
     by: AAP-33
     procedures: Recommendation ITU-T A.8
   - type: iptn

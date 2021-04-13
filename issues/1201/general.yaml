@@ -6,8 +6,8 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.9962 (2018)/Amd 1 ': 2020-06-30T22:00:00.000Z
-      'G.9991 (2019)/Amd 1 ': 2020-06-30T22:00:00.000Z
+      'G.9962 (2018) Amd 1 ': 2020-06-30T22:00:00.000Z
+      'G.9991 (2019) Amd 1 ': 2020-06-30T22:00:00.000Z
       'M.3164 ': 2020-06-30T22:00:00.000Z
     by: AAP-85
     procedures: Recommendation ITU-T A.8

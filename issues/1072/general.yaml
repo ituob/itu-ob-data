@@ -6,7 +6,7 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.8013/Y.1731 (2013)/Amd 1 ': 2015-02-01
+      'G.8013/Y.1731 (2013) Amd 1 ': 2015-02-01
       'H.624.2 ': 2015-02-01
     by: AAP-52
     procedures: Recommendation ITU-T A.8

@@ -6,9 +6,9 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.994.1 (2012)/Amd 6 ': 2015-08-01
+      'G.994.1 (2012) Amd 6 ': 2015-08-01
       'G.995.2 ': 2015-08-01
-      'G.998.2 (2005)/Amd 4 ': 2015-08-01
+      'G.998.2 (2005) Amd 4 ': 2015-08-01
     by: AAP-64
     procedures: Recommendation ITU-T A.8
   - type: sanc

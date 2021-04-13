@@ -6,9 +6,9 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.711.1 (2008)/Amd 4 ': 2010-10-31T23:00:00.000Z
-      'G.720.1 (2010)/Amd 1 ': 2010-09-30T22:00:00.000Z
-      'G.722 (1988)/Amd 1 ': 2010-09-30T22:00:00.000Z
+      'G.711.1 (2008) Amd 4 ': 2010-10-31T23:00:00.000Z
+      'G.720.1 (2010) Amd 1 ': 2010-09-30T22:00:00.000Z
+      'G.722 (1988) Amd 1 ': 2010-09-30T22:00:00.000Z
     by: AAP-48
     procedures: Recommendation ITU-T A.8
   - type: custom

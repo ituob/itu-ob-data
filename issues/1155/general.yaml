@@ -6,10 +6,10 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.798 (2017)/Cor 1 ': 2018-08-01
-      'G.997.2 (2015)/Amd 5 ': 2018-08-01
-      'G.9701 (2014)/Cor 5 ': 2018-08-01
-      'G.9701 (2014)/Amd 5 ': 2018-08-01
+      'G.798 (2017) Cor 1 ': 2018-08-01
+      'G.997.2 (2015) Amd 5 ': 2018-08-01
+      'G.9701 (2014) Cor 5 ': 2018-08-01
+      'G.9701 (2014) Amd 5 ': 2018-08-01
     by: AAP-41
     procedures: Recommendation ITU-T A.8
   - type: iptn
