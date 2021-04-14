@@ -6,7 +6,7 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      ' G.988 ': 2017-11-01
+      'G.988 ': 2017-11-01
       'P.10/G.100 ': 2017-11-01
       'X.1053 ': 2017-11-01
       'Y.4806 ': 2017-11-01

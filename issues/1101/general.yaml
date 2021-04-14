@@ -6,7 +6,7 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      ' G.8275/Y.1369 (2013) Amd 2 ': 2016-04-01
+      'G.8275/Y.1369 (2013) Amd 2 ': 2016-04-01
     by: AAP-80
     procedures: Recommendation ITU-T A.8
   - type: sanc
