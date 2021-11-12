@@ -1155,7 +1155,7 @@ messages:
                           - type: superscript
                         text: '1'
                       - type: text
-                        text: ': INWI'
+                        text: ': INWI.    '
       - country_name:
           en: 'Myanmar '
         phone_code: '95'
