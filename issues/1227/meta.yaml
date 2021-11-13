@@ -1,3 +1,7 @@
+id: 1227
+publication_date: 2021-09-01T20:10:40.171Z
+cutoff_date: 2021-08-18T20:10:40.171Z
+issn: 1564-5223
 languages:
   en: true
 authors:
@@ -35,7 +39,3 @@ authors:
       - type: email
         data: brmail@itu.int
         recommended: true
-issn: 1564-5223
-id: 1227
-cutoff_date: 2021-08-18T20:10:40.171Z
-publication_date: 2021-09-01T20:10:40.171Z
