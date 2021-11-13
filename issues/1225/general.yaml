@@ -506,7 +506,7 @@ messages:
                   - type: paragraph
                     content:
                       - type: text
-                        text: "The maximum number length (excluding the country code) is:\_\_ Nine (9) digits"
+                        text: "The maximum number length (excluding the country code) is:\_\_ Nine (9) digits.  "
       - country_name:
           en: 'Malta '
         phone_code: '356'
@@ -1155,7 +1155,7 @@ messages:
                           - type: superscript
                         text: '1'
                       - type: text
-                        text: ': INWI'
+                        text: ': INWI.    '
       - country_name:
           en: 'Myanmar '
         phone_code: '95'
