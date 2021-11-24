@@ -16,6 +16,6 @@ jobs:
       - name: Trigger ituob.org
         uses: peter-evans/repository-dispatch@v1
         with:
-          token: ${{ secrets.ITUOB_CI_GHA_TOKEN }}
+          token: ${{ secrets.ITUOB_CI_PAT_TOKEN }}
           repository: ituob/ituob.org
           event-type: ${{ steps.event_type.outputs.value }}
