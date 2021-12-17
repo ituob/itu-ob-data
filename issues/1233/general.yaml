@@ -87,7 +87,7 @@ messages:
                   - type: paragraph
                     content:
                       - type: text
-                        text: "\_"
+                        text: "   \_"
                   - type: table
                     content:
                       - type: table_row
@@ -785,7 +785,7 @@ messages:
                   - type: paragraph
                     content:
                       - type: text
-                        text: "\_"
+                        text: "    \_"
                   - type: table
                     content:
                       - type: table_row
