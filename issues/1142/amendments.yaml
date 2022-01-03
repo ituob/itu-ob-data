@@ -2281,3 +2281,485 @@ messages:
                         content:
                           - type: text
                             text: '+965'
+  - type: amendment
+    target:
+      publication: List of Coast Stations and Special Service Stations
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "NOR\_\_\_\_\_\_\_\_\_\_ Norway"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: "Notes\_\_\_\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: AAIC
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: LIR
+          - type: paragraph
+            content:
+              - type: text
+                text: "A\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Accounting authority: Telenor Norge AS, Snaroyveien 30, 1331 Fornebu (Norway)."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ TF:\_\_\_\_ +47 67 893200"
+              - type: hard_break
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ E-mail: lisens@telenor.com"
+          - type: paragraph
+            content:
+              - type: text
+                text: "B\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Radiotelegrams are charged, handled and delivered as for radiomaritime letters = SLT = (see note C)."
+          - type: paragraph
+            content:
+              - type: text
+                text: "C\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Radiomaritime letters = SLT =: 15.– SDR (fixed charge per A4 paper sheet). They are delivered by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ facsimile, telex or e-mail if bearing this service indication."
+          - type: paragraph
+            content:
+              - type: text
+                text: "H\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Radiotelephone calls (minimum 1 min.)"
+          - type: paragraph
+            content:
+              - type: text
+                text: "1.\_\_\_\_ Total charge"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 3
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: SDR/min.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: VHF
+                          - type: text
+                            marks:
+                              - type: superscript
+                            text: '1'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: VHF
+                          - type: text
+                            marks:
+                              - type: superscript
+                            text: '2'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: MF/HF
+                          - type: text
+                            marks:
+                              - type: superscript
+                            text: '1'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ a)\_\_\_\_ Norway............................................."
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '0.30'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '0.60'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '1.50'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ b)\_\_\_\_ Europe............................................."
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '1.20'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '1.50'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '1.90'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ c)\_\_\_\_ Rest of the world................................"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '1.80'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '2.10'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '2.40'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ e)\_\_\_\_ Inmarsat–B/M..................................."
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 4.–
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 4.–
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 4.–
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ f)\_\_\_\_\_ Ship-to-ship (via Norway)....................."
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '0.30'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '0.60'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '1.50'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: "2.\_\_\_\_ Ship-to-ship calls via one/two Norwegian coast stations: one charge (see table above)."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_ Ship-to-ship calls via one Norwegian and one foreign coast station: one charge for each station."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: ____________
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "*\_\_\_\_\_ All the notes in List IV are published exclusively in English. Therefore, this amendment is presented only in English."
+          - type: paragraph
+          - type: paragraph
+            content:
+              - type: text
+                text: "3.\_\_\_\_ Surcharges"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_ a)\_\_\_\_ Personal calls"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ i)\_\_\_\_ Norway: 1.20 SDR."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ii)\_\_\_ Other countries: 2.40 SDR."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_ b)\_\_\_\_ Collect calls between Norwegian ships and Norway: charge in local currency."
+          - type: paragraph
+            content:
+              - type: text
+                text: _______________
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                  - type: superscript
+                text: '1'
+              - type: text
+                text: "\_\_\_\_\_ Manual operation."
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                  - type: superscript
+                text: '2'
+              - type: text
+                text: "\_\_\_\_\_ Arctic: calls via SVALBARD, JAN MAYEN and BJORNOYA geographical sites."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: "L\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Special charges"
+          - type: paragraph
+            content:
+              - type: text
+                text: "1.\_\_\_\_ Notifications of arrival and navigation in Norwegian territorial waters: 15.– SDR per notification."
+          - type: paragraph
+            content:
+              - type: text
+                text: "2.\_\_\_\_ Weather forecasts (gale, storm, ice) and navigational warnings transmitted on request: 3.– SDR."
+          - type: paragraph
+            content:
+              - type: text
+                text: "3.\_\_\_\_ Short text-message via Norwegian coast stations to ship delivered by satellite (Eik coast earth station): 2.– SDR."

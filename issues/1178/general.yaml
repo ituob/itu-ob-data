@@ -6,22 +6,19 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      H.871: 2019-07-01
-      J.207: 2019-07-01
-      J.216: 2019-07-01
-      J.224: 2019-07-01
-      J.288: 2019-07-01
-      J.1026: 2019-07-01
-      J.1027: 2019-07-01
-      'J.1028 ': 2019-07-01
-      J.1202: 2019-07-01
-      J.1210: 2019-07-01
-      Q.3741: 2019-07-01
-      Q.4043: 2019-07-01
-      Q.5021: 2019-07-01
-      Q.5050: 2019-03-01
-      L.1015: 2019-06-01
-      G.9700: 2019-07-01
+      H.871: 2019-07-01T00:00:00.000Z
+      J.207: 2019-07-01T00:00:00.000Z
+      J.216: 2019-07-01T00:00:00.000Z
+      J.224: 2019-07-01T00:00:00.000Z
+      J.288: 2019-07-01T00:00:00.000Z
+      J.1026: 2019-07-01T00:00:00.000Z
+      J.1027: 2019-07-01T00:00:00.000Z
+      'J.1028 ': 2019-07-01T00:00:00.000Z
+      J.1202: 2019-07-01T00:00:00.000Z
+      J.1210: 2019-07-01T00:00:00.000Z
+      Q.3741: 2019-07-01T00:00:00.000Z
+      Q.4043: 2019-07-01T00:00:00.000Z
+      Q.5021: 2019-07-01T00:00:00.000Z
     by: AAP-63
     procedures: Recommendation ITU-T A.8
   - type: telephone_service_2
@@ -40,7 +37,7 @@ messages:
             E-mail:post@gncc.ge
             URL: www.gncc.ge
         communications:
-          - date: 2019-07-23
+          - date: 2019-07-23T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -7075,7 +7072,7 @@ messages:
             E-mail: numerotation@anrt.ma
             URL: www.anrt.ma
         communications:
-          - date: 2019-07-19
+          - date: 2019-07-19T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -7236,7 +7233,7 @@ messages:
 
             E-mail: doz_kom@dsszzi.gov.ua
         communications:
-          - date: 2019-07-29
+          - date: 2019-07-29T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -9748,7 +9745,7 @@ messages:
                               - type: paragraph
                                 content:
                                   - type: text
-                                    text: No
+                                    text: false
                           - type: table_cell
                             attrs:
                               colspan: 1
@@ -9782,7 +9779,7 @@ messages:
                               - type: paragraph
                                 content:
                                   - type: text
-                                    text: Yes
+                                    text: true
                           - type: table_cell
                             attrs:
                               colspan: 1
@@ -9792,7 +9789,7 @@ messages:
                               - type: paragraph
                                 content:
                                   - type: text
-                                    text: No
+                                    text: false
                           - type: table_cell
                             attrs:
                               colspan: 1
@@ -9802,7 +9799,7 @@ messages:
                               - type: paragraph
                                 content:
                                   - type: text
-                                    text: Yes
+                                    text: true
                       - type: table_row
                         content:
                           - type: table_cell
@@ -9932,7 +9929,7 @@ messages:
                               - type: paragraph
                                 content:
                                   - type: text
-                                    text: No
+                                    text: false
                       - type: table_row
                         content:
                           - type: table_cell

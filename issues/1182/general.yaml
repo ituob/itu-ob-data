@@ -6,12 +6,11 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      G.9960 (2018) Cor. 1: 2019-08-01
-      G.9961 (2018) Cor. 1: 2019-08-01
+      G.9960 (2018) Cor 1: 2019-08-01T00:00:00.000Z
+      G.9961 (2018) Cor 1: 2019-08-01T00:00:00.000Z
     by: AAP-67
     procedures: Recommendation ITU-T A.8
-  - type: telephone_service_2
-    contents:
+  - contents:
       - country_name:
           en: Morocco
         phone_code: '212'
@@ -28,7 +27,7 @@ messages:
             E-mail: numerotation@anrt.ma
             URL: www.anrt.ma
         communications:
-          - date: 2019-09-23
+          - date: 2019-09-23T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -224,23 +223,8 @@ messages:
                                 content:
                                   - type: text
                                     text: Itissalat Al-Maghrib
-      - country_name:
-          en: Zambia
-        phone_code: '260'
-        contact:
-          en: |-
-            Mr Patrick Mutimushi
-            Zambia Information & Communications Technology Authority (ZICTA)
-            Plot 4909
-            Corner of Independence and United Nations Avenues
-            LUSAKA
-            Zambia
-            Tel: +260 211 378200
-            Fax: +260 211 246701
-            E-mail: pmutimushi@zicta.zm
-            URL: www.zicta.zm
-        communications:
-          - date: 2019-10-27
+      - communications:
+          - date: 2019-10-27T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -451,23 +435,7 @@ messages:
                               colwidth: null
                             content:
                               - type: paragraph
-      - country_name:
-          en: Zambia
-        phone_code: '260'
-        contact:
-          en: |-
-            Mr Elliot Kabalo
-            Zambia Information & Communications Technology Authority (ZICTA)
-            Plot 4909
-            Corner of Independence and United Nations Avenues
-            LUSAKA
-            Zambia
-            Tel: +260 211 378200
-            Fax: +260 211 246701
-            E-mail: ekabalo@zicta.zm; numbering@zicta.zm
-            URL: www.zicta.zm
-        communications:
-          - date: 2019-10-27
+          - date: 2019-10-26T22:51:02.073Z
             contents:
               en:
                 type: doc
@@ -2334,6 +2302,33 @@ messages:
                                 content:
                                   - type: text
                                     text: Free
+        phone_code: '260'
+        country_name:
+          en: Zambia
+        contact:
+          en: |-
+            Mr Patrick Mutimushi
+            Zambia Information & Communications Technology Authority (ZICTA)
+            Plot 4909
+            Corner of Independence and United Nations Avenues
+            LUSAKA
+            Zambia
+            Tel: +260 211 378200
+            Fax: +260 211 246701
+            E-mail: pmutimushi@zicta.zm
+            URL: www.zicta.zm
+
+            Mr Elliot Kabalo
+            Zambia Information & Communications Technology Authority (ZICTA)
+            Plot 4909
+            Corner of Independence and United Nations Avenues
+            LUSAKA
+            Zambia
+            Tel: +260 211 378200
+            Fax: +260 211 246701
+            E-mail: ekabalo@zicta.zm; numbering@zicta.zm
+            URL: www.zicta.zm
+    type: telephone_service_2
   - type: service_restrictions
     items:
       - country:

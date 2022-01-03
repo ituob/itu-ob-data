@@ -6,12 +6,12 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.9960 ': 2015-07-01
-      'G.9961 ': 2015-07-01
-      'G.9963 ': 2015-07-01
-      'X.226 (1994) Cor. 1 ': 2015-07-01
-      'X.227 bis (1998) Cor. 1 ': 2015-07-01
-      'X.1631 ': 2015-07-01
+      'G.9960 ': 2015-07-01T00:00:00.000Z
+      'G.9961 ': 2015-07-01T00:00:00.000Z
+      'G.9963 ': 2015-07-01T00:00:00.000Z
+      'X.226 (1994) Cor 1 ': 2015-07-01T00:00:00.000Z
+      'X.227 bis (1998) Cor 1 ': 2015-07-01T00:00:00.000Z
+      'X.1631 ': 2015-07-01T00:00:00.000Z
     by: AAP-61
     procedures: Recommendation ITU-T A.8
   - type: custom
@@ -507,7 +507,7 @@ messages:
         contact:
           en: "Prime Minister's Office\nDivision of Energy and Telecommunications\nTelecommunications Unit\nTrinity Business Centre\nCountry Road \nWARRENS, ST. MICHAEL BB11081\nBarbados\nURL:\twww.telecoms.gov.bb"
         communications:
-          - date: 2015-07-16
+          - date: 2015-07-16T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -10728,7 +10728,7 @@ messages:
         contact:
           en: "Danish Business Authority\nDahlerups Pakhus\nLangelinie Allé 17\nDK-2100 COPENHAGEN\nDenmark\nTel:\t+45 35 29 10 00 \nFax:\t+45 35 46 60 01 \nE-mail:\terst@erst.dk \nURL:\twww.erst.dk "
         communications:
-          - date: 2015-07-09
+          - date: 2015-07-09T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -10831,7 +10831,7 @@ messages:
         contact:
           en: "Director General\nTanzania Communications Regulatory Authority (TCRA)\nMawasiliano Towers,\n20 Sam Nujoma Road, \nP.O. Box 474\n14414 DAR-ES-SALAAM\nTanzania\nTel:\t+255 22 2412011\nFax:\t+255 22 2412009\nE-mail:\tdg@tcra.go.tz"
         communications:
-          - date: 2015-07-06
+          - date: 2015-07-06T00:00:00.000Z
             contents:
               en:
                 type: doc

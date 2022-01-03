@@ -6,20 +6,13 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'H.846 ': 2017-04-01
-      'H.849 ': 2017-04-01
-      'H.850 ': 2017-04-01
-      'X.680 (2015) Cor. 1 ': 2017-05-01
-      X.696 (2015) Cor. 1: 2017-05-01
-      'X.1145 ': 2017-05-01
-      'Y.4115 ': 2017-04-01
-      'X.1058 ': 2017-03-01
-      'X.1080.0 ': 2017-03-01
-      'X.1126 ': 2017-03-01
-      'X.1212 ': 2017-03-01
-      'X.1362 ': 2017-03-01
-      'X.1373 ': 2017-03-01
-      'X.1550 ': 2017-03-01
+      'H.846 ': 2017-04-01T00:00:00.000Z
+      'H.849 ': 2017-04-01T00:00:00.000Z
+      'H.850 ': 2017-04-01T00:00:00.000Z
+      'X.680 (2015) Cor 1 ': 2017-05-01T00:00:00.000Z
+      X.696 (2015) Cor 1: 2017-05-01T00:00:00.000Z
+      'X.1145 ': 2017-05-01T00:00:00.000Z
+      'Y.4115 ': 2017-04-01T00:00:00.000Z
     by: AAP-12
     procedures: Recommendation ITU-T A.8
   - type: ipns
@@ -119,7 +112,7 @@ messages:
         contact:
           en: "Danish Energy Agency\nAmaliegade 44\n1256 COPENHAGEN K\nDenmark\nTel:\t+45 33 92 67 00 \nFax:\t+45 33 11 47 43\nE-mail:\tens@ens.dk \nURL:\twww.ens.dk "
         communications:
-          - date: 2017-05-16
+          - date: 2017-05-16T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -500,7 +493,7 @@ messages:
         contact:
           en: "Eti Shmueli\nHead of Communication Engineering Division\nMinistry of Communications\n23 Jaffa Street\n9199900 JERUSALEM\nIsrael\nTel:\t+972 3 519 8225/242\nFax:\t+972 3 519 8244\nE-mail:\tetis@moc.gov.il"
         communications:
-          - date: 2017-05-16
+          - date: 2017-05-16T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -710,7 +703,7 @@ messages:
         contact:
           en: "Network Operation Center (NOC) \nMinistry of Communications \nP.O. Box 318\n11111 SAFAT\nKuwait\nTel:\t+965 2241 6565/ +965 2246 6621\nFax:\t+965 2245 9797 \nE-mail:\tigw-noc@moc.gov.kw"
         communications:
-          - date: 2017-05-05
+          - date: 2017-05-05T00:00:00.000Z
             contents:
               en:
                 type: doc

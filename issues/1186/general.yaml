@@ -6,33 +6,33 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'F.740.1 ': 2019-11-01
-      'F.743 (V2) ': 2019-11-01
-      F.743.10 (: 2019-11-01
-      'F.749.11 ': 2019-11-01
-      'G.9701 (2019) Cor. 1 ': 2019-11-01
-      'G.9701 (2019) Amd. 1 ': 2019-11-01
-      'H.222.0 (2018) Amd. 1 ': 2019-11-01
-      H.222.0 (2018) Cor. 1: 2019-11-01
-      'H.265 (V7) ': 2019-11-01
-      'H.430.4 ': 2019-11-01
-      'H.626 (V2) ': 2019-11-01
-      'H.629.1 ': 2019-11-01
-      'H.644.2 ': 2019-11-01
-      'H.753 ': 2019-11-01
-      'H.764 V2 ': 2019-11-01
-      'H.810 (V5) ': 2019-11-01
-      'H.813 ': 2019-11-01
-      'H.830.15 ': 2019-11-01
-      'H.842 ': 2019-11-01
-      'H.844 ': 2019-11-01
-      'H.845.17 ': 2019-11-01
-      'H.846 ': 2019-11-01
-      'H.850 ': 2019-11-01
-      'H.850.6 ': 2019-11-01
-      H.850.7: 2019-11-01
-      'H.862.0 ': 2019-11-01
-      'X.1401 ': 2019-11-01
+      'F.740.1 ': 2019-11-01T00:00:00.000Z
+      'F.743 (V2) ': 2019-11-01T00:00:00.000Z
+      F.743.10 (: 2019-11-01T00:00:00.000Z
+      'F.749.11 ': 2019-11-01T00:00:00.000Z
+      'G.9701 (2019) Cor 1 ': 2019-11-01T00:00:00.000Z
+      'G.9701 (2019) Amd 1 ': 2019-11-01T00:00:00.000Z
+      'H.222.0 (2018) Amd 1 ': 2019-11-01T00:00:00.000Z
+      H.222.0 (2018) Cor 1: 2019-11-01T00:00:00.000Z
+      'H.265 (V7) ': 2019-11-01T00:00:00.000Z
+      'H.430.4 ': 2019-11-01T00:00:00.000Z
+      'H.626 (V2) ': 2019-11-01T00:00:00.000Z
+      'H.629.1 ': 2019-11-01T00:00:00.000Z
+      'H.644.2 ': 2019-11-01T00:00:00.000Z
+      'H.753 ': 2019-11-01T00:00:00.000Z
+      'H.764 V2 ': 2019-11-01T00:00:00.000Z
+      'H.810 (V5) ': 2019-11-01T00:00:00.000Z
+      'H.813 ': 2019-11-01T00:00:00.000Z
+      'H.830.15 ': 2019-11-01T00:00:00.000Z
+      'H.842 ': 2019-11-01T00:00:00.000Z
+      'H.844 ': 2019-11-01T00:00:00.000Z
+      'H.845.17 ': 2019-11-01T00:00:00.000Z
+      'H.846 ': 2019-11-01T00:00:00.000Z
+      'H.850 ': 2019-11-01T00:00:00.000Z
+      'H.850.6 ': 2019-11-01T00:00:00.000Z
+      H.850.7: 2019-11-01T00:00:00.000Z
+      'H.862.0 ': 2019-11-01T00:00:00.000Z
+      'X.1401 ': 2019-11-01T00:00:00.000Z
     by: AAP-71
     procedures: Recommendation ITU-T A.8
   - contents:
@@ -42,7 +42,7 @@ messages:
         contact:
           en: "Danish Energy Agency\n43 Carsten Niebuhrs Gade\n1577 COPENHAGEN V\nDenmark\nTel:\t+45 33 92 67 00 \nFax:\t+45 33 11 47 43\nE-mail:\tens@ens.dk \nURL:\twww.ens.dk "
         communications:
-          - date: 2019-11-19
+          - date: 2019-11-19T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -225,7 +225,7 @@ messages:
         contact:
           en: "Mr Nicholas Jatta\nDirector ICT\nPublic Utilities Regulatory Authority (PURA)\n94 Kairaba Avenue\nSerrekunda\nGambia\nTel:\t\t+220 439 9601/4\nFax:\t\t+220 439 9905\nE-mail:\tnic@pura.gm / nickjatta@hotmail.com\nURL:\t\twww.pura.gm"
         communications:
-          - date: 2019-11-26
+          - date: 2019-11-26T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -6088,7 +6088,7 @@ messages:
         contact:
           en: "Motiaa Abdelhay\nAgence Nationale de Réglementation des Télécommunications (ANRT)\nCentre d'affaires\nAddress: Boulevard Ar-Riad, Hay Riad \nB.P. 2939\nRABAT 10100\nMorocco\nTel:  \t+212 5 37 71 85 64\nE-mail: \tnumerotation@anrt.ma \nURL: \twww.anrt.ma"
         communications:
-          - date: 2019-11-21
+          - date: 2019-11-21T00:00:00.000Z
             contents:
               en:
                 type: doc

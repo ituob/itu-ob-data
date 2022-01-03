@@ -6,16 +6,16 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'K.27 ': 2015-03-01
-      'K.74 ': 2015-03-01
-      'K.79 ': 2015-03-01
-      'K.98 (2014) Cor. 1 ': 2015-03-01
-      'K.103 ': 2015-03-01
-      'K.104 ': 2015-03-01
-      'K.105 ': 2015-03-01
-      'K.106 ': 2015-03-01
-      'L.1321 ': 2015-03-01
-      'L.1330 ': 2015-03-01
+      'K.27 ': 2015-03-01T00:00:00.000Z
+      'K.74 ': 2015-03-01T00:00:00.000Z
+      'K.79 ': 2015-03-01T00:00:00.000Z
+      'K.98 (2014) Cor 1 ': 2015-03-01T00:00:00.000Z
+      'K.103 ': 2015-03-01T00:00:00.000Z
+      'K.104 ': 2015-03-01T00:00:00.000Z
+      'K.105 ': 2015-03-01T00:00:00.000Z
+      'K.106 ': 2015-03-01T00:00:00.000Z
+      'L.1321 ': 2015-03-01T00:00:00.000Z
+      'L.1330 ': 2015-03-01T00:00:00.000Z
     by: AAP-53
     procedures: Recommendation ITU-T A.8
   - type: ipns
@@ -113,7 +113,7 @@ messages:
         contact:
           en: "Mr. Yves Castanou\nDirecteur Général\nAgence de Régulation des Postes et des Communications Electroniques (ARPCE)\nImmeuble ARPCE\n91 bis Avenue de l'Amitié\nB.P. 2490\nBRAZZAVILLE \nCongo\nTel:\t+242 6646156\nFax:\t+242 811695\nE-mail:\tcontact@arpce.net\nURL :\twww.arpce.cg"
         communications:
-          - date: 2015-02-10
+          - date: 2015-02-10T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -139,7 +139,7 @@ messages:
         contact:
           en: "Danish Business Authority\nDahlerups Pakhus\nLangelinie Allé 17\nDK-2100 COPENHAGEN\nDenmark\nTel:\t+45 35 29 10 00 \nFax:\t+45 35 46 60 01 \nE-mail:\terst@erst.dk \nURL:\twww.erst.dk "
         communications:
-          - date: 2015-03-13
+          - date: 2015-03-13T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -242,7 +242,7 @@ messages:
         contact:
           en: "Mr. Omar Odat\nTechnical Department \nTelecommunications Regulatory Commission (TRC)\nShmeisani - Abdel Hamid Sharaf Street, \nBuilding No. 90\nP.O. Box 941794\nAMMAN 11194\nJordan \nTel:\t+962 6 5501120 ext: 3133\nFax:\t+962 6 5690830\nE-mail:\tOmar.Odat@trc.gov.jo"
         communications:
-          - date: 2015-03-12
+          - date: 2015-03-12T00:00:00.000Z
             contents:
               en:
                 type: doc
@@ -377,7 +377,7 @@ messages:
         contact:
           en: "Office of the President\nDepartment of Information Communications Technology \nCommunications Division\n3rd Floor, Caravelle House, Manglier Street\nP.O. Box 737\nVICTORIA, Mahé\nSeychelles\nTel:\t+248 4 286 600\nFax: \t+248 4 225 325\nE-mail:\tcommunications@ict.gov.sc"
         communications:
-          - date: 2015-03-10
+          - date: 2015-03-10T00:00:00.000Z
             contents:
               en:
                 type: doc
