@@ -12,16 +12,10 @@ jobs:
       - name: Build event type
         id: event_type
         run: |
-          # workaround for https://github.com/ituob/itu-ob-data/issues/83
-          BRANCH=${GITHUB_REF##*/}
-          if [ "$BRANCH" = "main" ]; then
-            echo "value=deploy_main" > $GITHUB_OUTPUT
-          else
-            echo "value=deploy_$BRANCH" > $GITHUB_OUTPUT
-          fi
+          echo "value=deploy_${GITHUB_REF##*/}" >> $GITHUB_OUTPUT
 
       - name: Trigger ituob.org
-        uses: peter-evans/repository-dispatch@v1
+        uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.ITUOB_CI_PAT_TOKEN }}
           repository: ituob/ituob.org
