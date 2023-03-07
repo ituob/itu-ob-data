@@ -2,7 +2,7 @@ name: deploy
 
 on:
   push:
-    branches: [ master, staging ]
+    branches: [ main, staging ]
 
 jobs:
   trigger-deploy:
@@ -14,11 +14,12 @@ jobs:
         run: |
           # workaround for https://github.com/ituob/itu-ob-data/issues/83
           BRANCH=${GITHUB_REF##*/}
-          if [ "$BRANCH" = "master" ]; then
-            echo "##[set-output name=value;]deploy_main"
+          if [ "$BRANCH" = "main" ]; then
+            echo "value=deploy_main" > $GITHUB_OUTPUT
           else
-            echo "##[set-output name=value;]deploy_$BRANCH"
+            echo "value=deploy_$BRANCH" > $GITHUB_OUTPUT
           fi
+
       - name: Trigger ituob.org
         uses: peter-evans/repository-dispatch@v1
         with:
