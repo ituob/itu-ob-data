@@ -1,0 +1,22 @@
+name: deploy
+
+on:
+  push:
+    branches: [ main, staging ]
+
+jobs:
+  trigger-deploy:
+    name: Trigger deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build event type
+        id: event_type
+        run: |
+          echo "value=deploy_${GITHUB_REF##*/}" >> $GITHUB_OUTPUT
+
+      - name: Trigger ituob.org
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.ITUOB_CI_PAT_TOKEN }}
+          repository: ituob/ituob.org
+          event-type: ${{ steps.event_type.outputs.value }}

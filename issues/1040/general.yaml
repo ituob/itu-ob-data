@@ -6,7 +6,7 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.709/Y.1331 (2012) Amd. 2 ': 2013-09-30T22:00:00.000Z
+      'G.709/Y.1331 (2012) Amd 2 ': 2013-09-30T22:00:00.000Z
     by: AAP-22
     procedures: Recommendation ITU-T A.8
   - contents:

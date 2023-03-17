@@ -6,7 +6,7 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.997.1 (2009) Amd. 5 ': 2012-01-31T23:00:00.000Z
+      'G.997.1 (2009) Amd 5 ': 2012-01-31T23:00:00.000Z
       'L.89 ': 2012-01-31T23:00:00.000Z
       'L.1410 ': 2012-02-29T23:00:00.000Z
     by: AAP-78

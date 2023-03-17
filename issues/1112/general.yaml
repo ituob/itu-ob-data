@@ -6,7 +6,7 @@ messages:
     type: running_annexes
   - type: approved_recommendations
     items:
-      'G.994.1 (2012) Cor. 1 ': 2016-10-01T00:00:00.000Z
+      'G.994.1 (2012) Cor 1 ': 2016-10-01T00:00:00.000Z
       'H.265.1 ': 2016-10-01T00:00:00.000Z
       'Z.100 Annex F3 ': 2016-10-01T00:00:00.000Z
       'Z.100 Annex F2 ': 2016-10-01T00:00:00.000Z

@@ -2,7 +2,8 @@
 
 The data here is used in building ituob.org site, as we well as PDF & HTML deliverables (work in progress).
 
-image::https://travis-ci.com/ituob/itu-ob-data.svg?branch=master[]
+image::https://github.com/ituob/itu-ob-data/actions/workflows/deploy.yml/badge.svg["deploy (main)", link="https://github.com/ituob/itu-ob-data/actions/workflows/deploy.yml"]
+image::https://github.com/ituob/itu-ob-data/actions/workflows/deploy.yml/badge.svg["deploy (staging)", link="https://github.com/ituob/itu-ob-data/actions/workflows/deploy.yml"]
 
 == General
 
@@ -81,7 +82,7 @@ such as List V, List VIII or NNP / Telephone Service dataset.
 
 == Message types
 
-See: https://github.com/ituob/ituob.org/blob/master/_config.yml#L10 (https://github.com/ituob/ituob.org/issues/6)
+See: https://github.com/ituob/ituob.org/blob/main/_config.yml#L10 (https://github.com/ituob/ituob.org/issues/6)
 
 Following message types currently are implemented:
 
