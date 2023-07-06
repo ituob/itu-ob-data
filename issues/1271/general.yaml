@@ -1,0 +1,62 @@
+messages:
+  - extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      'G.698.1 ': 2023-05-31T22:00:00.000Z
+      'G.698.4 ': 2023-05-31T22:00:00.000Z
+      'G.987.2 (2023) Amd. 1 ': 2023-05-31T22:00:00.000Z
+      'G.989.3 (2021) Amd. 1 ': 2023-05-31T22:00:00.000Z
+      'G.8013/Y.1731 ': 2023-05-31T22:00:00.000Z
+      'G.8051/Y.1345 (2020) Amd. 1 ': 2023-05-31T22:00:00.000Z
+      'G.8251 (2022) Cor. 1 ': 2023-05-31T22:00:00.000Z
+      'G.8271.1/Y.1366.1 (2022) Amd. 1 ': 2023-05-31T22:00:00.000Z
+      'G.8273/Y.1368 ': 2023-05-31T22:00:00.000Z
+      'G.8273.2/Y.1368.2 ': 2023-05-31T22:00:00.000Z
+      'T G.9701 (2019) Cor. 4 ': 2023-05-31T22:00:00.000Z
+      'G.9711 (2021) Cor. 2 ': 2023-05-31T22:00:00.000Z
+      'G.9805 (2022) Amd. 1 ': 2023-05-31T22:00:00.000Z
+      'G.9960 ': 2023-05-31T22:00:00.000Z
+      'G.9963 ': 2023-05-31T22:00:00.000Z
+      'L.340 ': 2023-05-31T22:00:00.000Z
+      'X.1051 ': 2023-05-31T22:00:00.000Z
+    by: AAP-30
+    procedures: Recommendation ITU-T A.8
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+  - type: callback_procedures
