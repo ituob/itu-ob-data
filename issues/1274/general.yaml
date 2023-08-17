@@ -1,0 +1,1482 @@
+messages:
+  - extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      'G.9802.2 ': 2023-06-30T22:00:00.000Z
+      'K.60 ': 2023-06-30T22:00:00.000Z
+      'K.93 ': 2023-06-30T22:00:00.000Z
+      'K.143 ': 2023-06-30T22:00:00.000Z
+      'K.147 ': 2023-06-30T22:00:00.000Z
+    by: AAP-33
+    procedures: Recommendation ITU-T A.8
+  - contents:
+      - country_name:
+          en: 'Uganda '
+        phone_code: '256'
+        contact:
+          en: "Uganda Communications Commission (UCC) \nPlot 42-44 Spring Road, Bugolobi \nP.O. Box 7376, Kampala, Uganda \nTel:\t+256 41 433 9000 \nFax:\t+256 41 434 8832 \nE-mail: \tucc@ucc.co.ug \nURL:\twww.ucc.co.ug "
+        communications:
+          - date: 2023-07-18T06:33:00.080Z
+            contents:
+              en:
+                type: doc
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: 'The '
+                      - type: text
+                        marks:
+                          - type: em
+                        text: Uganda Communications Commission (UCC)
+                      - type: text
+                        text: >-
+                          , Kampala, announces the following National Numbering
+                          Plan of Uganda.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          ITU-T E.164 NATIONAL NUMBERING PLAN FOR COUNTRY CODE
+                          256
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "a)\_\_\_\_\_\_\_\_\_ Overview"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ The minimum number length (excluding the country code) is 9 digits"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ The maximum number length (excluding the country code) is 9 digits"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "b)\_\_\_\_\_\_\_\_\_ Details of numbering scheme"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_"
+                  - type: table
+                    content:
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: >-
+                                      NDC (National Destination Code) or leading
+                                      digits of N(S)N (National (Significant)
+                                      Number)
+                          - type: table_cell
+                            attrs:
+                              colspan: 2
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: N(S)N Number Length
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: 'Usage of '
+                                  - type: hard_break
+                                    marks:
+                                      - type: em
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: ITU-T E.164 Number
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Additional information
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: 'Maximum '
+                                  - type: hard_break
+                                    marks:
+                                      - type: em
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Length
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: 'Minimum '
+                                  - type: hard_break
+                                    marks:
+                                      - type: em
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Length
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '200'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '201'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed telephony services for Airtel Uganda
+                                      Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '20240'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed telephony services for Liquid
+                                      Intelligent Technologies
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '2032'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed telephony services for Echotel
+                                      Proprietary Uganda Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '2050'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '2051'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '2052'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '2053'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '2054'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed telephony services for Roke
+                                      Investment International Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '20611'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed telephony services for Hamilton
+                                      Telecom Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '206300'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '206301'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '206302'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '206303'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '206304'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed telephony services for Simbanet
+                                      Uganda Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '207'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed telephony services for Airtel Uganda
+                                      Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '3'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed telephony services for MTN Uganda
+                                      Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '4'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed telephony services for Uganda
+                                      Telecommunication Corporation Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '700'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '701'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '702'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '703'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '704'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '705'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '706'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '707'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '708'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '709'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Mobile telephony services for Airtel
+                                      Uganda Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '710'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '711'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '712'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '713'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '714'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '715'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '716'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '717'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '718'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '719'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Mobile telephony services for Uganda
+                                      Telecommunication Corporation Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '720'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Mobile telephony services for Smile
+                                      Communications (U) Ltd
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '7240'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Mobile telephony services for Hamilton
+                                      Telecom Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network not yet operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '7260'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Mobile telephony services for Tangerine
+                                      Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '740'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '741'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '742'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '743'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '744'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Mobile telephony services for Airtel
+                                      Uganda Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '750'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '751'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '752'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '753'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '754'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '755'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '756'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '757'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '758'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '759'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Mobile telephony services for Airtel
+                                      Uganda Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '760'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '761'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '762'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '763'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '764'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '765'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Mobile telephony services for MTN Uganda
+                                      Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '770'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '771'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '772'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '773'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '774'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '775'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '776'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '777'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '778'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '779'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Mobile telephony services for MTN Uganda
+                                      Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '780'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '781'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '782'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '783'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '784'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '785'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '786'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '787'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '788'
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '789'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Mobile telephony services for MTN Uganda
+                                      Limited
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Network is fully operational
+                  - type: paragraph
+    type: telephone_service_2
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+  - type: callback_procedures
