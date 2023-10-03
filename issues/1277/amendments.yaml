@@ -1,0 +1,672 @@
+messages:
+  - type: amendment
+    target:
+      publication: R_SP_LM.V
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: ADD
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: KE04
+              - type: text
+                text: "\_\_\_\_\_\_ CLOSELINK INVESTMENT (K) LTD, 45770, NAIROBI, KENYA."
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                text: 'E-mail: '
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:info@closelinkinv.com'
+                      title: null
+                text: info@closelinkinv.com
+              - type: text
+                text: ", Tel\_: +254724454375,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Contact person\_: Don W. Mulati."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: REP
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: GR05
+              - type: text
+                text: "\_\_\_\_\_ Hellenic Radio Services Sat Com SM S.A.,"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                text: '2, Kantharou Street & Akti Miaouli, 18537 Piraeus, Greece.'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ E-mail: "
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:athanassios.tzioumas@marlink.com'
+                      title: null
+                text: athanassios.tzioumas@marlink.com
+              - type: text
+                text: ", Tel\_: +30 210 9400377,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Contact Person: Athanassios Tzioumas."
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: SUP
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: RS23
+              - type: text
+                text: "\_\_\_\_\_\_ Neptune Shipmanagement Services (Pte.) Ltd., 456 Alexandra Road, #07-00,"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                text: 'NOL Building, Singapore 119962, Singapore.'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ E-mail: "
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:apl_tsd_itd@apl.com'
+                      title: null
+                text: apl_tsd_itd@apl.com
+              - type: text
+                text: ", Tel\_: +65 63714678, Fax: +65 63716032,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Contact Person: Tan Siew Cheng."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_\_\_\_ RS30"
+              - type: text
+                text: "\_\_\_\_\_\_ Pan-United Shipping Pte. Ltd., 7 Temasek Boulevard, #16-01 Suntec Tower One,"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                text: 'Singapore 038987, Singapore.'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ E-mail: "
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:jimmy.lee@panunited.com.sg'
+                      title: null
+                text: jimmy.lee@panunited.com.sg
+              - type: text
+                text: ', Tel: +65 63057368, Fax: +65 62381301,'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Contact Person: Jimmy Lee."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_\_\_\_ RS31"
+              - type: text
+                text: "\_\_\_\_\_\_ Hin Leong Trading (Pte.) Ltd., 1 Playfair Road, Singapore 367981, Singapore."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Tel: +65 65122588, Fax: +65 65122589,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Contact Person: Lim Huey Ching."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+  - type: amendment
+    target:
+      publication: E164_CC
+      position_on: 2016-11-14T23:00:00.000Z
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: >-
+                  Notes common to Numerical and Alphabetical lists of ITU-T
+                  Recommendation E.164 assigned country codes
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: "p\_\_\_\_\_\_\_\_\_\_\_ Associated with shared country code 883, the following three-digit identification code reservation or assignment has been made for the international networks of:"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: Note p)
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_\_ \_\_+883 480\_\_\_\_\_ ADD*"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Applicant
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Network
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: 'Country Code and '
+                          - type: hard_break
+                            marks:
+                              - type: em
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Identification Code
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Status
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: BBIX Singapore Pte. Ltd.
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: BBIX Singapore Pte. Ltd.
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: +883 480
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Assigned
+          - type: paragraph
+            content:
+              - type: text
+                text: '* 19.IX.2023'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: __________
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  See page 5 of the present Operational Bulletin No. 1277 of
+                  1.X.2023.
+  - type: amendment
+    target:
+      publication: E212_MNC
+      position_on: 2018-11-14T23:00:00.000Z
+    contents: {}
+    datasetChanges:
+      T-SP-E.212B-2018.main:
+        contents: []
+      T-SP-E.212B-2018.et:
+        contents: []
+  - type: amendment
+    target:
+      publication: Q708_ISPC
+      position_on: 2020-6-1
+    contents:
+      en:
+        type: doc
+        content:
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 2
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Country/ Geographical Area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 2
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Unique name of the signalling point
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 2
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Name of the signalling point operator
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: ISPC
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: DEC
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 4
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: "Estonia\_\_\_ SUP"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 6-227-5
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '14109'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Tallinn
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Nord Connect OÜ
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 4
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: "Estonia\_\_\_ ADD"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 3-244-2
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '8098'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: DOTTEL77
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: DOTT Telecom OÜ
+          - type: paragraph
+            content:
+              - type: text
+                text: ____________
+          - type: paragraph
+            content:
+              - type: text
+                text: "ISPC:\_\_\_\_\_ International Signalling Point Codes."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ Codes de points sémaphores internationaux (CPSI)."
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ Códigos de puntos de señalización internacional (CPSI)."
+  - type: amendment
+    target:
+      publication: NNP
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Administrations are requested to notify ITU about their
+                  national numbering plan changes, or to give an explanation on
+                  their webpage concerning the national numbering plan as well
+                  as their contact points, so that the information, which will
+                  be made available freely to all administrations/ROAs and
+                  service providers, can be posted on the ITU-T website.
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  For their numbering website, or when sending their information
+                  to ITU/TSB (e-mail: 
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:tsbtson@itu/.int'
+                      title: null
+                text: tsbtson@itu.int
+              - type: text
+                text: >-
+                  ), administrations are kindly requested to use the format as
+                  explained in Recommendation ITU-T E.129. They are reminded
+                  that they will be responsible for the timely update of this
+                  information.
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  From 1.IX.2023, the following countries/geographical areas
+                  have updated their national numbering plan on our site:
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/ Geographical area/ Global network
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country Code (CC)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Iridium Satellite
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: +881 6 and +881 7

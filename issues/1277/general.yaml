@@ -1,0 +1,1378 @@
+messages:
+  - extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      'F.740.3 ': 2023-08-31T22:00:00.000Z
+      'F.740.4 ': 2023-08-31T22:00:00.000Z
+      F.740.5: 2023-08-31T22:00:00.000Z
+      F.740.6: 2023-08-31T22:00:00.000Z
+      'F.740.7 ': 2023-08-31T22:00:00.000Z
+      'F.744.5 ': 2023-08-31T22:00:00.000Z
+      'F.747.13 ': 2023-08-31T22:00:00.000Z
+      'F.748.22 ': 2023-08-31T22:00:00.000Z
+      'F.748.25 ': 2023-08-31T22:00:00.000Z
+      'F.751.9 ': 2023-08-31T22:00:00.000Z
+      'F.751.10 ': 2023-08-31T22:00:00.000Z
+      'F.751.11 ': 2023-08-31T22:00:00.000Z
+      'F.751.12 ': 2023-08-31T22:00:00.000Z
+      'F.751.13 ': 2023-08-31T22:00:00.000Z
+      'F.780.4 ': 2023-08-31T22:00:00.000Z
+      'G.798 ': 2023-08-31T22:00:00.000Z
+      'H.265 (V9) ': 2023-08-31T22:00:00.000Z
+      'H.266.1 (V2) ': 2023-08-31T22:00:00.000Z
+      'H.430.3 (V2) ': 2023-08-31T22:00:00.000Z
+      'H.430.6 ': 2023-08-31T22:00:00.000Z
+      'H.430.7 ': 2023-08-31T22:00:00.000Z
+      'H.644.6 ': 2023-08-31T22:00:00.000Z
+      'H.644.7 ': 2023-08-31T22:00:00.000Z
+      'H.705.1 ': 2023-08-31T22:00:00.000Z
+      'H.705.2 ': 2023-08-31T22:00:00.000Z
+      'H.862.6 ': 2023-08-31T22:00:00.000Z
+      'K.153 ': 2023-08-31T22:00:00.000Z
+      'T.873 (V3) ': 2023-08-31T22:00:00.000Z
+    by: AAP-36
+    procedures: Recommendation ITU-T A.8
+  - type: iptn
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Note from TSB
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                text: Identification codes for international networks
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Associated with shared country code 883 for international
+                  networks, the following three-digit identification code has
+                  been 
+              - type: text
+                marks:
+                  - type: strong
+                text: assigned
+              - type: text
+                text: ':'
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Applicant
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Network
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: 'Country Code and '
+                          - type: hard_break
+                            marks:
+                              - type: em
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Identification Code
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Date of assignment
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: BBIX Singapore Pte. Ltd.
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: BBIX Singapore Pte. Ltd.
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: +883 480
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 19.IX.2023
+  - contents:
+      - country_name:
+          en: 'Morocco '
+        phone_code: '212'
+        contact:
+          en: "Agence Nationale de Réglementation des Télécommunications (ANRT)\nCentre d'affaires\nBoulevard Ar-Riad, Hay Riad \nB.P. 2939\nRABAT 10100\nMorocco\nTel:  \t\t\t+212 5 37 71 85 64\nE-mail: \tnumerotation@anrt.ma\nURL: \t\twww.anrt.ma"
+        communications:
+          - date: 2023-09-10T22:33:22.518Z
+            contents:
+              en:
+                type: doc
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: 'The '
+                      - type: text
+                        marks:
+                          - type: em
+                        text: >-
+                          Agence Nationale de Réglementation des
+                          Télécommunications (ANRT)
+                      - type: text
+                        text: ", Rabat, announces the following updates to the national telephone-numbering plan of Morocco\_"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        marks:
+                          - type: em
+                        text: >-
+                          Description of introduction of new resource for
+                          national E.164 numbering plan for country code +212:
+                  - type: bullet_list
+                    content:
+                      - type: list_item
+                        content:
+                          - type: paragraph
+                            content:
+                              - type: text
+                                text: >-
+                                  new NDCs below have recently been introduced
+                                  as follows:
+                  - type: table
+                    content:
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: >-
+                                      NDC (national destination code) or leading
+                                      digits of N(S)N (national (significant)
+                                      number)
+                          - type: table_cell
+                            attrs:
+                              colspan: 2
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: N(S)N number length
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Usage of E.164 number
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Additional information
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Maximum length
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Minimum length
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '52932'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                                  - type: text
+                                    marks:
+                                      - type: superscript
+                                    text: '1'
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '52933'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '52934'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '52935'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '52936'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '52937'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '52938'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '52939'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '5294'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '5295'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '5296'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '5297'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '5382'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '5383'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '5384'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '5385'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '5386'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '5387'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed telephone networks
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Wana Corporate
+                  - type: paragraph
+                    content:
+                      - type: text
+                        marks:
+                          - type: superscript
+                        text: '1'
+                      - type: text
+                        text: ' : INWI'
+    type: telephone_service_2
+  - type: ipns
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Note from TSB
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                text: Identification codes for International Mobile Networks
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Associated with shared mobile country code 901 (MCC), the
+                  following two-digit mobile network codes (MNC) have been 
+              - type: text
+                marks:
+                  - type: strong
+                text: assigned
+              - type: text
+                text: .
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Network
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Mobile Country Code (MCC) and '
+                          - type: hard_break
+                          - type: text
+                            text: Mobile Network Code (MNC)
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Date of assignment
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: BBIX Singapore Pte. Ltd.
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 901 04
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 19.IX.2023
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+  - type: callback_procedures
