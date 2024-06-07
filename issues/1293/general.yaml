@@ -1,0 +1,336 @@
+messages:
+  - extra_links: []
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      'F.748.23 ': 2024-03-31T22:00:00.000Z
+      'F.748.24 ': 2024-03-31T22:00:00.000Z
+      'F.760.2 ': 2024-03-31T22:00:00.000Z
+      'H.552 ': 2024-03-31T22:00:00.000Z
+      'H.741.5 ': 2024-03-31T22:00:00.000Z
+    by: 'TSB Circular 206 '
+    procedures: Resolution 1
+  - contents:
+      - country_name:
+          en: 'Mauritius '
+        phone_code: '230'
+        contact:
+          en: |-
+            Mr J. Louis
+            Information and Communication Technologies Authority (ICTA)
+            Level 12, The Celicourt
+            6, Sir Celicourt Antelme Street
+            PORT LOUIS
+            Mauritius
+            Tel: +230 211 5333/4
+            Fax: +230 211 9444
+            E-mail: info@icta.mu
+            URL: www.icta.mu/telecom-numbering/
+        communications:
+          - date: 2024-05-16T03:43:32.197Z
+            contents:
+              en:
+                type: doc
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: 'The '
+                      - type: text
+                        marks:
+                          - type: em
+                        text: >-
+                          Information and Communication Technologies Authority
+                          (ICTA), 
+                      - type: text
+                        text: >-
+                          Port-Louis, announces that a new mobile number range
+                          has been opened in the Republic of Mauritius by the
+                          following mobile operator in May 2024.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_"
+                  - type: table
+                    content:
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: Operator
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: Usage of ITU-T E.164 number
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: Dialling Format
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Emtel Ltd.
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Non-geographic mobile numbers
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +230 704X XXXX
+      - country_name:
+          en: 'Thailand '
+        phone_code: '66'
+        contact:
+          en: "National Broadcasting and Telecommunications Commission (NBTC)\n87 Phaholyothin Road, Soi 8\nPhayathai\n10400 BANGKOK\nThailand\nTel: \t+66 2 670 8888\nFax: \t+66 2 616 9988\nE-mail: \tnumbering@nbtc.go.th\nURL: \twww.nbtc.go.th"
+        communications:
+          - date: 2024-05-08T03:44:15.066Z
+            contents:
+              en:
+                type: doc
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "With reference to the Office of the National Broadcasting and Telecommunications Commission's communication of February 2020 (published in ITU Operational Bulletin No. 1192), the numbering plan of Thailand, which came into force on 21\_January\_2020, indicated that the 10-digit\_fixed\_line\_numbers were scheduled to be implemented by 1\_January\_2025."
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: 'The '
+                      - type: text
+                        marks:
+                          - type: em
+                        text: >-
+                          Office of the National Broadcasting and
+                          Telecommunications Commission 
+                      - type: text
+                        text: "(the Office of NBTC), Bangkok, announces that the numbering plan of Thailand (No.\_2), which came into force on 12\_March\_2024, has revised the timeframe for the implementation of 10-digit fixed line numbers. Under this plan, all fixed line telecommunications providers will develop their network systems to provide 10-digit fixed line services within two years only when the supply of fixed line or mobile numbers is considered to be insufficient. In which case, the Office of NBTC will notify of the exact time frame for the 10‑digit fixed line numbers implementation in advance."
+    type: telephone_service_2
+  - type: custom
+    title:
+      en: Testing Laboratories recognized by ITU
+    recommendation: null
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: 'According to the '
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: >-
+                        https://www.itu.int/en/ITU-T/studygroups/com11/casc/Documents/TL-RP_pub_2022-07-15.pdf
+                      title: null
+                text: >-
+                  ITU-T Guideline on “Testing Laboratories recognition
+                  procedure” (2022)
+              - type: text
+                text: ' and based on the application received as of 15 May 2024, the following Testing Laboratory, which fulfils the criteria defined in the clause 9 of the above-mentioned ITU-T Guideline, was registered in the ITU Testing Laboratory Database ('
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'https://itu.int/go/tldb'
+                      title: null
+                text: 'https://itu.int/go/tldb'
+              - type: text
+                text: '):'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Testing Laboratory
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Country
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Scope of Accreditation
+                          - type: hard_break
+                            marks:
+                              - type: strong
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: (ITU-T Recommendations)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: >-
+                              Indonesia Digital Test House (IDTH) - Balai Besar
+                              Pengujian Perangkat Telekomunikasi
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Indonesia
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: ITU-T K.116
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Any queries can be addressed to '
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:conformity@itu.int'
+                      title: null
+                text: conformity@itu.int
+              - type: text
+                text: '. More details are available on ITU C&I Portal at: '
+              - type: hard_break
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'https://itu.int/go/citest'
+                      title: null
+                text: 'https://itu.int/go/citest'
+              - type: text
+                text: .
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+      - country:
+          en: Türkiye
+        ob: 1286
+        page: 17
+      - country:
+          en: Bangladesh
+        ob: 1287
+        page: 16
