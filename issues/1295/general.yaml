@@ -1,1 +1,203 @@
-messages: []
+messages:
+  - extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      'F.740.8 ': 2024-05-31T22:00:00.000Z
+      'F.743.25 ': 2024-05-31T22:00:00.000Z
+      'F.743.26 ': 2024-05-31T22:00:00.000Z
+      'F.746.18 ': 2024-05-31T22:00:00.000Z
+      'F.747.14 ': 2024-05-31T22:00:00.000Z
+      'F.747.15 ': 2024-05-31T22:00:00.000Z
+      'F.748.28 ': 2024-05-31T22:00:00.000Z
+      'F.748.29 ': 2024-05-31T22:00:00.000Z
+      'F.748.30 ': 2024-05-31T22:00:00.000Z
+      'F.748.34 ': 2024-05-31T22:00:00.000Z
+      'F.748.35 ': 2024-05-31T22:00:00.000Z
+      'F.748.36 ': 2024-05-31T22:00:00.000Z
+      'F.748.37 ': 2024-05-31T22:00:00.000Z
+      'F.748.38 ': 2024-05-31T22:00:00.000Z
+      'F.749.18 ': 2024-05-31T22:00:00.000Z
+      F.751.14: 2024-05-31T22:00:00.000Z
+      'F.751.15 ': 2024-05-31T22:00:00.000Z
+      'F.751.16 ': 2024-05-31T22:00:00.000Z
+      'F.751.17 ': 2024-05-31T22:00:00.000Z
+      'F.751.18 ': 2024-05-31T22:00:00.000Z
+      'F.751.19 ': 2024-05-31T22:00:00.000Z
+      'F.751.20 ': 2024-05-31T22:00:00.000Z
+      'F.751.21 ': 2024-05-31T22:00:00.000Z
+      'F.751.22 ': 2024-05-31T22:00:00.000Z
+      'F.781.1 ': 2024-05-31T22:00:00.000Z
+      'F.781.2 ': 2024-05-31T22:00:00.000Z
+      'H.266.2 (V2) ': 2024-05-31T22:00:00.000Z
+      'H.430.8 ': 2024-05-31T22:00:00.000Z
+      'H.626.7 ': 2024-05-31T22:00:00.000Z
+      'H.644.8 ': 2024-05-31T22:00:00.000Z
+      'H.705.3 ': 2024-05-31T22:00:00.000Z
+      'H.725 ': 2024-05-31T22:00:00.000Z
+    by: AAP-53
+    procedures: Recommendation ITU-T A.8
+  - type: org_changes
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Mexico
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Communication of 13.VI.2024:'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                text: Granting of Recognized Operating Agency (ROA) status
+          - type: paragraph
+            content:
+              - type: text
+                text: 'The '
+              - type: text
+                marks:
+                  - type: em
+                text: Instituto Federal de Telecomunicaciones (IFT)
+              - type: text
+                text: ", Ciudad de México, announces that the following telecommunication operator and service provider has been granted the status of Recognized Operating Agency (ROA), in accordance with Article 6 of, and Nos.\_1007 and 1008 of the Annex to, the Constitution of ITU."
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  The name of the telecommunication operator and service
+                  provider to which the status of Recognized Operating Agency
+                  (ROA) has been granted, is: 
+              - type: text
+                marks:
+                  - type: em
+                text: Pantera Mobile Solutions S.A.P.I. de C.V.
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Contact:'
+          - type: paragraph
+            content:
+              - type: text
+                text: Pantera Mobile Solutions S.A.P.I. de C.V.
+          - type: paragraph
+            content:
+              - type: text
+                text: 1a Cerrada de Fuente de Leones 129 A
+          - type: paragraph
+            content:
+              - type: text
+                text: Lomas de Tecamachalco
+          - type: paragraph
+            content:
+              - type: text
+                text: 'C.P. 53950, NAUCALPAN DE JUÁREZ, Estado de México'
+          - type: paragraph
+            content:
+              - type: text
+                text: Mexico
+          - type: paragraph
+            content:
+              - type: text
+                text: "Tel:\_\_\_\_\_\_\_\_\_ +52 55 5925 8059"
+          - type: paragraph
+            content:
+              - type: text
+                text: "E-mail:\_\_\_ alejandro@panteramobile.com.mx"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: 'For further information, please contact:'
+          - type: paragraph
+            content:
+              - type: text
+                text: Instituto Federal de Telecomunicaciones (IFT)
+          - type: paragraph
+            content:
+              - type: text
+                text: Avenida Insurgentes Sur 1143
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Col. Noche Buena, Demarcación Benito Juárez'
+          - type: paragraph
+            content:
+              - type: text
+                text: 03720 CIUDAD DE MÉXICO
+          - type: paragraph
+            content:
+              - type: text
+                text: Mexico
+          - type: paragraph
+            content:
+              - type: text
+                text: "Tel:\_\_\_\_\_\_\_\_\_ +52 55 5015 4000"
+          - type: paragraph
+            content:
+              - type: text
+                text: "E-mail:\_\_\_ asuntosinternacionales@ift.org.mx"
+          - type: paragraph
+            content:
+              - type: text
+                text: "URL: \_\_\_\_\_\_ https://rpc.ift.org.mx/vrpc"
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+      - country:
+          en: Türkiye
+        ob: 1286
+        page: 17
+      - country:
+          en: Bangladesh
+        ob: 1287
+        page: 16
+  - type: callback_procedures
