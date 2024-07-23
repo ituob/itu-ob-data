@@ -1,1 +1,1722 @@
-messages: []
+messages:
+  - extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      'L.1031 ': 2024-05-31T22:00:00.000Z
+    by: AAP-54
+    procedures: Recommendation ITU-T A.8
+  - type: custom
+    title:
+      en: >-
+        Extra-territorial use of Mobile Country Code (MCC) and Mobile Network
+        Code (MNC) (According to Recommendation ITU-T E.212 (09/2016) – Annex E)
+    recommendation: null
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Note from TSB*
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Pursuant to Annex E to Recommendation ITU-T E.212, the '
+              - type: text
+                marks:
+                  - type: em
+                text: 'Institut Luxembourgeois de Régulation (ILR) '
+              - type: text
+                text: 'of Luxembourg, and the '
+              - type: text
+                marks:
+                  - type: em
+                text: >-
+                  Autorité de Régulation des Communications Électroniques, des
+                  Postes et de la Distribution de la Presse (ARCEP)
+              - type: text
+                text: " of France, have notified to TSB that MCC+MNC\_270\_07 will be used extra-territorially."
+          - type: paragraph
+            content:
+              - type: text
+                text: ____________
+          - type: paragraph
+            content:
+              - type: text
+                text: "*\_\_\_\_ See current ITU Operational Bulletin No. 1296 of 15.VII.2024, page 8."
+  - contents:
+      - country_name:
+          en: 'Oman '
+        phone_code: '968'
+        contact:
+          en: "Mr Omar ALQatabi \nVice President – Telecom Sector \nOman Telecommunications Regulatory Authority (TRA) \nP.O. Box 579 \nRUWI, 112 \nSultanate of Oman \nTel: \t+968 24222163 \nFax: \t+968 24222081 \nE-mail: \tir@tra.gov.om \nURL:\twww.tra.gov.om"
+        communications:
+          - date: 2024-06-30T06:39:36.521Z
+            contents:
+              en:
+                type: doc
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: 'The '
+                      - type: text
+                        marks:
+                          - type: em
+                        text: 'Oman Telecommunications Regulatory Authority (TRA), '
+                      - type: text
+                        text: Ruwi
+                      - type: text
+                        marks:
+                          - type: em
+                        text: ', '
+                      - type: text
+                        text: >-
+                          announces the following update to the National
+                          Numbering Plan (NNP) of Oman:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_"
+                  - type: table
+                    content:
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: NDC
+                                  - type: hard_break
+                                    marks:
+                                      - type: em
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: >-
+                                      (National Destination Code) or leading
+                                      digits of N(S)N (National (Significant)
+                                      Number)
+                          - type: table_cell
+                            attrs:
+                              colspan: 2
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: N(S)N number length
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: 'Usage of '
+                                  - type: hard_break
+                                    marks:
+                                      - type: em
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: ITU-T E.164 number
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Additional information
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Maximum
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Minimum
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '901X XXXX to '
+                                  - type: hard_break
+                                  - type: text
+                                    text: 909X XXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Omantel Mobile
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 91XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Omantel Mobile
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 92XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Omantel Mobile
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 93XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Omantel Mobile
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 94XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Ooredoo
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 95XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Ooredoo
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 96XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Ooredoo
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 97XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Ooredoo
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 98XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Omantel Mobile
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 99XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Omantel Mobile
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 71XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Omantel Mobile
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 72XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Omantel Mobile
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 76XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Vodafone
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 770XXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Vodafone
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 771XXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Vodafone
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 772XXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Vodafone
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 773XXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Vodafone
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 774XXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Vodafone
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 775XXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Vodafone
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 78XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Ooredoo
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 79XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Ooredoo
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 4XXXXXXXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '12'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '12'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: IoT Service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Ooredoo/Omantel/Vodafone
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 21XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Ooredoo/Omantel/Awasr
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 22XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Ooredoo/Omantel/Awasr
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 23XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed service – currently only one fixed
+                                      operator (Omantel)
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Dhofar & Al Wusta
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 24XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed service – currently only one fixed
+                                      operator (Omantel)
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Muscat
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 25XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed service – currently only one fixed
+                                      operator (Omantel)
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'A’Dakhliyah, Al Sharqiya & A’Dhahira'
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 26XXXXXX
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '8'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Fixed service – currently only one fixed
+                                      operator (Omantel)
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Al Batinah & Musandam
+                  - type: paragraph
+    type: telephone_service_2
+  - type: misc_communications
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Austria
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Communication of 20.VI.2024:'
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  On the occasion of the 70th anniversary of the Vienna Airport,
+                  the Austrian Administration authorizes an Austrian amateur
+                  station to use the special call signs 
+              - type: text
+                marks:
+                  - type: strong
+                text: OE70VIE
+              - type: text
+                text: " from 21 June to\_30 September 2024."
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+      - country:
+          en: Türkiye
+        ob: 1286
+        page: 17
+      - country:
+          en: Bangladesh
+        ob: 1287
+        page: 16
+  - type: callback_procedures
