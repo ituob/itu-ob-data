@@ -1,1 +1,84 @@
-messages: []
+messages:
+  - extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      'H.265 (V10) ': 2024-06-30T22:00:00.000Z
+    by: AAP-56
+    procedures: Recommendation ITU-T A.8
+  - type: misc_communications
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Austria
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Communication of 17.VII.2024:'
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  On the occasion of the 100th anniversary of the
+                  "Erstaussendung des Rundfunkprogramms des ORF 
+              - type: hard_break
+              - type: text
+                text: "(damals RAVAG)\", the Austrian Administration authorizes an Austrian amateur station to use the special call sign\_"
+              - type: text
+                marks:
+                  - type: strong
+                text: OE0RF
+              - type: text
+                text: " from 1 July to\_31 December 2024."
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+      - country:
+          en: Türkiye
+        ob: 1286
+        page: 17
+      - country:
+          en: Bangladesh
+        ob: 1287
+        page: 16
+  - type: callback_procedures
