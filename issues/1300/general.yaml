@@ -1,0 +1,131 @@
+messages:
+  - extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      'G.652 ': 2024-07-31T22:00:00.000Z
+      'G.654 ': 2024-07-31T22:00:00.000Z
+      'G.657 ': 2024-07-31T22:00:00.000Z
+      'G.709.1 (2024) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      'G.709.5 (2024) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      'G.781 (2024) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      'G.808.4 ': 2024-07-31T22:00:00.000Z
+      'G.959.1 (2024) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      'G.972 ': 2024-07-31T22:00:00.000Z
+      'G.7701 (2022) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      G.7702 (2022) Amd. 1: 2024-07-31T22:00:00.000Z
+      'G.7703 (2021) Amd. 2 ': 2024-07-31T22:00:00.000Z
+      'G.7718/Y.1709 (2020) Amd. 2 ': 2024-07-31T22:00:00.000Z
+      'G.8051 ': 2024-07-31T22:00:00.000Z
+      'G.8121/Y.1381 (2018) Cor. 1 ': 2024-07-31T22:00:00.000Z
+      'G.8121.1/Y.1381.1 (2018) Cor. 2 ': 2024-07-31T22:00:00.000Z
+      'G.8151 ': 2024-07-31T22:00:00.000Z
+      'G.8152.1/Y.1375.1 (2021) Amd. 2 ': 2024-07-31T22:00:00.000Z
+      G.8152.2/Y.1375.2 (2021) Amd. 2: 2024-07-31T22:00:00.000Z
+      G.8251 (2022) Amd. 1: 2024-07-31T22:00:00.000Z
+      'G.8265.1/Y.1365.1 (2022) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      'G.8271/Y.1366 (2020) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      'G.8273.2/Y.1368.2 (2023) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      'G.8273.3/Y.1368.3 (2020) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      'G.8273.4 ': 2024-07-31T22:00:00.000Z
+      'G.8275 (2024) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      G.8275.1/Y.1369.1 (2022) Amd. 2: 2024-07-31T22:00:00.000Z
+      'G.8275.2/Y.1369.2 (2022) Amd. 2 ': 2024-07-31T22:00:00.000Z
+      'G.8312 (2020) Amd. 3 ': 2024-07-31T22:00:00.000Z
+      'G.8312.20 (2024) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      'G.8321 (2022) Amd. 1 ': 2024-07-31T22:00:00.000Z
+      'G.9730.1 ': 2024-07-31T22:00:00.000Z
+      'G.9730.2 ': 2024-07-31T22:00:00.000Z
+      'G.9802 (2015) Amd. 2 ': 2024-07-31T22:00:00.000Z
+      'G.9804.2 (2021) Amd. 2 ': 2024-07-31T22:00:00.000Z
+      'L.101 ': 2024-07-31T22:00:00.000Z
+      'L.103 ': 2024-07-31T22:00:00.000Z
+      'L.1017 ': 2024-07-31T22:00:00.000Z
+      'L.1260 ': 2024-07-31T22:00:00.000Z
+      'L.1327 ': 2024-07-31T22:00:00.000Z
+      'L.1384 ': 2024-07-31T22:00:00.000Z
+      'L.1490 ': 2024-07-31T22:00:00.000Z
+      'L.1632 ': 2024-07-31T22:00:00.000Z
+      'Y.4226 ': 2024-07-31T22:00:00.000Z
+      'Y.4227 ': 2024-07-31T22:00:00.000Z
+      'Y.4228 ': 2024-07-31T22:00:00.000Z
+      'Y.4463 ': 2024-07-31T22:00:00.000Z
+      'Y.4501 ': 2024-07-31T22:00:00.000Z
+      'Y.4502 ': 2024-07-31T22:00:00.000Z
+      'Y.4503 ': 2024-07-31T22:00:00.000Z
+      'Y.4504 ': 2024-07-31T22:00:00.000Z
+      'Y.4505 ': 2024-07-31T22:00:00.000Z
+      'Y.4705 ': 2024-07-31T22:00:00.000Z
+    by: AAP-58
+    procedures: Recommendation ITU-T A.8
+  - type: misc_communications
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Austria
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Communication of 19.VIII.2024:'
+          - type: paragraph
+            content:
+              - type: text
+                text: "On the occasion of the 700th anniversary of the city of Frauenkirchen, the Austrian Administration authorizes an Austrian amateur station to use the special call sign\_"
+              - type: text
+                marks:
+                  - type: strong
+                text: OE700F
+              - type: text
+                text: " from 1 october to\_31 December 2024."
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+      - country:
+          en: Türkiye
+        ob: 1286
+        page: 17
+      - country:
+          en: Bangladesh
+        ob: 1287
+        page: 16
+  - type: callback_procedures
