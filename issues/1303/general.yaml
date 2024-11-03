@@ -2973,7 +2973,7 @@ messages:
           - type: paragraph
             content:
               - type: text
-                text: "URL: \_\_\_\_\_\_\_ www.telecomarmenia.am"
+                text: "URL: \_\_\_\_\_\_\_ www.telecomarmenia.am "
   - type: service_restrictions
     items:
       - country:
