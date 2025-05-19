@@ -1176,10 +1176,13 @@ messages:
             content:
               - type: text
                 text: "*\_\_\_\_\_\_\_\_ See Note published in present ITU Operational Bulletin No. 1000 of 15.III.2012, page 5."
-          - type: paragraph
-            content:
-              - type: text
-                text: "\_"
+  - type: amendment
+    target:
+      publication: BUREAUFAX
+    contents:
+      en:
+        type: doc
+        content:
           - type: table
             content:
               - type: table_row
@@ -5851,7 +5854,7 @@ messages:
               - type: text
                 text: >-
                   For their numbering website, or when sending their information
-                  to ITU/TSB (e-mail: 
+                  to ITU/TSB (e-mail:
               - type: text
                 marks:
                   - type: link
