@@ -1,0 +1,1278 @@
+messages:
+  - type: amendment
+    target:
+      publication: E118_IIN
+      position_on: 2018-11-1
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "United Kingdom\_\_\_\_\_ ADD"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Name/Address
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Issuer Identifier Number
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Contact
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: 'Effective '
+                          - type: hard_break
+                            marks:
+                              - type: em
+                          - type: text
+                            marks:
+                              - type: em
+                            text: date of usage
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: United Kingdom
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Bondio Limited
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '180 Strand '
+                          - type: hard_break
+                          - type: text
+                            text: 2 Arundel Street
+                          - type: hard_break
+                          - type: text
+                            text: 'WC2R 3DA, LONDON'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 89 44 26
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Robinson Nouveau
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '180 Strand, 2 Arundel Street '
+                          - type: hard_break
+                          - type: text
+                            text: 'WC2R 3DA, LONDON'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel:\_ \_\_\_\_ +44 7570 851768"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'E-mail: robinson@bondio.co'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 1.III.2025
+          - type: paragraph
+  - type: amendment
+    target:
+      publication: E212_MNC
+      position_on: 2018-11-14T23:00:00.000Z
+    contents:
+      en:
+        type: doc
+        content:
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                              - type: strong
+                            text: Country/Geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                              - type: strong
+                            text: MCC+MNC
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                              - type: strong
+                            text: Operator/Network
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 5
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: "Colombia\_\_\_ SUP"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 002
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Edatel S.A.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 020
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Emtelsa
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 102
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Bellsouth Colombia S.A.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 130
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Avantel
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 8
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: "Colombia\_\_\_ ADD"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 100
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: COMUNICACION CELULAR S A COMCEL S A
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 124
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 154
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: VIRGIN MOBILE COLOMBIA S.A.S.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 165
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: COLOMBIA MOVIL S A E S P
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 187
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: >-
+                              EMPRESA DE TELECOMUNICACIONES DE BOGOTÁ S.A. ESP
+                              - 
+                          - type: hard_break
+                          - type: text
+                            text: ETB S.A. E.S.P.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 199
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: SUMA MOVIL S.A.S.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 360
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: PARTNERS TELECOM COLOMBIA SAS
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 6
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: "Colombia\_\_\_ LIR"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 001
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: COLOMBIA TELECOMUNICACIONES S.A E.S.P. BIC
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 101
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: COMUNICACION CELULAR S A COMCEL S A
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 103
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: COLOMBIA MOVIL S A E S P
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 111
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: COLOMBIA MÓVIL S A E S P
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 732 123
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: COLOMBIA TELECOMUNICACIONES S.A E.S.P BIC
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 2
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: "Spain\_\_\_ ADD"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 214 709
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: >-
+                              CENTRE DE TELECOMUNICACIONS I TECNOLOGIES DE LA
+                              INFORMACIÓ DE LA GENERALITAT DE CATALUNYA
+          - type: paragraph
+            content:
+              - type: text
+                text: ____________
+          - type: paragraph
+            content:
+              - type: text
+                text: "MCC: \_\_ Mobile Country Code / Indicatif de pays du mobile / Indicativo de país para el servicio móvil"
+          - type: paragraph
+            content:
+              - type: text
+                text: "MNC: \_\_ Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil"
+    datasetChanges:
+      T-SP-E.212B-2018.main:
+        contents: []
+      T-SP-E.212B-2018.et:
+        contents: []
+  - type: amendment
+    target:
+      publication: M1400_ICC
+      position_on: 2014-8-15
+    contents:
+      en:
+        type: doc
+        content:
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                              - type: strong
+                            text: Country or area/ISO code
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                              - type: strong
+                            text: Company Code
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                              - type: strong
+                            text: Contact
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: "\_ "
+                          - type: text
+                            marks:
+                              - type: em
+                              - type: strong
+                            text: Company Name/Address
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                              - type: strong
+                            text: (carrier code)
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                              - type: strong
+                            text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: "Germany (Federal Republic of) / DEU\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: ADD
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Telion '
+                          - type: hard_break
+                          - type: text
+                            text: Inh. Kevin Carstensen
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Kolonnenstrasse 8
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: D-10827 BERLIN
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: TELION
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Rufnummernverwaltung
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Tel.: +49 30 4397 45600'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Fax: +49 30 4397 45960'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Email: rufnummernverwaltung@telion.it'
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: "Germany (Federal Republic of) / DEU\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: LIR
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 1&1 Telecom GmbH
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Elgendorfer Strasse 57
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 56410 MONTABAUR
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 1UND1
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Auftragskoordination
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Tel: +49 2602 963824'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'E-mail: ocm-auftragskoordination@1und1.de'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: energis GmbH
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Heinrich-Boecking-Strasse 10 - 14
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: D-66121 SAARBRUECKEN
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: ENERGS
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Christoph Morguet
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Tel.: +49 681 9069 1533'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Email: christoph.morguet@energis.de'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: SKYTRON Communications GmbH & Co.KG
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Im Stöckmädle 13
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 76307 KARLSBAD
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: SKYTRN
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Holger Witt
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel.:\_\_\_\_\_ +49 7248 4528 130"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax:\_\_\_\_\_ +49 7248 4528 230"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'E-mail : h.witt@skytron.de'
+  - type: amendment
+    target:
+      publication: NNP
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Administrations are requested to notify ITU about their
+                  national numbering plan changes, or to give an explanation on
+                  their webpage concerning the national numbering plan as well
+                  as their contact points, so that the information, which will
+                  be made available freely to all administrations/ROAs and
+                  service providers, can be posted on the ITU-T website.
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  For their numbering website, or when sending their information
+                  to ITU/TSB (e-mail: 
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:tsbtson@itu/.int'
+                      title: null
+                text: tsbtson@itu.int
+              - type: text
+                text: >-
+                  ), administrations are kindly requested to use the format as
+                  explained in Recommendation ITU-T E.129. They are reminded
+                  that they will be responsible for the timely update of this
+                  information.
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  From 1.II.2025, the following countries/geographical areas
+                  have updated their national numbering plan on our site:
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/ Geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country Code (CC)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Myanmar
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+95'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Oman
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+968'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: United Kingdom
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+44'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Zambia
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+260'
