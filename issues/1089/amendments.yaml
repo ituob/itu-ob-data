@@ -54,6 +54,7 @@ messages:
   - type: amendment
     target:
       publication: Q708_ISPC
+      position_on: 2015-01-01
     contents:
       en:
         type: doc

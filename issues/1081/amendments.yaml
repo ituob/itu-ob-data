@@ -8715,6 +8715,7 @@ messages:
   - type: amendment
     target:
       publication: X121_DNIC
+      position_on: 2011-04-01
     contents:
       en:
         type: doc

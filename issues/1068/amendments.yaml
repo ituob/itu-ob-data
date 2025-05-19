@@ -2,6 +2,7 @@ messages:
   - type: amendment
     target:
       publication: E118_IIN
+      position_on: 2013-11-15
     contents:
       en:
         type: doc

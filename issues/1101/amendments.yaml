@@ -492,6 +492,7 @@ messages:
   - type: amendment
     target:
       publication: Q708_SANC
+      position_on: 2014-12-15
     contents:
       en:
         type: doc

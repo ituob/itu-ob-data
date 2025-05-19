@@ -522,6 +522,7 @@ messages:
   - type: amendment
     target:
       publication: E218_TRCC
+      position_on: 2017-06-01
     contents:
       en:
         type: doc
