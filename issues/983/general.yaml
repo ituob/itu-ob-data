@@ -208,7 +208,8 @@ messages:
                           - type: text
                             text: +883 130
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Argentina '
         phone_code: '54'
         contact:

@@ -109,7 +109,8 @@ messages:
                       title: null
                 text: liz.reid@zeatel.com
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Ascension '
         phone_code: '247'
         contact:

@@ -165,7 +165,8 @@ messages:
                             text: 1.IV.2022
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Denmark '
         phone_code: '45'
         contact:

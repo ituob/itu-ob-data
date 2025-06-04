@@ -11,7 +11,8 @@ messages:
     by: AAP-93
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Morocco '
         phone_code: '212'
         contact:

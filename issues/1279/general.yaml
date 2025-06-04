@@ -167,7 +167,8 @@ messages:
               - type: text
                 text: ' 882 47 is also used for other services similar to eCall across the world.'
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burundi '
         phone_code: '257'
         contact:

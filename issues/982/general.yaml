@@ -62,7 +62,8 @@ messages:
               - type: text
                 text: "–\_\_\_\_\_\_ the ship station selective call numbers 33507-33516 have been supplied to the United Kingdom of Great Britain and Northern Ireland."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Costa Rica '
         phone_code: '506'
         contact:

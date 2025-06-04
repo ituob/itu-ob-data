@@ -155,7 +155,8 @@ messages:
                             text: 1.V.2023
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Bhutan '
         phone_code: '975'
         contact:

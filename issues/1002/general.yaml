@@ -103,7 +103,8 @@ messages:
               - type: text
                 text: "URL:\_\_\_\_\_\_\_\_ www.pura.gm"
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Belarus '
         phone_code: '375'
         contact:

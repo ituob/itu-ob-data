@@ -122,7 +122,8 @@ messages:
               - type: text
                 text: "*\_\_\_\_ See present ITU Operational Bulletin No. 1013 of 1.X.2012, page 12."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Oman '
         phone_code: '968'
         contact:

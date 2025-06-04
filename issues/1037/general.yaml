@@ -15,7 +15,8 @@ messages:
     by: AAP-19
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Belarus '
         phone_code: '375'
         contact:

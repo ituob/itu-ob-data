@@ -55,7 +55,8 @@ messages:
               - type: text
                 text: have been allocated to the Republic of South Sudan.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burkina Faso '
         phone_code: '226'
         contact:

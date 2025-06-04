@@ -134,7 +134,8 @@ messages:
                           - type: text
                             text: 3.IV.2020
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Armenia '
         phone_code: '374'
         contact:

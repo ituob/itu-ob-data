@@ -94,7 +94,8 @@ messages:
               - type: text
                 text: Código de zona/red de señalización (CZRS).
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Dem. Rep. of the Congo '
         phone_code: '243'
         contact:

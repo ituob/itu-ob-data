@@ -45,7 +45,8 @@ messages:
                   numbering resources E.164.2 CC +991 with TIC 001 and E.212 MCC
                   991 with MNC 01 are at disposal of the TSB Director.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burkina Faso '
         phone_code: '226'
         contact:

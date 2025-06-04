@@ -586,7 +586,8 @@ messages:
               - type: text
                 text: "URL: \_\_\_\_\_\_\_\_\_ www.rrt.lt"
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Gambia '
         phone_code: '220'
         contact:

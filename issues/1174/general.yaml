@@ -160,7 +160,8 @@ messages:
               - type: text
                 text: "URL: \_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_ http://ucsweb.ift.org.mx/vrpc/"
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Gabon '
         phone_code: '241'
         contact:

@@ -149,7 +149,8 @@ messages:
                             text: 13.XII.2023
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Bahrain '
         phone_code: '973'
         contact:

@@ -107,7 +107,8 @@ messages:
               - type: text
                 text: "**\_\_\_\_\_ MNC: Mobile Network Code / Code de réseau mobile / Indicativo de red para el servicio móvil"
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Congo '
         phone_code: '242'
         contact:

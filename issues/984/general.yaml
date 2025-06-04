@@ -74,7 +74,8 @@ messages:
                   regarding the suitability of including such information within
                   Recommendation ITU-T E.156.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burkina Faso '
         phone_code: '226'
         contact:

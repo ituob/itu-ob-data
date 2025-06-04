@@ -501,7 +501,8 @@ messages:
               - type: text
                 text: "E-mail:\_\_\_ rfq.inbox@proximus.be"
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Barbados '
         phone_code: 1 246
         contact:

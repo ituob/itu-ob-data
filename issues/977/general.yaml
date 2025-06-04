@@ -113,7 +113,8 @@ messages:
               - type: text
                 text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Código de zona/red de señalización ."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Armenia '
         phone_code: '374'
         contact:

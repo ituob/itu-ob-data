@@ -82,7 +82,8 @@ messages:
               - type: text
                 text: "c)\_\_\_\_\_\_\_\_\_\_ The patent implicitly does not meet requirements for E.212 international numbering resources for SIMs, for example, the MCC value is preferably associated to a kind of a mobile device, and the MNC value is associated to one or a family of functionalities of such devices."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Belarus '
         phone_code: '375'
         contact:

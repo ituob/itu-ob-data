@@ -55,7 +55,8 @@ messages:
                   resource E.212 MCC 991 with MNC 03 is at the disposal of the
                   TSB Director.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Iran (Islamic Republic of) '
         phone_code: '98'
         contact:

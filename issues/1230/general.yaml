@@ -10,7 +10,8 @@ messages:
     by: AAP-113
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Bhutan '
         phone_code: '975'
         contact:

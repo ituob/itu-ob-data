@@ -677,7 +677,8 @@ messages:
                       title: null
                 text: www.dstszi.gov.ua/dstszi/control/en/index
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burkina Faso '
         phone_code: '226'
         contact:

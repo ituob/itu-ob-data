@@ -52,7 +52,8 @@ messages:
               - type: text
                 text: "\_announces that, as from 1st January 2016, the commercial service of coastal traffic for ships communication on VHF/UHF frequencies will cease."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Curaçao '
         phone_code: '599'
         contact:

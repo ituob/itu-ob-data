@@ -244,7 +244,8 @@ messages:
                             text: 15.I.2022
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: Cayman Islands
         phone_code: '1345'
         contact:

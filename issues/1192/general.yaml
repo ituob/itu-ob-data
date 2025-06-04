@@ -5,7 +5,8 @@ messages:
       - ROA
     type: running_annexes
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Georgia '
         phone_code: '995'
         contact:

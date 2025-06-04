@@ -336,7 +336,8 @@ messages:
                             text: 29.I.2019
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Denmark '
         phone_code: '45'
         contact:

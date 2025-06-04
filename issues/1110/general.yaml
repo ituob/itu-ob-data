@@ -140,7 +140,8 @@ messages:
                           - type: text
                             text: 27.IX.2016
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Gambia '
         phone_code: '220'
         contact:

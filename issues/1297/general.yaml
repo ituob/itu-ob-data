@@ -46,7 +46,8 @@ messages:
     by: AAP-55
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'France '
         phone_code: '33'
         contact:

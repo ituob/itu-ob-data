@@ -24,7 +24,8 @@ messages:
     by: AAP-20
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Czech Republic '
         phone_code: '420'
         contact:

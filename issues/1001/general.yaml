@@ -157,7 +157,8 @@ messages:
                           - type: text
                             text: www.swisstelex.com
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burkina Faso '
         phone_code: '226'
         contact:

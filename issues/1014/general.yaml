@@ -117,7 +117,8 @@ messages:
                           - type: text
                             text: +882 47
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Denmark '
         phone_code: '45'
         contact:

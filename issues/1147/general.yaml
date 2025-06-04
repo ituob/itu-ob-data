@@ -146,7 +146,8 @@ messages:
                             text: 11.IV.2018
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burundi '
         phone_code: '257'
         contact:

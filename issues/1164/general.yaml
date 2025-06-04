@@ -40,7 +40,8 @@ messages:
         page: 5
   - type: callback_procedures
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Kenya '
         phone_code: '254'
         contact:

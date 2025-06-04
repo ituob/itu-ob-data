@@ -131,7 +131,8 @@ messages:
               - type: text
                 text: "*\_\_\_\_ See present ITU Operational Bulletin No. 1148 of 15.V.2018, page 13."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Luxembourg '
         phone_code: '352'
         contact:

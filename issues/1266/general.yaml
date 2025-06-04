@@ -124,7 +124,8 @@ messages:
                             text: 27.III.2023
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Qatar '
         phone_code: '974'
         contact:

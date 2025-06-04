@@ -32,7 +32,8 @@ messages:
     by: AAP-14
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Bermuda '
         phone_code: '1441'
         contact:

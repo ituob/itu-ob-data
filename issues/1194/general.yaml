@@ -35,7 +35,8 @@ messages:
     by: AAP-78
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Iran (Islamic Republic of) '
         phone_code: '98'
         contact:

@@ -46,7 +46,8 @@ messages:
     by: AAP-32
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Denmark '
         phone_code: '45'
         contact:

@@ -65,7 +65,8 @@ messages:
     by: AAP-121
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Barbados '
         phone_code: '1246'
         contact:

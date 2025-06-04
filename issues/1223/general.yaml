@@ -55,7 +55,8 @@ messages:
     by: AAP-106
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Armenia '
         phone_code: '374'
         contact:

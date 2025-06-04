@@ -113,7 +113,8 @@ messages:
                           - type: text
                             text: "+883\_ 5140"
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Albania '
         phone_code: '355'
         contact:

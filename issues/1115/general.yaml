@@ -29,7 +29,8 @@ messages:
     by: AAP-03
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Costa Rica '
         phone_code: '506'
         contact:

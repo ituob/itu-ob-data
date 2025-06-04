@@ -19,7 +19,8 @@ messages:
   - type: misc_communications
     contents: general/misc_comms.adoc
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Cuba '
         phone_code: '53'
         contact:

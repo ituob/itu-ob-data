@@ -30,7 +30,8 @@ messages:
     by: AAP-26
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Malawi '
         phone_code: '265'
         contact:

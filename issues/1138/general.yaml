@@ -21,7 +21,8 @@ messages:
     by: AAP-25
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Trinidad and Tobago '
         phone_code: '1868'
         contact:

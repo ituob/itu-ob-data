@@ -5,7 +5,8 @@ messages:
       - ROA
     type: running_annexes
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burundi '
         phone_code: '257'
         contact:

@@ -78,7 +78,8 @@ messages:
               - type: text
                 text: "* \_\_\_\_\_\_\_\_\_\_ This announcement cancels and replaces that published in ITU Operational Bulletin No. 967 of 1.XI.2010, page 5."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burkina Faso '
         phone_code: '226'
         contact:

@@ -162,7 +162,8 @@ messages:
                           - type: text
                             text: 15.VII.2021
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Congo '
         phone_code: '242'
         contact:

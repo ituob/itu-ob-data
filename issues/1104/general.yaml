@@ -63,7 +63,8 @@ messages:
                   , for the mobile networks of Tokelau, in accordance with
                   Recommendation ITU-T E.212.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Denmark '
         phone_code: '45'
         contact:

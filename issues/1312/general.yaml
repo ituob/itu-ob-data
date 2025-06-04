@@ -282,7 +282,8 @@ messages:
                             text: 21.II.2025
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Andorra '
         phone_code: '376'
         contact:

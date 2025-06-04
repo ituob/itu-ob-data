@@ -123,7 +123,8 @@ messages:
                             text: 18.III.2024
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Georgia '
         phone_code: '995'
         contact:

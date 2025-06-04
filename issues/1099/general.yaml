@@ -158,7 +158,8 @@ messages:
                           - type: text
                             text: 8.IV.2016
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Moldova '
         phone_code: '373'
         contact:

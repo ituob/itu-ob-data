@@ -164,7 +164,8 @@ messages:
                             text: 8.V.2019
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Iran (Islamic Republic of) '
         phone_code: '98'
         contact:

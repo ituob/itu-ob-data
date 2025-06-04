@@ -84,7 +84,8 @@ messages:
               - type: text
                 text: "*\_\_\_\_ See current ITU Operational Bulletin No. 1108 of 15.IX.2016, pages 26-27."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Comoros '
         phone_code: '269'
         contact:

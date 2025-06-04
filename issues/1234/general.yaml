@@ -25,7 +25,8 @@ messages:
     by: AAP-117
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Cabo Verde '
         phone_code: '238'
         contact:

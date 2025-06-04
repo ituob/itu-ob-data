@@ -41,7 +41,8 @@ messages:
                   measure to prevent such misuse, in particular by not routing
                   or terminating numbers under 888.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Denmark '
         phone_code: '45'
         contact:

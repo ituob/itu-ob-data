@@ -622,7 +622,8 @@ messages:
                             text: 18.II.2022
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burkina Faso '
         phone_code: '226'
         contact:

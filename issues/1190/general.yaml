@@ -270,7 +270,8 @@ messages:
                             text: 15.I.2021
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Botswana '
         phone_code: '267'
         contact:

@@ -38,7 +38,8 @@ messages:
                   advertised without authority on IPRN websites. Such use of
                   numbers does not comply with Recommendation ITU-T E.190”
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Armenia '
         phone_code: '374'
         contact:

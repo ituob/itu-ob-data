@@ -101,7 +101,8 @@ messages:
               - type: text
                 text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ Code de zone/réseau sémaphore"
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Costa Rica '
         phone_code: '506'
         contact:

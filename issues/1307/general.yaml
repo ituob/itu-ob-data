@@ -14,7 +14,8 @@ messages:
     by: AAP-04
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Malta '
         phone_code: '356'
         contact:

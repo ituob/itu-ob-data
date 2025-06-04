@@ -146,7 +146,8 @@ messages:
                           - type: text
                             text: +883 5130
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Denmark '
         phone_code: '45'
         contact:

@@ -12,7 +12,8 @@ messages:
     by: AAP-81
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Andorra '
         phone_code: '376'
         contact:

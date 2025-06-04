@@ -72,7 +72,8 @@ messages:
               - type: text
                 text: "*\_\_\_\_ See current ITU Operational Bulletin No. 1047 of 1.III.2014, page 9 ."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Chile '
         phone_code: '56'
         contact:

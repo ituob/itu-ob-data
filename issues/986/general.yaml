@@ -38,7 +38,8 @@ messages:
               - type: text
                 text: " to the Republic of South Sudan. The\_ activation date of the country code 211 and the transition from the numbering plan of the actual country code (249) to the new country code (211) will be advised later."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Azerbaijan '
         phone_code: '994'
         contact:

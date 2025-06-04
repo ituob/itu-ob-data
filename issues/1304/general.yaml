@@ -264,7 +264,8 @@ messages:
                             text: 18.X.2025
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Congo '
         phone_code: '242'
         contact:

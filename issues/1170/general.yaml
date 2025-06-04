@@ -20,7 +20,8 @@ messages:
   - type: misc_communications
     contents: general/misc_comms.adoc
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Kenya '
         phone_code: '254'
         contact:

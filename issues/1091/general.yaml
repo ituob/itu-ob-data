@@ -274,7 +274,8 @@ messages:
                           - type: text
                             text: 15.XII.2015
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Brazil '
         phone_code: '55'
         contact:

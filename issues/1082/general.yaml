@@ -94,7 +94,8 @@ messages:
               - type: text
                 text: Código de zona/red de señalización (CZRS).
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Kuwait '
         phone_code: '965'
         contact:

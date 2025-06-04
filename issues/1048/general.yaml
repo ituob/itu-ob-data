@@ -10,7 +10,8 @@ messages:
     by: AAP-29
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Brazil '
         phone_code: '55'
         contact:

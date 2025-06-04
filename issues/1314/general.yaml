@@ -229,7 +229,8 @@ messages:
                             text: 24.III.2025
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Botswana '
         phone_code: '267'
         contact:

@@ -279,7 +279,8 @@ messages:
                             text: 1.II.2023
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Denmark '
         phone_code: '45'
         contact:

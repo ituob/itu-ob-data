@@ -110,7 +110,8 @@ messages:
                       title: null
                 text: lovemore.nhunzvi@telone.co.zw
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Aruba '
         phone_code: '297'
         contact:

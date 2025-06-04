@@ -15,7 +15,8 @@ messages:
     by: AAP-91
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Kenya '
         phone_code: '254'
         contact:

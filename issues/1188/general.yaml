@@ -121,7 +121,8 @@ messages:
               - type: text
                 text: Código de zona/red de señalización (CZRS).
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Bonaire, Sint Eustatius and Saba '
         phone_code: '599'
         contact:

@@ -38,7 +38,8 @@ messages:
                   reserved for Humanitarian purposes for pending further
                   studies, is returned to spare on 15 November 2021.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: Georgia
         phone_code: '995'
         contact:

@@ -207,7 +207,8 @@ messages:
                           - type: text
                             text: +882 97
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burkina Faso '
         phone_code: '226'
         contact:

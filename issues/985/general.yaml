@@ -53,7 +53,8 @@ messages:
                   as from 30 June 2011, in accordance with ITU-T Recommendation
                   E.212.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Australia '
         phone_code: '61'
         contact:

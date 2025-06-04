@@ -108,7 +108,8 @@ messages:
               - type: text
                 text: .
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Bahamas '
         phone_code: '1242'
         contact:

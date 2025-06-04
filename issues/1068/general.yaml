@@ -101,7 +101,8 @@ messages:
                       title: null
                 text: chiho-yim@ofca.gov.hk
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Bahrain '
         phone_code: '973'
         contact:

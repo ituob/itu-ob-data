@@ -125,7 +125,8 @@ messages:
                           - type: text
                             text: +882 42
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Netherlands '
         phone_code: '31'
         contact:

@@ -48,7 +48,8 @@ messages:
                   geographical areas, namely: Curaçao, Sint Maarten (Dutch part)
                   and the islands Bonaire, Sint Eustatius and Saba.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Bahrain '
         phone_code: '973'
         contact:

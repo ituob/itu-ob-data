@@ -14,7 +14,8 @@ messages:
     by: AAP-33
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Uganda '
         phone_code: '256'
         contact:

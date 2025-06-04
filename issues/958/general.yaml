@@ -254,7 +254,8 @@ messages:
               - type: text
                 text: "*\_\_\_\_\_ See present ITU Operational Bulletin No. 958 of 15.VI.2010, page 19."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Germany '
         phone_code: '49'
         contact:

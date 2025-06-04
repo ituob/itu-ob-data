@@ -173,7 +173,8 @@ messages:
                           - type: text
                             text: 7.VIII.2021
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Iran (Islamic Republic of) '
         phone_code: '98'
         contact:

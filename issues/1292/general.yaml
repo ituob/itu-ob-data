@@ -26,7 +26,8 @@ messages:
     by: AAP-50
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Benin '
         phone_code: '229'
         contact:

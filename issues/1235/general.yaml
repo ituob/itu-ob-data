@@ -191,7 +191,8 @@ messages:
                             text: 10.XII.2021
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Myanmar '
         phone_code: '95'
         contact:

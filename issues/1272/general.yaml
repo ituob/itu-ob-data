@@ -10,7 +10,8 @@ messages:
     by: AAP-31
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: >-
             Saint Pierre and Miquelon (Collectivité territoriale de la
             République française) 

@@ -11,7 +11,8 @@ messages:
     by: TSB Circular 19 of 7 February 2025
     procedures: Resolution 1
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Micronesia '
         phone_code: '691'
         contact:

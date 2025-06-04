@@ -125,7 +125,8 @@ messages:
                           - type: text
                             text: 28.VIII.2020
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Mauritius '
         phone_code: '230'
         contact:

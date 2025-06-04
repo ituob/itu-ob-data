@@ -11,7 +11,8 @@ messages:
     by: 'TSB Circular 206 '
     procedures: Resolution 1
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Mauritius '
         phone_code: '230'
         contact:

@@ -267,7 +267,8 @@ messages:
                             text: 21.XI.2022
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Seychelles '
         phone_code: '248'
         contact:

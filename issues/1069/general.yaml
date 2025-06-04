@@ -102,7 +102,8 @@ messages:
                   Identification Code 882 37 for the purpose of
                   machine-to-machine applications.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Afghanistan '
         phone_code: '93'
         contact:

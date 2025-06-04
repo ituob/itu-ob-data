@@ -12,7 +12,8 @@ messages:
     by: 'TSB Circular 266 '
     procedures: Resolution 1
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'China '
         phone_code: '86'
         contact:

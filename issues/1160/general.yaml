@@ -12,7 +12,8 @@ messages:
     by: AAP-46
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Liberia '
         phone_code: '231'
         contact:

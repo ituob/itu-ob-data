@@ -156,7 +156,8 @@ messages:
               - type: text
                 text: "Fax:\_\_\_ +54 11 6316 1007"
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Denmark '
         phone_code: '45'
         contact:

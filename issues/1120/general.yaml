@@ -267,7 +267,8 @@ messages:
                           - type: text
                             text: 7.III.2017
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burkina Faso '
         phone_code: '226'
         contact:

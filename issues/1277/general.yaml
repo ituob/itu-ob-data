@@ -168,7 +168,8 @@ messages:
                           - type: text
                             text: 19.IX.2023
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Morocco '
         phone_code: '212'
         contact:

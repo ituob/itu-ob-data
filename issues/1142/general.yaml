@@ -5,7 +5,8 @@ messages:
       - ROA
     type: running_annexes
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Azerbaijan '
         phone_code: '994'
         contact:

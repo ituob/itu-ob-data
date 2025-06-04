@@ -70,7 +70,8 @@ messages:
               - type: text
                 text: "*\_\_\_\_ See current ITU Operational Bulletin No. 1211 of 1.I.2021, page 11"
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Malta '
         phone_code: '356'
         contact:

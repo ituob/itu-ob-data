@@ -307,7 +307,8 @@ messages:
                             text: 7.II.2024
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Guyana '
         phone_code: '592'
         contact:

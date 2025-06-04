@@ -188,7 +188,8 @@ messages:
               - type: text
                 text: "*\_\_\_\_ See current ITU Operational Bulletin No. 1009 of 1.VIII.2012, page 12."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Burkina Faso '
         phone_code: '226'
         contact:

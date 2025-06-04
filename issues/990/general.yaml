@@ -144,7 +144,8 @@ messages:
               - type: text
                 text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ Código de zona/red de señalización"
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Bahrain '
         phone_code: '973'
         contact:

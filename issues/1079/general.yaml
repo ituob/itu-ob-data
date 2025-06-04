@@ -149,7 +149,8 @@ messages:
                           - type: text
                             text: 5.VI.2015
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Denmark '
         phone_code: '45'
         contact:

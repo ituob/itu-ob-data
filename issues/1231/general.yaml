@@ -23,7 +23,8 @@ messages:
     by: AAP-114
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'North Macedonia '
         phone_code: '389'
         contact:

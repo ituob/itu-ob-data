@@ -178,7 +178,8 @@ messages:
                             text: 1.XII.2022
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Mongolia '
         phone_code: '976'
         contact:

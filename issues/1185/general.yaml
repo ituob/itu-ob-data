@@ -25,7 +25,8 @@ messages:
     by: AAP-70
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: Seychelles
         phone_code: '1006'
         contact:

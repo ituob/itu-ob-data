@@ -162,7 +162,8 @@ messages:
               - type: text
                 text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ Código de zona/red de señalización (CZRS)."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Jordan '
         phone_code: '962'
         contact:

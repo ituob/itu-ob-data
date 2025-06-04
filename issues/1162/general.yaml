@@ -182,7 +182,8 @@ messages:
               - type: text
                 text: Código de zona/red de señalización (CZRS).
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'China '
         phone_code: '86'
         contact:

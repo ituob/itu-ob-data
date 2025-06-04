@@ -35,7 +35,8 @@ messages:
                   E.164 Country Code and Identification Code 882 28 for the
                   purpose of machine-to-machine applications.
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Brunei Darussalam '
         phone_code: '673'
         contact:

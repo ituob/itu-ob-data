@@ -239,7 +239,8 @@ messages:
               - type: text
                 text: ; mamadou.faye@artp.sn
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Armenia '
         phone_code: '374'
         contact:

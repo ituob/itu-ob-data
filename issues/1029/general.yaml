@@ -62,7 +62,8 @@ messages:
               - type: text
                 text: "*\_\_\_\_ See current ITU Operational Bulletin No. 1029 of 1.VI.2013, page 15."
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Belarus '
         phone_code: '375'
         contact:

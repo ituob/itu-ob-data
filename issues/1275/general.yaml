@@ -116,7 +116,8 @@ messages:
                             text: 10.VIII.2023
           - type: paragraph
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Iridium Satellite LLC '
         phone_code: +881 6 and +881 7
         contact:

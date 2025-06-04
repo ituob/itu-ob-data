@@ -12,7 +12,8 @@ messages:
     by: AAP-07
     procedures: Recommendation ITU-T A.8
   - contents:
-      - country_name:
+      - type: nnp
+        country_name:
           en: 'Belize '
         phone_code: '501'
         contact:
