@@ -1,0 +1,2401 @@
+messages:
+  - extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      X.1010: 2025-04-30T22:00:00.000Z
+      X.1285: 2025-04-30T22:00:00.000Z
+      X.1413: 2025-04-30T22:00:00.000Z
+      X.1646: 2025-04-30T22:00:00.000Z
+      X.1650: 2025-04-30T22:00:00.000Z
+      X.2013: 2025-04-30T22:00:00.000Z
+      X.2050: 2025-04-30T22:00:00.000Z
+    by: AAP-14
+    procedures: Recommendation ITU-T A.8
+  - contents:
+      - country_name:
+          en: 'Lebanon '
+        phone_code: '961'
+        contact:
+          en: |-
+            Eng. Bassel Al Ayoubi
+            Ministry of Telecommunications
+            General Director for Exploitation & Maintenance
+            Riad El-Solh Square
+            Bank's Street
+            BEIRUT
+            Lebanon
+            Tel: +961 1 979 161
+            Fax: +961 1 979 152
+        communications:
+          - date: 2025-05-26T04:43:59.126Z
+            contents:
+              en:
+                type: doc
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: 'The '
+                      - type: text
+                        marks:
+                          - type: em
+                        text: Ministry of Telecommunications
+                      - type: text
+                        text: >-
+                          , Beirut, announces that the numbering plan of Lebanon
+                          has been updated to include new range codes. It has
+                          been decided to introduce a new range into service as
+                          from May 26
+                      - type: text
+                        marks:
+                          - type: superscript
+                        text: th
+                      - type: text
+                        text: >-
+                          , 2025 (ministerial decisions No. 172/1, 173/1, dated
+                          May 5
+                      - type: text
+                        marks:
+                          - type: superscript
+                        text: th
+                      - type: text
+                        text: ', 2025).'
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          The new eleven-digit number range (including country
+                          code +961) is as follows:
+                  - type: table
+                    content:
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                      - type: strong
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 2
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Numbering ranges
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                      - type: strong
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: 'Area '
+                                  - type: hard_break
+                                    marks:
+                                      - type: em
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Code
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: From
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: To
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Designation
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '78'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 78 700 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 78 799 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      GSM number range (MIC2) (mobile network)
+                                      (touch)
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '79'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 79 325 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 79 399 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      GSM number range (MIC1) (mobile network)
+                                      (ALFA)
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          Accordingly, the Lebanese numbering plan has to be
+                          updated as follows:
+                  - type: table
+                    content:
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: 'Area '
+                                  - type: hard_break
+                                    marks:
+                                      - type: em
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Code
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Numbering length (including country code)
+                          - type: table_cell
+                            attrs:
+                              colspan: 2
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Numbering range
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Designation
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: From
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: To
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: (0)1
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: ten
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 1 000 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 1 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'PSTN number range for Beirut, "Used"'
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '21'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 21 000 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 21 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: PSTN number range for Beirut
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: (0)3
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: ten
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 000 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 100 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 200 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 300 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 400 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 500 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 600 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 700 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 800 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 900 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 099 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 199 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 299 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 399 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 499 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 599 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 699 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 799 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 899 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 3 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: (0)4
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: ten
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 4 000 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 4 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'PSTN number range for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: 'Mount Lebanon, Metn area,"Used"'
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '24'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 24 000 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 24 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'PSTN number range for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: 'Mount Lebanon, Metn area," Used"'
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: (0)5
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: ten
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 5 000 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 5 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'PSTN number range for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: 'Mount Lebanon, Chouf area, "Used"'
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '25'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 25 000 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 25 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'PSTN number range for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: 'Mount Lebanon, Chouf area, "Used"'
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: (0)6
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: ten
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 6 000 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 6 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'PSTN number range for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: North Lebanon "Used"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '26'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 26 000 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 26 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'PSTN number range for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: North Lebanon "Used"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: (0)7
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: ten
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 7 200 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 7 620 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 7 700 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 7 800 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 7 920 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 7 599 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 7 629 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 7 799 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 7 879 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 7 929 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'PSTN number range for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: South Lebanon "Used".
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '27'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 27 100 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 27 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'PSTN number range for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: South Lebanon "Used"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '70'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 000 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 100 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 200 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 300 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 400 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 500 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 600 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 700 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 800 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 900 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 099 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 199 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 299 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 399 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 499 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 599 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 699 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 799 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 899 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 70 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '71'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 000 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 100 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 200 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 300 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71450 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 500 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 600 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 700 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 800 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 900 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 099 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 199 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 299 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 399 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 499 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 599 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 699 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 799 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 899 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 71 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '76'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 000 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 100 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 300 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 400 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 500 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 600 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 700 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 800 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 900 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 099 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 199 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 399 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 499 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 599 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 699 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 799 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 899 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 76 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: '78'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: +961 78 700 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: +961 78 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: GSM number range (MIC2) "New"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '78'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 78 800 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 78 900 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 78 899 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 78 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC2)
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '79'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 79 100 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 79 300 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 79 199 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 79 324 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM number range "Used" (MIC1)
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: '79'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: +961 79 325 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: +961 79 399 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: strong
+                                    text: GSM number range (MIC1) "New"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '81'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 000 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 200 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 600 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 700 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 800 000
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 900 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 099 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 499 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 699 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 799 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 899 999
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 81 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM Number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM Number range "Used" (MIC1)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM Number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM Number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM Number range "Used" (MIC2)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GSM Number range "Used" (MIC2)
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: (0)8
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: ten
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 8 200 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 8 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: PSTN number range for Bekaa area "Used"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '28'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 28 200 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 28 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: PSTN number range for Bekaa area "Used"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: (0)9
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: ten
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 9 000 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 9 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      PSTN number range for Mount Lebanon, Jbeil
+                                      & Keserwan area "Used"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '29'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: eleven
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 29 000 000
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: +961 29 999 999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      PSTN number range for Mount Lebanon, Jbeil
+                                      & Keserwan area "Used"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_"
+      - country_name:
+          en: 'Liberia '
+        phone_code: '231'
+        contact:
+          en: "Liberia Telecommunications Authority (LTA)\nMenetamba Road\nCooper’s Beach Community\n1001 PAYNESVILLE\nLiberia\nEmail:\tinfo@lta.gov.lr\nURL:\t\twww.lta.gov.lr"
+        communications:
+          - date: 2025-05-22T04:44:30.910Z
+            contents:
+              en:
+                type: doc
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: 'The '
+                      - type: text
+                        marks:
+                          - type: em
+                        text: Liberia Telecommunications
+                      - type: text
+                        text: ' '
+                      - type: text
+                        marks:
+                          - type: em
+                        text: Authority (LTA)
+                      - type: text
+                        text: >-
+                          , Paynesville, announces updates to the national
+                          numbering plan for Liberia.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: Liberia uses a closed number scheme.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: 'New numbering blocks:'
+                  - type: table
+                    content:
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: >-
+                                      NDC (National Destination Code) or leading
+                                      digits or N(S)N (National (Significant)
+                                      Number)
+                          - type: table_cell
+                            attrs:
+                              colspan: 2
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: N(S)N number length
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: 'Usage of '
+                                  - type: hard_break
+                                    marks:
+                                      - type: em
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: ITU-T E.164 Number
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Additional information
+                                  - type: hard_break
+                                    marks:
+                                      - type: em
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: (Operator)
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Maximum length
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                    text: Minimum length
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 88Y (NDC)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Y = (9)
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: (889 XXXXXX)
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '9'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Non-geographic number for Mobile telephone
+                                      service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Lonestar Cell MTN
+                  - type: paragraph
+    type: telephone_service_2
+  - type: misc_communications
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Austria
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Communication of 22.V.2025:'
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  On the occasion of the "YOTA Month 2025" of the IARU-R1, the
+                  Austrian Administration authorizes an Austrian amateur station
+                  to use the special call sign 
+              - type: text
+                marks:
+                  - type: strong
+                text: 'OE0YOTA '
+              - type: text
+                text: "from 1 to 31 December\_2025."
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+      - country:
+          en: Türkiye
+        ob: 1286
+        page: 17
+      - country:
+          en: Bangladesh
+        ob: 1287
+        page: 16
+  - type: callback_procedures
