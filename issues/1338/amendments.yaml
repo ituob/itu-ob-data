@@ -1,1 +1,961 @@
-messages: []
+messages:
+  - type: amendment
+    target:
+      publication: E118_IIN
+      position_on: 2024-0-1
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "United States\_\_\_\_\_\_\_\_\_ ADD"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/
+                          - type: hard_break
+                            marks:
+                              - type: em
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Name/Address
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Issuer Identifier Number
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Contact
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: 'Effective '
+                          - type: hard_break
+                            marks:
+                              - type: em
+                          - type: text
+                            marks:
+                              - type: em
+                            text: date of usage
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: United States
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Space Exploration Technologies Corp. (SpaceX)
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '1 Rocket Road, Starbase TEXAS, 78521'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 89 1 085
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Marianne Lu / Sharon Zhang
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '1155 F St. NW, Suite 475'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'WASHINGTON, DC 20004'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel:\_\_\_\_\_\_\_\_\_\_\_ +1 737 396 2340"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail:\_\_\_\_ Marianne.Lu@spacex.com;"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Sharon.Zhang@spacex.com"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 23.III.2026
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: United States
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Barr Tell USA Inc.
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '218 East Park Ave., Ste. 522'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'LONG BEACH, NY 11561-3521'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 89 1 083
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Harold Barr / Tuli Deutsch
+                          - type: hard_break
+                          - type: text
+                            text: '218 East Park Ave., Ste. 522'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'LONG BEACH, NY 11561-3521'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel:\_\_\_\_\_\_\_\_\_\_\_ +1 516 708 0111"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Fax:\_\_\_\_\_\_\_\_\_\_ +1 212 812 6405"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Email:\_\_\_\_\_\_ hb@barrtell.com;"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ td@barrtell.com"
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 1.IV.2026
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "United States\_\_\_\_\_\_\_\_\_ LIR"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/
+                          - type: hard_break
+                            marks:
+                              - type: em
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Name/Address
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Issuer Identifier Number
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Contact
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: United States
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: DataXoom
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '25 Sundial Ave, Suite 316'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: MANCHESTER
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: NH 03103
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: 89 1 082
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Jen Davis / Kate Gleason
+                          - type: hard_break
+                          - type: text
+                            text: '25 Sundial Ave, Suite 316'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: MANCHESTER
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: NH 03103
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Tel:\_\_\_\_\_\_\_\_\_\_\_ +1 510 474 0044"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "E-mail:\_\_\_\_ Jen.davis@dataxoom.com;"
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ kate.gleason@dataxoom.com"
+          - type: paragraph
+  - type: amendment
+    target:
+      publication: E212_MNC
+      position_on: 2023-10-14T22:00:00.000Z
+    contents:
+      en:
+        type: doc
+        content:
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 2
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country / Geographical area
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: MCC + MNC
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Operator / Network
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 2
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "South Africa\_\_ ADD"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 655 20
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Vodacom Pty Ltd
+          - type: paragraph
+            content:
+              - type: text
+                text: 'MCC: Mobile Country Code'
+              - type: hard_break
+              - type: text
+                text: 'MNC: Mobile Network Code'
+  - type: amendment
+    target:
+      publication: M1400_ICC
+      position_on: 2014-8-15
+    contents:
+      en:
+        type: doc
+        content:
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country or area/ISO code
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Code
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Contact
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Name/Address
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: (carrier code)
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: "Germany (Federal Republic of) / DEU\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: LIR
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: weissblau-breitband UG (haftungsbeschränkt)
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Marktler Straße 63
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 84489 BURGHAUSEN
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: WBBAND
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Mr Wolfgang Schlichtner
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Tel: +49 8677 7664660'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'E-mail: techrole@hellmannsberger.de'
+  - type: amendment
+    target:
+      publication: Q708_ISPC
+      position_on: 2024-6-1
+    contents:
+      en:
+        type: doc
+        content:
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 2
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country / Geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 2
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Unique name of the signalling point
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 2
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Name of the signalling point operator
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: ISPC
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: DEC
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 4
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Gibraltar\_\_ ADD"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 7-201-1
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '15945'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '5161'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Melmasti Global (Gibraltar) Ltd “MCOM”
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 7-201-2
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '15946'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '5162'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Melmasti Global (Gibraltar) Ltd “MCOM”
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: ____________
+          - type: paragraph
+            content:
+              - type: text
+                text: 'ISPC: International Signalling Point Codes.'
+  - type: amendment
+    target:
+      publication: NNP
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Administrations are requested to notify ITU about their
+                  national numbering plan changes, or to give an explanation on
+                  their webpage concerning the national numbering plan as well
+                  as their contact points, so that the information, which will
+                  be made available freely to all administrations/ROAs and
+                  service providers, can be posted on the ITU-T website.
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  For their numbering website, or when sending their information
+                  to ITU/TSB (e-mail: 
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:tsbtson@itu/.int'
+                      title: null
+                text: tsbtson@itu.int
+              - type: text
+                text: >-
+                  ), administrations are kindly requested to use the format as
+                  explained in Recommendation ITU-T E.129. They are reminded
+                  that they will be responsible for the timely update of this
+                  information.
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  From 15.III.2026, the following countries/geographical areas
+                  have updated their national numbering plan on our site:
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/Geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country Code (CC)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Azerbaijan
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+994'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Guyana
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+592'
