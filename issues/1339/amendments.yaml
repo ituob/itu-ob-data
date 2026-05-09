@@ -1,1 +1,737 @@
-messages: []
+messages:
+  - type: amendment
+    target:
+      publication: R_SP_LM.V
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: REP
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: GR01
+              - type: text
+                text: "\_\_\_\_\_\_ ORBIT-MARITEL, 6 Astiggos, Karaiskaki Square, 18531 Piraeus, Greece,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ E-mail: panagiotis.parousis@orbyt-maritel.com,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Tel: +30 210 7007600, +30 210 7007624,"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Contact Person: Mr. Panagiotis Parousis."
+  - type: amendment
+    target:
+      publication: E212_MNC
+      position_on: 2023-10-14T22:00:00.000Z
+    contents:
+      en:
+        type: doc
+        content:
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 2
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/Geographical area
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: MCC + MNC
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Operator / Network
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 2
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Canada\_\_ SUP"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 302 151
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Cogeco Connexion Inc.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 302 152
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Cogeco Connexion Inc.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 302 160
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Sugar Mobile Inc.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 2
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Canada\_\_ ADD"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 302 480
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: SSi Connexions Inc.
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 2
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "Canada\_\_ LIR"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 302 480
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: SSi Micro Ltd.
+          - type: paragraph
+            content:
+              - type: text
+                text: 'MCC: Mobile Country Code'
+              - type: hard_break
+              - type: text
+                text: 'MNC: Mobile Network Code'
+              - type: hard_break
+              - type: hard_break
+  - type: amendment
+    target:
+      publication: M1400_ICC
+      position_on: 2014-8-15
+    contents:
+      en:
+        type: doc
+        content:
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country or area/ISO code
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Code
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Contact
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Company Name/Address
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: (carrier code)
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                  - type: strong
+                text: "Germany (Federal Republic of) / DEU\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ "
+              - type: text
+                marks:
+                  - type: strong
+                text: ADD
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Aircall SAS
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 11-15 rue Saint Georges
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: F-75009 PARIS
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Frankreich
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: AIRCAL
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Alain Bensimon
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Tel.: +1 941 726 3385'
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'E-mail: telcoupdates@aircall.io'
+  - type: amendment
+    target:
+      publication: Q708_ISPC
+      position_on: 2024-6-1
+    contents:
+      en:
+        type: doc
+        content:
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 2
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country / Geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 2
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Unique name of the signalling point
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 2
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Name of the signalling point operator
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: ISPC
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: DEC
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 4
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "South Africa\_\_ ADD"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 6-113-3
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '13195'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: GQvSTP
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: MTN Pty Ltd
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 4
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: "United States\_\_ ADD"
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 3-187-3
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '7643'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Jacksonville Beach, FL'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Latam Telecommunications, L.L.C.'
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 3-203-0
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '7768'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Jacksonville Beach, FL'
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Latam Telecommunications, L.L.C.'
+          - type: paragraph
+            content:
+              - type: text
+                text: 'ISPC: International Signalling Point Codes.'
+  - type: amendment
+    target:
+      publication: NNP
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Administrations are requested to notify ITU about their
+                  national numbering plan changes, or to give an explanation on
+                  their webpage concerning the national numbering plan as well
+                  as their contact points, so that the information, which will
+                  be made available freely to all administrations/ROAs and
+                  service providers, can be posted on the ITU-T website.
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  For their numbering website, or when sending their information
+                  to ITU/TSB (e-mail: 
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:tsbtson@itu/.int'
+                      title: null
+                text: tsbtson@itu.int
+              - type: text
+                text: >-
+                  ), administrations are kindly requested to use the format as
+                  explained in Recommendation ITU-T E.129. They are reminded
+                  that they will be responsible for the timely update of this
+                  information.
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  From 1.IV.2026, the following countries/geographical areas
+                  have updated their national numbering plan on our site:
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country/Geographical area
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Country Code (CC)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Hungary
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: '+36'
+          - type: paragraph
