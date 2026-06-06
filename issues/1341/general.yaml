@@ -1,0 +1,2110 @@
+messages:
+  - extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      X.1901: 2026-03-31T22:00:00.000Z
+    by: CIR-107
+    procedures: Resolution 1
+  - type: iptn
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Note from TSB
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  On the conclusion of the agreement on the joint use of the
+                  international E.164 numbering resource of the numbering zone
+                  “7”, the previously reserved country code “
+              - type: text
+                marks:
+                  - type: strong
+                text: '997'
+              - type: text
+                text: '” for Kazakhstan (Republic of), is '
+              - type: text
+                marks:
+                  - type: strong
+                text: returned
+              - type: text
+                text: ' to spare.'
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Note from TSB
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                text: Identification codes for IoT/M2M
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Associated with shared country code 883 for IoT/M2M, with some
+                  exceptions made for other uses due to historical reasons, the
+                  following three-digit identification codes have been 
+              - type: text
+                marks:
+                  - type: strong
+                text: assigned
+              - type: text
+                text: ':'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Applicant
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Network
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: 'Country Code and '
+                          - type: hard_break
+                            marks:
+                              - type: em
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Identification Code
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: em
+                            text: Date of assignment
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Bondio Limited
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Bondio Limited
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: +883 180
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 8.V.2026
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Onomondo ApS
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Onomondo ApS
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: +883 270
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 8.V.2026
+          - type: paragraph
+  - contents:
+      - country_name:
+          en: 'Malta '
+        phone_code: '356'
+        contact:
+          en: "Alistair Farrugia / Deborah Pisani \nMalta Communications Authority (MCA)\nValletta Waterfront\nPinto Wharf\nFloriana FRN1913\nMalta\nTel:\t+356 2133 6840\nE-mail:\tnumbering@mca.org.mt\nURL:\twww.mca.org.mt"
+        communications:
+          - date: 2026-05-15T10:58:53.696Z
+            contents:
+              en:
+                type: doc
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: 'The '
+                      - type: text
+                        marks:
+                          - type: em
+                        text: Malta Communications Authority (MCA)
+                      - type: text
+                        text: >-
+                          , Floriana, announces an update of the National
+                          Numbering Plan (NNP) of Malta. The main numbering
+                          ranges are:
+                  - type: table
+                    content:
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                      - type: strong
+                                    text: Service
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                      - type: strong
+                                    text: Operator
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    marks:
+                                      - type: em
+                                      - type: strong
+                                    text: Numbering Ranges
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 10
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Fixed
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GO
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 2100 ‒ 2399 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 2500 ‒ 2599 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 5
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Melita
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 2600 ‒ 2609 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 2700 ‒ 2799 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 2010 ‒ 2018 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 2060 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 2065 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Vanilla
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 2031 ‒ 2034 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 2069 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Epic
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 2090 ‒ 2099 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 10
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Mobile
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 3
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GO Mobile
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 7900 ‒ 7999 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 9889 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 7210 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 5
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Epic
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 9900 ‒ 9999 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 9696 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 9897 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 9210 ‒ 9211 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 9231 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 2
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Melita Mobile
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 7700 ‒ 7799 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 9811 ‒ 9813 XXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 6
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'M2M/IoT Connectivity Services and other '
+                                  - type: hard_break
+                                  - type: text
+                                    text: Non-Interpersonal Communications Services
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 4
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Melita
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 40001 – 40051 XXXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 40060 – 40069 XXXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 40080 – 40089 XXXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 40100 – 40109 XXXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: GO
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 40079 XXXXX
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: Epic
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 40099 XXXXX
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "All Administrations and Recognized Operating Agencies (ROAs) are requested to urgently programme their switches to enable immediate access to these numbering ranges. \_Furthermore, the National Numbering Plan is updated in real-time and is made available on the MCA website at the following link: "
+                      - type: hard_break
+                      - type: text
+                        marks:
+                          - type: link
+                            attrs:
+                              href: >-
+                                https://www.mca.org.mt/regulatory/numbering/numbering-plans
+                              title: null
+                        text: >-
+                          https://www.mca.org.mt/regulatory/numbering/numbering-plans
+                      - type: text
+                        text: .
+      - country_name:
+          en: 'Kazakhstan '
+        phone_code: '7'
+        contact:
+          en: "Ministry of Artificial Intelligence and Digital Development\n8, Mangilik El Street,\nASTANA 010000,\nKazakhstan\nTel:\t+7 7172 61 3323\nE-mail:\tmoap@mdai.gov.kz\n\nMinistry of Digital Development, Communications and Mass Media of the Russian Federation\n7, Tverskaya Street,\nMOSCOW 125375, \nRussian Federation \nTel: \t+7 495 771 8100 \nE-mail:\toffice@digital.gov.ru"
+        communications:
+          - date: 2026-05-04T13:16:06.970Z
+            contents:
+              en:
+                type: doc
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          The Government of the Republic of Kazakhstan and the
+                          Government of the Russian Federation have concluded an
+                          agreement on the joint use of the international E.164
+                          numbering resource of the numbering zone “7”. This
+                          Agreement is concluded for an indefinite period and
+                          has been entered into force on 3 December 2025.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          Previously, the Agreement was concluded between the
+                          communications authorities of the two countries. The
+                          new Agreement has been signed between the Governments,
+                          granting the parties an intergovernmental status.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          The previous Agreement stipulated a 6-month
+                          notification period for either Party to terminate the
+                          Agreement. Under the new Agreement, this notification
+                          period has been extended to 24 months.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          This update emphasizes that the Republic of Kazakhstan
+                          acts as an equal partner and is allocated the
+                          following codes: +7 0, +7 6, +7 7.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          The authorized bodies for the implementation of this
+                          Agreement are:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ for the Republic of Kazakhstan - the Ministry of Digital Development, Innovations and Aerospace Industry of the Republic of Kazakhstan;"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ for the Russian Federation - the Ministry of Digital Development, Communications and Mass Media of the Russian Federation."
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          Under the Agreement, the Russian Federation and the
+                          Republic of Kazakhstan retain the numbering zone “7”,
+                          pursuant to the Table of assigned codes of the
+                          numbering zone “7”.
+                  - type: paragraph
+                    content:
+                      - type: hard_break
+                      - type: text
+                        marks:
+                          - type: strong
+                        text: >-
+                          Table assignment of the codes under the numbering zone
+                          “7” of the international E.164 numbering resource to
+                          the Republic of Kazakhstan and the Russian Federation
+                  - type: table
+                    content:
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'Code ranges for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: 'exclusive use of the '
+                                  - type: hard_break
+                                  - type: text
+                                    text: Russian Federation
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'Code ranges for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: 'exclusive use of the '
+                                  - type: hard_break
+                                  - type: text
+                                    text: Republic of Kazakhstan
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Code ranges shared between the Republic of
+                                      Kazakhstan and the Russian Federation*
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 000-099
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 100-199
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 200-299
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 300-399
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 400-499
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 500-599
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 600-699
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 700-799
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '810-818, 820-821, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '831, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '833-836, 840-848, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '850-851, 855-857, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '860-863, 865-867, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '869, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '871-873, 877-880**'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 800-809
+                                  - type: hard_break
+                                  - type: text
+                                    text: 881-899
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 900-999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          * When sharing numbering code ranges the Parties
+                          shall:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "1)\_\_\_\_\_\_\_\_\_ independently assign codes within the shared numbering code ranges in accordance with the national legislation of the Parties;"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "2)\_\_\_\_\_\_\_\_\_ make use of numbering in the specified numbering code ranges exclusively in their respective national telephone networks."
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          ** Unassigned code resources (26 codes: 819, 822-829,
+                          830, 832, 837-839, 849, 852-854, 858-859, 864, 868,
+                          870, 874-876) are retained in the common reserve.
+                          Withdrawal from the reserve and the subsequent
+                          reassignment of the unassigned code resources shall be
+                          conducted by mutual consent of the Parties and
+                          formalized by separate protocols to the Agreement
+                          between the Government of the Republic of Kazakhstan
+                          and the Government of the Russian Federation on the
+                          joint use of numbering for world numbering zone 7,
+                          which shall become integral parts of this Agreement.
+      - country_name:
+          en: 'Russian Federation '
+        phone_code: '7'
+        contact:
+          en: "Ministry of Artificial Intelligence and Digital Development\n8, Mangilik El Street,\nASTANA 010000,\nKazakhstan\nTel:\t+7 7172 61 3323\nE-mail:\tmoap@mdai.gov.kz\n\nMinistry of Digital Development, Communications and Mass Media of the Russian Federation\n7, Tverskaya Street,\nMOSCOW 125375, \nRussian Federation \nTel: \t+7 495 771 8100 \nE-mail:\toffice@digital.gov.ru"
+        communications:
+          - date: 2026-05-04T13:17:01.053Z
+            contents:
+              en:
+                type: doc
+                content:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          The Government of the Republic of Kazakhstan and the
+                          Government of the Russian Federation have concluded an
+                          agreement on the joint use of the international E.164
+                          numbering resource of the numbering zone “7”. This
+                          Agreement is concluded for an indefinite period and
+                          has been entered into force on 3 December 2025.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          Previously, the Agreement was concluded between the
+                          communications authorities of the two countries. The
+                          new Agreement has been signed between the Governments,
+                          granting the parties an intergovernmental status.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          The previous Agreement stipulated a 6-month
+                          notification period for either Party to terminate the
+                          Agreement. Under the new Agreement, this notification
+                          period has been extended to 24 months.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          This update emphasizes that the Republic of Kazakhstan
+                          acts as an equal partner and is allocated the
+                          following codes: +7 0, +7 6, +7 7.
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          The authorized bodies for the implementation of this
+                          Agreement are:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ for the Republic of Kazakhstan - the Ministry of Digital Development, Innovations and Aerospace Industry of the Republic of Kazakhstan;"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ for the Russian Federation - the Ministry of Digital Development, Communications and Mass Media of the Russian Federation."
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          Under the Agreement, the Russian Federation and the
+                          Republic of Kazakhstan retain the numbering zone “7”,
+                          pursuant to the Table of assigned codes of the
+                          numbering zone “7”.
+                  - type: paragraph
+                    content:
+                      - type: hard_break
+                      - type: text
+                        marks:
+                          - type: strong
+                        text: >-
+                          Table assignment of the codes under the numbering zone
+                          “7” of the international E.164 numbering resource to
+                          the Republic of Kazakhstan and the Russian Federation
+                  - type: table
+                    content:
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'Code ranges for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: 'exclusive use of the '
+                                  - type: hard_break
+                                  - type: text
+                                    text: Russian Federation
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 'Code ranges for '
+                                  - type: hard_break
+                                  - type: text
+                                    text: 'exclusive use of the '
+                                  - type: hard_break
+                                  - type: text
+                                    text: Republic of Kazakhstan
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: >-
+                                      Code ranges shared between the Republic of
+                                      Kazakhstan and the Russian Federation*
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 000-099
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 100-199
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 200-299
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 300-399
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 400-499
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 500-599
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 600-699
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 700-799
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: '810-818, 820-821, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '831, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '833-836, 840-848, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '850-851, 855-857, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '860-863, 865-867, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '869, '
+                                  - type: hard_break
+                                  - type: text
+                                    text: '871-873, 877-880**'
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 800-809
+                                  - type: hard_break
+                                  - type: text
+                                    text: 881-899
+                      - type: table_row
+                        content:
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: 900-999
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                          - type: table_cell
+                            attrs:
+                              colspan: 1
+                              rowspan: 1
+                              colwidth: null
+                            content:
+                              - type: paragraph
+                                content:
+                                  - type: text
+                                    text: "\_"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "\_\_"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          * When sharing numbering code ranges the Parties
+                          shall:
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "1)\_\_\_\_\_\_\_\_\_ independently assign codes within the shared numbering code ranges in accordance with the national legislation of the Parties;"
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: "2)\_\_\_\_\_\_\_\_\_ make use of numbering in the specified numbering code ranges exclusively in their respective national telephone networks."
+                  - type: paragraph
+                    content:
+                      - type: text
+                        text: >-
+                          ** Unassigned code resources (26 codes: 819, 822-829,
+                          830, 832, 837-839, 849, 852-854, 858-859, 864, 868,
+                          870, 874-876) are retained in the common reserve.
+                          Withdrawal from the reserve and the subsequent
+                          reassignment of the unassigned code resources shall be
+                          conducted by mutual consent of the Parties and
+                          formalized by separate protocols to the Agreement
+                          between the Government of the Republic of Kazakhstan
+                          and the Government of the Russian Federation on the
+                          joint use of numbering for world numbering zone 7,
+                          which shall become integral parts of this Agreement.
+    type: telephone_service_2
+  - type: ipns
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Note from TSB
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: em
+                text: Identification codes for International Mobile Networks
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  Associated with shared mobile country code 901 (MCC), the
+                  following two-digit mobile network code (MNC) have been 
+              - type: text
+                marks:
+                  - type: strong
+                text: assigned
+              - type: text
+                text: .
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Network
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Mobile Country Code (MCC) and '
+                          - type: hard_break
+                          - type: text
+                            text: Mobile Network Code (MNC)
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 'Date of '
+                          - type: hard_break
+                          - type: text
+                            text: assignment
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Onomondo ApS
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 901 33
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: 8.V.2026
+          - type: paragraph
+  - type: custom
+    title:
+      en: Testing Laboratories recognized by ITU
+    recommendation: null
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                text: 'According to the '
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: >-
+                        https://www.itu.int/en/ITU-T/studygroups/com11/casc/Documents/TL-RP_pub_2022-07-15.pdf
+                      title: null
+                text: >-
+                  ITU-T Guideline on “Testing Laboratories recognition
+                  procedure” (2022)
+              - type: text
+                text: ' and based on the application and scope of accreditation received on 7 April 2026, the following Testing Laboratory, which fulfils the criteria defined in the clause 9 of the above-mentioned ITU-T Guideline, was registered in the ITU Testing Laboratory Database ('
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'https://itu.int/go/tldb'
+                      title: null
+                text: 'https://itu.int/go/tldb'
+              - type: text
+                text: '):'
+          - type: paragraph
+            content:
+              - type: text
+                text: "\_"
+          - type: table
+            content:
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Testing Laboratory
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Country
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: Scope of Accreditation
+                          - type: hard_break
+                            marks:
+                              - type: strong
+                          - type: text
+                            marks:
+                              - type: strong
+                            text: (ITU-T Recommendations)
+              - type: table_row
+                content:
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: >-
+                              Testing Center of State Enterprise “The Ukrainian
+                              State Centre of Radio Frequencies” (TC “UCRF”)
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Ukraine
+                  - type: table_cell
+                    attrs:
+                      colspan: 1
+                      rowspan: 1
+                      colwidth: null
+                    content:
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: К.21; К.20; К.44; K.50
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: >-
+                              G.168; G.661; G.664; G.671; G.691; G.693; G.695;
+                              G.703; G.704; G.707/Y.1322; G.708; G.711; G.712;
+                              G.723.1; G.726; G.727; G.729; G.775; G.781; G.783;
+                              G.784; G.785; G.797; G.811; G.812; G.813; G.821;
+                              G.823; G.825; G.826; G.832; G.841; G.861; G.957;
+                              G.959.1; G.961; G.983.1; G.991.1; G.991.2;
+                              G.992.1; G.992.3; G.992.5; G.993.1; G.993.2;
+                              G.993.5; G.1020; G.1030; G.1040; G.8251; G.8261;
+                              G.8262
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: Y.1540; Y.1541; Y.1542; Y.2617
+                      - type: paragraph
+                        content:
+                          - type: text
+                            text: >-
+                              Q.490; Q.511; Q.512; Q.541; Q.542; Q.543; Q.544;
+                              Q.551; Q.552; Q.553; Q.554; Q.699.1; Q.751.4;
+                              Q.752; Q.765; Q.765.1; Q.765.4; Q.765.5; Q.780;
+                              Q.781; Q.782; Q.784; Q.784.1; Q.784.2; Q.785;
+                              Q.785.2; Q.786; Q.787; Q.788; Q.1600; Q.1601;
+                              Q.1901; Q.1902.1; Q.1902.2; Q.1902.3; Q.1902.4;
+                              Q.1902.5; Q.1902.6; Q.1922.2; Q.1922.4; Q.1930;
+                              Q.1950; Q.1970; Q.1990; Q.2610
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Any queries can be addressed to '
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'mailto:conformity@itu.int'
+                      title: null
+                text: conformity@itu.int
+              - type: text
+                text: '. More details are available on ITU C&I Portal at: '
+              - type: text
+                marks:
+                  - type: link
+                    attrs:
+                      href: 'https://itu.int/go/citest'
+                      title: null
+                text: 'https://itu.int/go/citest'
+              - type: text
+                text: .
+  - type: misc_communications
+    contents:
+      en:
+        type: doc
+        content:
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Serbia
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Communication of 24.IV.2026:'
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  On the occasion of the International Sava River Day (1 June),
+                  the Serbian Administration authorizes radio stations of the
+                  Amateur Radio Club "Nikol Tesla" Sabac to use the special call
+                  sign 
+              - type: text
+                marks:
+                  - type: strong
+                text: YT1SAVA
+              - type: text
+                text: " from\_1 to 7 June\_2026."
+          - type: paragraph
+            content:
+              - type: text
+                marks:
+                  - type: strong
+                text: Austria
+          - type: paragraph
+            content:
+              - type: text
+                text: 'Communication of 8.V.2026:'
+          - type: paragraph
+            content:
+              - type: text
+                text: >-
+                  On the occasion of the "Internationales IARU-Jugendcamp in
+                  Wagrain", the Austrian Administration authorizes an Austrian
+                  amateur station to use the special call sign 
+              - type: text
+                marks:
+                  - type: strong
+                text: 'OE2YOTA '
+              - type: text
+                text: from 25 to 31 July 2026.
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+      - country:
+          en: Türkiye
+        ob: 1286
+        page: 17
+      - country:
+          en: Bangladesh
+        ob: 1287
+        page: 16
+  - type: callback_procedures
