@@ -1,0 +1,76 @@
+messages:
+  - extra_links:
+      - M1400_ICC
+      - BUREAUFAX
+      - ROA
+    type: running_annexes
+  - type: approved_recommendations
+    items:
+      Y.2258: 2026-07-31T22:00:00.000Z
+      Y.2326: 2026-07-31T22:00:00.000Z
+      Y.2354: 2026-07-31T22:00:00.000Z
+      'Y.2362 ': 2026-07-31T22:00:00.000Z
+      Y.2505: 2026-07-31T22:00:00.000Z
+      Y.3231: 2026-07-31T22:00:00.000Z
+      Y.3232: 2026-07-31T22:00:00.000Z
+      Y.3262: 2026-07-31T22:00:00.000Z
+      Y.3263: 2026-07-31T22:00:00.000Z
+      Y.3330: 2026-07-31T22:00:00.000Z
+      Y.3331: 2026-07-31T22:00:00.000Z
+      Y.3332: 2026-07-31T22:00:00.000Z
+      Y.3333: 2026-07-31T22:00:00.000Z
+      Y.3334: 2026-07-31T22:00:00.000Z
+      Y.3335: 2026-07-31T22:00:00.000Z
+      Y.3336: 2026-07-31T22:00:00.000Z
+      Y.3561: 2026-07-31T22:00:00.000Z
+      Y.3562: 2026-07-31T22:00:00.000Z
+      Y.3609: 2026-07-31T22:00:00.000Z
+      Y.3663: 2026-07-31T22:00:00.000Z
+      Y.3836: 2026-07-31T22:00:00.000Z
+      Y.3837: 2026-07-31T22:00:00.000Z
+      Y.3838: 2026-07-31T22:00:00.000Z
+    by: AAP-42
+    procedures: Recommendation ITU-T A.8
+  - type: service_restrictions
+    items:
+      - country:
+          en: Seychelles
+        ob: 1006
+        page: 13
+      - country:
+          en: Slovakia
+        ob: 1007
+        page: 12
+      - country:
+          en: Malaysia
+        ob: 1013
+        page: 5
+      - country:
+          en: Thailand
+        ob: 1034
+        page: 5
+      - country:
+          en: São Tomé and Principe
+        ob: 1039
+        page: 14
+      - country:
+          en: Uruguay
+        ob: 1039
+        page: 14
+      - country:
+          en: 'Hong Kong, China'
+        ob: 1068
+        page: 4
+      - country:
+          en: Ukraine
+        ob: 1148
+        page: 5
+      - country:
+          en: Türkiye
+        ob: 1286
+        page: 17
+      - country:
+          en: Bangladesh
+        ob: 1287
+        page: 16
+  - type: callback_procedures
