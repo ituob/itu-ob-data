@@ -1,4 +1,7 @@
 id: 669
+# Data for this edition is not fully populated (the deployed site
+# carries the same disclaimer).
+incomplete: true
 publication_date: 1998-06-01
 cutoff_date: 1998-05-25
 issn: 1564-5223
