@@ -6,23 +6,6 @@ messages:
     type: running_annexes
   - type: sanc
     contents:
-      '0': g
-      '1': e
-      '2': n
-      '3': e
-      '4': r
-      '5': a
-      '6': l
-      '7': /
-      '8': s
-      '9': a
-      '10': n
-      '11': c
-      '12': .
-      '13': a
-      '14': d
-      '15': o
-      '16': c
       en:
         type: doc
         content:
@@ -150,23 +133,6 @@ messages:
                 text: "\_\_\_\_\_\_\_\_\_\_\_\_\_ Código de zona/red de señalización (CZRS)."
   - type: iptn
     contents:
-      '0': g
-      '1': e
-      '2': n
-      '3': e
-      '4': r
-      '5': a
-      '6': l
-      '7': /
-      '8': i
-      '9': p
-      '10': t
-      '11': n
-      '12': .
-      '13': a
-      '14': d
-      '15': o
-      '16': c
       en:
         type: doc
         content:
@@ -1585,23 +1551,6 @@ messages:
     type: telephone_service_2
   - type: ipns
     contents:
-      '0': g
-      '1': e
-      '2': n
-      '3': e
-      '4': r
-      '5': a
-      '6': l
-      '7': /
-      '8': i
-      '9': p
-      '10': n
-      '11': s
-      '12': .
-      '13': a
-      '14': d
-      '15': o
-      '16': c
       en:
         type: doc
         content:
