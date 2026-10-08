@@ -3,3 +3,4 @@ title:
   en: Reference algorithm for computing peak signal to noise ratio of a processed
     video sequence with compensation for constant spatial shifts, constant temporal
     shift, and constant luminance gain and offset
+id: J.340
