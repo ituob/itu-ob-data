@@ -13,22 +13,6 @@ messages:
       E.217: 2019-03-01
   - type: mid
     contents:
-      '0': g
-      '1': e
-      '2': n
-      '3': e
-      '4': r
-      '5': a
-      '6': l
-      '7': /
-      '8': m
-      '9': i
-      '10': d
-      '11': .
-      '12': a
-      '13': d
-      '14': o
-      '15': c
       en:
         type: doc
         content:
@@ -624,23 +608,6 @@ messages:
     type: telephone_service_2
   - type: sanc
     contents:
-      '0': g
-      '1': e
-      '2': n
-      '3': e
-      '4': r
-      '5': a
-      '6': l
-      '7': /
-      '8': s
-      '9': a
-      '10': n
-      '11': c
-      '12': .
-      '13': a
-      '14': d
-      '15': o
-      '16': c
       en:
         type: doc
         content:
