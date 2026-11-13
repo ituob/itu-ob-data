@@ -1,0 +1,9 @@
+type: ADD
+ob_issue_no: '1351'
+identifier: {code: '1351-001'}
+data:
+  _class: E212MNCAmendment
+  entries:
+  - mcc_mnc_codes: '999 99'
+    country_or_area: {en: Example}
+    networks: Exact authored input
