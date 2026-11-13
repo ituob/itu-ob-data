@@ -1,0 +1,37 @@
+name: validate-ob-issues
+
+# Gates pull requests that add action patches to the patch log (ob-issues/).
+# The patch log is the source of truth: nothing writes to main directly, and
+# full-state files are produced from it by the pipeline, never authored here.
+
+on:
+  pull_request:
+    paths:
+      - "ob-issues/**"
+      - ".github/workflows/validate-ob-issues.yml"
+      - ".github/scripts/*patch-log*"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-ob-issues-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  patch-log:
+    name: Patch log is append-only
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Test the patch-log check
+        run: .github/scripts/test-check-patch-log.sh
+
+      - name: Only new patch files under ob-issues/
+        run: >-
+          .github/scripts/check-patch-log.sh
+          "${{ github.event.pull_request.base.sha }}"
+          "${{ github.event.pull_request.head.sha }}"

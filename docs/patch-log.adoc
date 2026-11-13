@@ -1,0 +1,43 @@
+= The patch log
+
+`ob-issues/` holds the Operational Bulletin's register changes as action
+patches. It is the source of truth for register data: register lists,
+snapshots and exports are projections that the pipeline in
+https://github.com/ituob/service-publications-docs[service-publications-docs]
+replays from these patches. They are never written by hand.
+
+== Layout
+
+----
+ob-issues/{issue}/{register}/{NNN}-{TYPE}.yaml
+----
+
+* `{issue}`: the OB issue number, for example `1170`.
+* `{register}`: the register slug, for example `e212-mnc`.
+* `{NNN}`: three-digit order of the action within that issue and register.
+* `{TYPE}`: one of `ADD`, `SUP`, `REP`, `LIR`, `MOD`, `DEL`, `SEED`.
+
+Each file is one action. Its payload is typed by the LML ontology
+(`messages.lml`): `ADD` carries the complete new item, `REP`/`MOD` the key
+and the new values, `SUP`/`DEL` the key.
+
+== Changing data
+
+* Every change is a pull request. Nothing is pushed to `main` directly.
+* The log only grows. A correction is a new action in a later patch, never
+  an edit, rename or deletion of an existing patch file. The
+  `validate-ob-issues` workflow rejects a pull request that rewrites one.
+* A bulk import is a reviewed patch series (a `SEED` or computed actions),
+  never a full-state file.
+
+== Gates
+
+`validate-ob-issues` runs on every pull request that touches `ob-issues/`:
+
+. *Append-only*: only new, correctly named patch files.
+. *Gate chain* (added once the reusable workflow in
+  service-publications-docs exists): the pull request's patch files are
+  copied unchanged into the pipeline, validated against the LML ontology,
+  cross-reference checked and replayed. The run records each file's
+  checksum before and after replay, so it proves the exact submitted
+  patch was the one replayed.
