@@ -35,3 +35,14 @@ jobs:
           .github/scripts/check-patch-log.sh
           "${{ github.event.pull_request.base.sha }}"
           "${{ github.event.pull_request.head.sha }}"
+
+  gate-chain:
+    name: Gate chain on the authored patches
+    needs: patch-log
+    # The workflow pin and service_ref must name the same service commit.
+    uses: ituob/service-publications-docs/.github/workflows/validate-itu-ob-data.yml@789a60267b8968e5934583276a189bb50c023069
+    with:
+      data_repository: ituob/itu-ob-data
+      data_ref: ${{ github.event.pull_request.head.sha }}
+      base_ref: ${{ github.event.pull_request.base.sha }}
+      service_ref: 789a60267b8968e5934583276a189bb50c023069

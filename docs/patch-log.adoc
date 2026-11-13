@@ -17,7 +17,9 @@ ob-issues/{issue}/{register}/{NNN}-{TYPE}.yaml
 * `{NNN}`: three-digit order of the action within that issue and register.
 * `{TYPE}`: one of `ADD`, `SUP`, `REP`, `LIR`, `MOD`, `DEL`, `SEED`.
 
-Each file is one action. Its payload is typed by the LML ontology
+A new issue may also add `ob-issues/{issue}/meta.yaml`, its issue metadata.
+
+Each action file is one action. Its payload is typed by the LML ontology
 (`messages.lml`): `ADD` carries the complete new item, `REP`/`MOD` the key
 and the new values, `SUP`/`DEL` the key.
 
@@ -25,7 +27,7 @@ and the new values, `SUP`/`DEL` the key.
 
 * Every change is a pull request. Nothing is pushed to `main` directly.
 * The log only grows. A correction is a new action in a later patch, never
-  an edit, rename or deletion of an existing patch file. The
+  an edit, rename or deletion of an existing patch or metadata file. The
   `validate-ob-issues` workflow rejects a pull request that rewrites one.
 * A bulk import is a reviewed patch series (a `SEED` or computed actions),
   never a full-state file.
@@ -34,10 +36,11 @@ and the new values, `SUP`/`DEL` the key.
 
 `validate-ob-issues` runs on every pull request that touches `ob-issues/`:
 
-. *Append-only*: only new, correctly named patch files.
-. *Gate chain* (added once the reusable workflow in
-  service-publications-docs exists): the pull request's patch files are
-  copied unchanged into the pipeline, validated against the LML ontology,
-  cross-reference checked and replayed. The run records each file's
-  checksum before and after replay, so it proves the exact submitted
-  patch was the one replayed.
+. *Append-only*: only new, correctly named patch and metadata files.
+. *Gate chain*: the reusable `validate-itu-ob-data` workflow in
+  service-publications-docs, pinned to one commit, copies the pull
+  request's authored files unchanged into the pipeline, validates them
+  against the LML message and item models, regenerates the projections,
+  checks that each incoming action appears in replay, and verifies the
+  files' checksums after the gates, so the exact submitted patch is the one
+  that was tested.

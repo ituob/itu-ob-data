@@ -40,6 +40,24 @@ git mv ob-issues/1170/e212-mnc/001-ADD.yaml ob-issues/1170/e212-mnc/009-ADD.yaml
 git commit -qm rename
 expect FAIL "renaming a patch is rejected"
 
+mkdir -p ob-issues/1351 && echo "id: 1351" > ob-issues/1351/meta.yaml
+git add . && git commit -qm meta
+expect PASS "a new issue's meta.yaml is accepted"
+
+echo "id: 1170" > ob-issues/1170/meta.yaml
+git add . && git commit -qm meta-base
+base2="$(git rev-parse HEAD)"
+echo "id: 9999" > ob-issues/1170/meta.yaml
+git commit -qam meta-edit
+got=PASS; "$check" "$base2" HEAD > /dev/null || got=FAIL
+[ "$got" = FAIL ] || { echo "not ok: editing meta.yaml is rejected"; exit 1; }
+echo "ok: editing meta.yaml is rejected"
+git reset -q --hard "$base"
+
+mkdir -p ob-issues/0001 && echo "id: 1" > ob-issues/0001/meta.yaml
+git add . && git commit -qm leadingzero
+expect FAIL "an issue number with a leading zero is rejected"
+
 echo "x: 1" > ob-issues/1170/e212-mnc/data.yaml
 git add . && git commit -qm fullstate
 expect FAIL "a file that is not a NNN-TYPE patch is rejected"
