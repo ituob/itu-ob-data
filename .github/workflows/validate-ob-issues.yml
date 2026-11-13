@@ -40,9 +40,9 @@ jobs:
     name: Gate chain on the authored patches
     needs: patch-log
     # The workflow pin and service_ref must name the same service commit.
-    uses: ituob/service-publications-docs/.github/workflows/validate-itu-ob-data.yml@fc626fc7110db64653f82e7c0c226fd8c38330d0
+    uses: ituob/service-publications-docs/.github/workflows/validate-itu-ob-data.yml@751319a91c15459ca15f414a4591a3de008497d0
     with:
       data_repository: ituob/itu-ob-data
       data_ref: ${{ github.event.pull_request.head.sha }}
       base_ref: ${{ github.event.pull_request.base.sha }}
-      service_ref: fc626fc7110db64653f82e7c0c226fd8c38330d0
+      service_ref: 751319a91c15459ca15f414a4591a3de008497d0
